@@ -1,0 +1,437 @@
+[
+ {
+  "type": "node",
+  "id": 1949279940,
+  "lat": 46.8756894,
+  "lon": -96.7850197,
+  "tags": {
+   "addr:housenumber": "402",
+   "amenity": "courthouse",
+   "name": "City of Fargo Municipal Court",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "type": "node",
+  "id": 2659807214,
+  "lat": 46.8783252,
+  "lon": -96.788102,
+  "tags": {
+   "addr:city": "Fargo",
+   "addr:housename": "Loretta Building",
+   "addr:housenumber": "210",
+   "addr:postcode": "58102",
+   "addr:street": "North Broadway Drive",
+   "addr:unit": "300",
+   "level": "3",
+   "name": "Kilbourne Group",
+   "office": "company",
+   "phone": "+1-701-235-8923",
+   "website": "https://kilbournegroup.com",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3220983400,
+  "lat": 46.879896,
+  "lon": -96.7882576,
+  "tags": {
+   "addr:housenumber": "322",
+   "addr:street": "North Broadway Drive",
+   "entrance": "yes",
+   "office": "yes"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451080,
+  "lat": 46.8760516,
+  "lon": -96.78812,
+  "tags": {
+   "level": "3",
+   "name": "Bradferd Associates",
+   "office": "financial"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451082,
+  "lat": 46.8792451,
+  "lon": -96.7889596,
+  "tags": {
+   "addr:housenumber": "305",
+   "name": "Command Center",
+   "office": "labor",
+   "wheelchair": "no"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451084,
+  "lat": 46.8770563,
+  "lon": -96.7893502,
+  "tags": {
+   "addr:housenumber": "631",
+   "addr:street": "1st Avenue North",
+   "entrance": "yes",
+   "name": "Dakotah Foundation",
+   "office": "yes"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451086,
+  "lat": 46.8775223,
+  "lon": -96.7903425,
+  "tags": {
+   "name": "EAPC",
+   "office": "architect",
+   "website": "https://www.eapc.net/"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451088,
+  "lat": 46.8760528,
+  "lon": -96.7881485,
+  "tags": {
+   "level": "2",
+   "name": "Financial Advantage",
+   "office": "financial"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451089,
+  "lat": 46.8774997,
+  "lon": -96.7899846,
+  "tags": {
+   "name": "Golden Growers Cooperative",
+   "office": "yes"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451105,
+  "lat": 46.8760531,
+  "lon": -96.7881689,
+  "tags": {
+   "level": "2",
+   "name": "O'Leary & Company",
+   "office": "financial"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451108,
+  "lat": 46.8791566,
+  "lon": -96.7889859,
+  "tags": {
+   "addr:housenumber": "303",
+   "name": "Rosenquist & Arnason, PLLP",
+   "office": "lawyer",
+   "phone": "+1 701-639-4941",
+   "short_name": "R&A",
+   "wheelchair": "no"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3236451110,
+  "lat": 46.8774391,
+  "lon": -96.7900041,
+  "tags": {
+   "brand": "State Farm",
+   "brand:wikidata": "Q2007336",
+   "name": "State Farm",
+   "office": "insurance",
+   "phone": "+1 701 232 5585"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3267124274,
+  "lat": 46.8754512,
+  "lon": -96.7881618,
+  "tags": {
+   "addr:suite": "218",
+   "level": "2",
+   "name": "Friends of Chimbote",
+   "office": "association"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3267124275,
+  "lat": 46.875502,
+  "lon": -96.7881537,
+  "tags": {
+   "addr:suite": "200",
+   "level": "2",
+   "name": "Global Development",
+   "office": "yes"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3267124282,
+  "lat": 46.8750431,
+  "lon": -96.788139,
+  "tags": {
+   "level": "2",
+   "name": "Precision Dental Lab, Inc.",
+   "office": "laboratory"
+  }
+ },
+ {
+  "type": "node",
+  "id": 3267124285,
+  "lat": 46.8762953,
+  "lon": -96.7904085,
+  "tags": {
+   "addr:housenumber": "10",
+   "addr:street": "Roberts Street North",
+   "entrance": "main",
+   "name": "Serkland Law Firm",
+   "office": "lawyer"
+  }
+ },
+ {
+  "type": "node",
+  "id": 13683341763,
+  "lat": 46.8802452,
+  "lon": -96.7874881,
+  "tags": {
+   "amenity": "bank",
+   "brand": "U.S. Bank",
+   "brand:wikidata": "Q739084",
+   "name": "U.S. Bank",
+   "operator": "us bank"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98201898,
+  "center": {
+   "lat": 46.8808322,
+   "lon": -96.783595
+  },
+  "tags": {
+   "addr:housenumber": "415",
+   "amenity": "bank",
+   "building": "commercial",
+   "name": "Fargo Public Schools Federal Credit Union",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98241509,
+  "center": {
+   "lat": 46.8777637,
+   "lon": -96.786614
+  },
+  "tags": {
+   "addr:housenumber": "500",
+   "addr:street": "North Broadway Drive",
+   "amenity": "bank",
+   "building": "commercial",
+   "building:levels": "6",
+   "name": "Gate City Bank",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98245026,
+  "center": {
+   "lat": 46.8797621,
+   "lon": -96.7881031
+  },
+  "tags": {
+   "addr:housenumber": "318",
+   "addr:street": "North Broadway Drive",
+   "building": "commercial",
+   "building:levels": "3",
+   "name": "Warner and Company Insurance",
+   "office": "insurance",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98249899,
+  "center": {
+   "lat": 46.87781,
+   "lon": -96.7881285
+  },
+  "tags": {
+   "addr:housenumber": "122",
+   "addr:street": "North Broadway Drive",
+   "amenity": "bank",
+   "brand": "Chase",
+   "brand:wikidata": "Q524629",
+   "building": "commercial",
+   "building:levels": "2",
+   "check_date": "2024-09-17",
+   "check_date:opening_hours": "2024-09-17",
+   "name": "Chase",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su closed",
+   "phone": "+1 701-219-7820",
+   "website": "https://locator.chase.com/nd/fargo/122-broadway-n"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98249902,
+  "center": {
+   "lat": 46.8767031,
+   "lon": -96.790403
+  },
+  "tags": {
+   "addr:housenumber": "26",
+   "addr:street": "Roberts Street North",
+   "building": "office",
+   "building:levels": "5",
+   "name": "The Gardner",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98249903,
+  "center": {
+   "lat": 46.877347,
+   "lon": -96.7910165
+  },
+  "tags": {
+   "addr:housenumber": "655",
+   "addr:street": "1st Avenue North",
+   "amenity": "courthouse",
+   "building": "courthouse",
+   "building:levels": "3",
+   "name": "Quentin N. Burdick United States Courthouse",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98262134,
+  "center": {
+   "lat": 46.8771151,
+   "lon": -96.7932295
+  },
+  "tags": {
+   "addr:housenumber": "802",
+   "addr:street": "1st Avenue North",
+   "building": "office",
+   "building:levels": "1",
+   "name": "Works Vets International Aid For Animals",
+   "office": "ngo",
+   "short_name": "World Vets",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98262148,
+  "center": {
+   "lat": 46.8807303,
+   "lon": -96.7922504
+  },
+  "tags": {
+   "addr:housenumber": "809",
+   "addr:street": "4th Avenue North",
+   "building": "industrial",
+   "name": "MinnKota Recycling",
+   "office": "yes",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98262151,
+  "center": {
+   "lat": 46.8782158,
+   "lon": -96.7929531
+  },
+  "tags": {
+   "building": "house",
+   "building:levels": "3",
+   "name": "High Plains Reader",
+   "office": "newspaper",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 98262158,
+  "center": {
+   "lat": 46.8775659,
+   "lon": -96.7924203
+  },
+  "tags": {
+   "addr:housenumber": "721",
+   "building": "office",
+   "building:levels": "1",
+   "name": "Dawson Insurance",
+   "office": "insurance",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 226940441,
+  "center": {
+   "lat": 46.8773061,
+   "lon": -96.7837852
+  },
+  "tags": {
+   "addr:city": "Fargo",
+   "addr:housenumber": "101",
+   "addr:postcode": "58102",
+   "addr:state": "ND",
+   "addr:street": "4th Street North",
+   "amenity": "library",
+   "building": "yes",
+   "building:levels": "3",
+   "name": "Fargo Public Library",
+   "operator": "City of Fargo",
+   "operator:type": "public",
+   "phone": "+1-701-241-1472",
+   "website": "https://fargond.gov/city-government/departments/library"
+  }
+ },
+ {
+  "type": "way",
+  "id": 316313108,
+  "center": {
+   "lat": 46.8787934,
+   "lon": -96.7857407
+  },
+  "tags": {
+   "addr:housenumber": "215",
+   "amenity": "bank",
+   "building": "commercial",
+   "building:levels": "8",
+   "name": "American Federal Bank",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "source": "Bing"
+  }
+ },
+ {
+  "type": "way",
+  "id": 688501739,
+  "center": {
+   "lat": 46.8784541,
+   "lon": -96.7827974
+  },
+  "tags": {
+   "amenity": "townhall",
+   "building": "yes",
+   "name": "Fargo City Hall"
+  }
+ }
+]

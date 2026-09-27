@@ -1,51 +1,17 @@
 {
  "slug": "j-gilman-salon",
- "name": "J. Gilman Salon",
- "sector": "Salon",
- "work": [
-  "site",
-  "replies",
-  "listing",
-  "schema",
-  "llms",
-  "ai"
+ "headline": "Your website is down. We rebuilt it from your own last saved copy.",
+ "gift_path": "/j-gilman-salon/",
+ "evidence": [
+  "www.jgilmansalon.com points at a CloudFront address (djwnq9j0xxm30.cloudfront.net) that no longer exists; it fails on Google and Cloudflare DNS (checked 2026-09-26)",
+  "Google still links to it",
+  "Rebuilt from the Wayback Machine capture of 2026-02-07: same words, same services, same prices, Justin and Daisy",
+  "Your EnvisionGo booking page still works (https://na02.envisiongo.com/a/jgilmansalon/OnlineBooking.aspx); every Book button points at it"
  ],
- "headline": "site_dead",
- "reviews_to_answer": [
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVWExOU1ZVUU0YTBScVdrdHBTV04xYjNFeE4xRRAB",
-   "author_title": "Holly Bay",
-   "review_rating": 5,
-   "review_text": "Niki always does a great job on my teen son's hair! She always knows the current trends and every time he has a request, she nails it and, as a bonus, makes me happy in the process.\n\nThanks, Niki!",
-   "review_datetime_utc": "04/03/2026 19:13:14",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oVWExOU1ZVUU0YTBScVdrdHBTV04xYjNFeE4xRRAB!2m1!1s0x0:0x8c3e0c0be556da5a!3m1!1s2@1:CAIQACodChtycF9oOnhUa19MYUE4a0RqWktpSWN1b3ExN1E%7C%7C?hl=en",
-   "date": "2026-04-03"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RdE4yNVJNMHN4WlUxM01UZ3haR1pXZERKNGVuYxAB",
-   "author_title": "D",
-   "review_rating": 5,
-   "review_text": "Love this place! Myrah is fabulous does a great job on my hair and very reasonable pricing",
-   "review_datetime_utc": "06/17/2025 22:32:21",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25RdE4yNVJNMHN4WlUxM01UZ3haR1pXZERKNGVuYxAB!2m1!1s0x0:0x8c3e0c0be556da5a!3m1!1s2@1:CAIQACodChtycF9oOnQtN25RM0sxZU13MTgxZGZWdDJ4enc%7C%7C?hl=en",
-   "date": "2025-06-17"
-  }
- ],
- "listing_issues": [
-  {
-   "field": "website",
-   "google": "http://www.jgilmansalon.com/",
-   "reality": "does not load (checked 2026-09-26)"
-  },
-  {
-   "field": "map listing",
-   "openstreetmap": "missing",
-   "fix": "not on OpenStreetMap, the free map many apps and AI tools read"
-  }
- ],
- "unanswered_total": 106,
- "sample": 171,
- "low_unanswered_since_2024": 0
+ "to_use_it": "Share the link today. To put it back on jgilmansalon.com, whoever holds the domain points www at it (5 minutes).",
+ "menu": [
+  "domain_hookup",
+  "gbp_cleanup",
+  "review_replies_monthly"
+ ]
 }

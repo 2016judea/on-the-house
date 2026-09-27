@@ -1,0 +1,940 @@
+{
+ "merchants": [
+  {
+   "name": "7 Spices",
+   "what": "Somali restaurant: spiced rice, chicken, salmon, lamb, sambusa",
+   "phone": null,
+   "hours_printed": null,
+   "hours": null
+  },
+  {
+   "name": "Intown Sushi",
+   "what": "Serves fresh, locally sourced sushi crafted by trained chefs",
+   "phone": "(612) 354-2706",
+   "hours_printed": "Mon-Fri: 11am-7pm; Saturday: 11am-6pm; Sunday: CLOSED",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "19:00"
+    ],
+    "Tue": [
+     "11:00",
+     "19:00"
+    ],
+    "Wed": [
+     "11:00",
+     "19:00"
+    ],
+    "Thu": [
+     "11:00",
+     "19:00"
+    ],
+    "Fri": [
+     "11:00",
+     "19:00"
+    ],
+    "Sat": [
+     "11:00",
+     "18:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Pizza Luna",
+   "what": "Fresh homemade-style pizza, wings, salad, mozzarella sticks",
+   "phone": null,
+   "hours_printed": "Mon-Fri 11am-8pm; Sat 11am-8pm; Sun CLOSED",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "20:00"
+    ],
+    "Tue": [
+     "11:00",
+     "20:00"
+    ],
+    "Wed": [
+     "11:00",
+     "20:00"
+    ],
+    "Thu": [
+     "11:00",
+     "20:00"
+    ],
+    "Fri": [
+     "11:00",
+     "20:00"
+    ],
+    "Sat": [
+     "11:00",
+     "20:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Trio Plant-Based",
+   "what": "First Black-owned, 100% plant-based soul food restaurant",
+   "phone": null,
+   "hours_printed": "Mon- Sat 11:30am- 7:30pm; Sundays 11am-5pm",
+   "hours": {
+    "Mon": [
+     "11:30",
+     "19:30"
+    ],
+    "Tue": [
+     "11:30",
+     "19:30"
+    ],
+    "Wed": [
+     "11:30",
+     "19:30"
+    ],
+    "Thu": [
+     "11:30",
+     "19:30"
+    ],
+    "Fri": [
+     "11:30",
+     "19:30"
+    ],
+    "Sat": [
+     "11:30",
+     "19:30"
+    ],
+    "Sun": [
+     "11:00",
+     "17:00"
+    ]
+   }
+  },
+  {
+   "name": "Rollin Nolen's BBQ",
+   "what": "BBQ: beef brisket and seasoned pulled pork loaded fries",
+   "phone": null,
+   "hours_printed": null,
+   "hours": null
+  },
+  {
+   "name": "Manny's Tortas",
+   "what": "Gourmet Mexican tortas (sandwiches), plus catering",
+   "phone": "(612) 870-3930",
+   "hours_printed": "Mon-Sat 10am-8pm; Sun 11am-6pm",
+   "hours": {
+    "Mon": [
+     "10:00",
+     "20:00"
+    ],
+    "Tue": [
+     "10:00",
+     "20:00"
+    ],
+    "Wed": [
+     "10:00",
+     "20:00"
+    ],
+    "Thu": [
+     "10:00",
+     "20:00"
+    ],
+    "Fri": [
+     "10:00",
+     "20:00"
+    ],
+    "Sat": [
+     "10:00",
+     "20:00"
+    ],
+    "Sun": [
+     "11:00",
+     "18:00"
+    ]
+   }
+  },
+  {
+   "name": "El Taco Torro",
+   "what": "Family recipes crafted with care and passion",
+   "phone": null,
+   "hours_printed": null,
+   "hours": null
+  },
+  {
+   "name": "Pham's Rice Bowl",
+   "what": "Legendary egg rolls and flavorful, fresh Asian dishes",
+   "phone": "(616) 870-2622",
+   "hours_printed": "Mon-Sat 10am-8pm; Sun 11am-6pm",
+   "hours": {
+    "Mon": [
+     "10:00",
+     "20:00"
+    ],
+    "Tue": [
+     "10:00",
+     "20:00"
+    ],
+    "Wed": [
+     "10:00",
+     "20:00"
+    ],
+    "Thu": [
+     "10:00",
+     "20:00"
+    ],
+    "Fri": [
+     "10:00",
+     "20:00"
+    ],
+    "Sat": [
+     "10:00",
+     "20:00"
+    ],
+    "Sun": [
+     "11:00",
+     "18:00"
+    ]
+   }
+  },
+  {
+   "name": "Momo Dosa",
+   "what": "Indian and Nepali street food: momos, dosas, curries, samosas",
+   "phone": "612-886-1681",
+   "hours_printed": "Mon-Thurs: 10am-7pm; Fri-Sat: 10am-8pm; Sunday: 10am-6pm",
+   "hours": {
+    "Mon": [
+     "10:00",
+     "19:00"
+    ],
+    "Tue": [
+     "10:00",
+     "19:00"
+    ],
+    "Wed": [
+     "10:00",
+     "19:00"
+    ],
+    "Thu": [
+     "10:00",
+     "19:00"
+    ],
+    "Fri": [
+     "10:00",
+     "20:00"
+    ],
+    "Sat": [
+     "10:00",
+     "20:00"
+    ],
+    "Sun": [
+     "10:00",
+     "18:00"
+    ]
+   }
+  },
+  {
+   "name": "Salsa A La Salsa",
+   "what": "Authentic central Mexican dishes: meat, seafood, vegetarian, gluten-free",
+   "phone": "(612) 872-4140",
+   "hours_printed": "Mon-Sat 11am-8pm; Sunday: CLOSED",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "20:00"
+    ],
+    "Tue": [
+     "11:00",
+     "20:00"
+    ],
+    "Wed": [
+     "11:00",
+     "20:00"
+    ],
+    "Thu": [
+     "11:00",
+     "20:00"
+    ],
+    "Fri": [
+     "11:00",
+     "20:00"
+    ],
+    "Sat": [
+     "11:00",
+     "20:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Irie Jamaican Express",
+   "what": "Authentic Caribbean dishes with imported Caribbean spices",
+   "phone": "612-760-0589",
+   "hours_printed": "Mon - Sat 11am-8pm; Sunday: CLOSED",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "20:00"
+    ],
+    "Tue": [
+     "11:00",
+     "20:00"
+    ],
+    "Wed": [
+     "11:00",
+     "20:00"
+    ],
+    "Thu": [
+     "11:00",
+     "20:00"
+    ],
+    "Fri": [
+     "11:00",
+     "20:00"
+    ],
+    "Sat": [
+     "11:00",
+     "20:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "The Kitchen by Baked Brand",
+   "what": "Comfort food: all-day breakfast, vegan dishes, cold-pressed juices",
+   "phone": "(612) 964-6932",
+   "hours_printed": "Monday-Saturday: 11am-7pm; Sunday: Noon-5pm",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "19:00"
+    ],
+    "Tue": [
+     "11:00",
+     "19:00"
+    ],
+    "Wed": [
+     "11:00",
+     "19:00"
+    ],
+    "Thu": [
+     "11:00",
+     "19:00"
+    ],
+    "Fri": [
+     "11:00",
+     "19:00"
+    ],
+    "Sat": [
+     "11:00",
+     "19:00"
+    ],
+    "Sun": [
+     "12:00",
+     "17:00"
+    ]
+   }
+  },
+  {
+   "name": "Sabbai Cuisine",
+   "what": "Cambodian and Thai fusion: pad Thai, drunken noodles, curries, boba",
+   "phone": "612-477-7916",
+   "hours_printed": "Tues-Sat 11am - 7pm; Sun-Mon Closed",
+   "hours": {
+    "Mon": null,
+    "Tue": [
+     "11:00",
+     "19:00"
+    ],
+    "Wed": [
+     "11:00",
+     "19:00"
+    ],
+    "Thu": [
+     "11:00",
+     "19:00"
+    ],
+    "Fri": [
+     "11:00",
+     "19:00"
+    ],
+    "Sat": [
+     "11:00",
+     "19:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Savoro Deli & Oasis Market",
+   "what": "Groceries, halal butcher services, and Mediterranean grill",
+   "phone": null,
+   "hours_printed": "The Grill: Mon-Sat 10am - 7pm, Closed Sunday. The Grocery store: Mon-Sat 10am -7pm and 11am - 6pm Sunday.",
+   "hours": null
+  },
+  {
+   "name": "Andy's Garage",
+   "what": "American/Mexican comfort food: hand-smashed burgers, cheese curds, tamales",
+   "phone": "(612) 886-2602",
+   "hours_printed": "Mon -Fri 7am-6pm; Sat-Sun 9am-6pm",
+   "hours": {
+    "Mon": [
+     "07:00",
+     "18:00"
+    ],
+    "Tue": [
+     "07:00",
+     "18:00"
+    ],
+    "Wed": [
+     "07:00",
+     "18:00"
+    ],
+    "Thu": [
+     "07:00",
+     "18:00"
+    ],
+    "Fri": [
+     "07:00",
+     "18:00"
+    ],
+    "Sat": [
+     "09:00",
+     "18:00"
+    ],
+    "Sun": [
+     "09:00",
+     "18:00"
+    ]
+   }
+  },
+  {
+   "name": "Mapps Coffee & Tea",
+   "what": "Ethical, sustainable, direct-trade coffee and drinks",
+   "phone": "(612) 229-2201",
+   "hours_printed": "Mon-Fri 8am-2pm; Sat 10am-2pm; Sunday: CLOSED",
+   "hours": {
+    "Mon": [
+     "08:00",
+     "14:00"
+    ],
+    "Tue": [
+     "08:00",
+     "14:00"
+    ],
+    "Wed": [
+     "08:00",
+     "14:00"
+    ],
+    "Thu": [
+     "08:00",
+     "14:00"
+    ],
+    "Fri": [
+     "08:00",
+     "14:00"
+    ],
+    "Sat": [
+     "10:00",
+     "14:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "The Produce Exchange",
+   "what": "Natural, organic groceries, produce, and specialty items",
+   "phone": "(612) 879-0050",
+   "hours_printed": "M-Sa 10am-6pm, Su 11am-6pm",
+   "hours": {
+    "Mon": [
+     "10:00",
+     "18:00"
+    ],
+    "Tue": [
+     "10:00",
+     "18:00"
+    ],
+    "Wed": [
+     "10:00",
+     "18:00"
+    ],
+    "Thu": [
+     "10:00",
+     "18:00"
+    ],
+    "Fri": [
+     "10:00",
+     "18:00"
+    ],
+    "Sat": [
+     "10:00",
+     "18:00"
+    ],
+    "Sun": [
+     "11:00",
+     "18:00"
+    ]
+   }
+  },
+  {
+   "name": "Talent by Tommie Taylor",
+   "what": "Hairstyling, cuts and color",
+   "phone": "(763) 639-5384",
+   "hours_printed": "Sunday & Monday: Closed; Tuesday-Thursday 10am-5pm; Friday: 9am-5pm; Saturday: 8am-4pm",
+   "hours": {
+    "Mon": null,
+    "Tue": [
+     "10:00",
+     "17:00"
+    ],
+    "Wed": [
+     "10:00",
+     "17:00"
+    ],
+    "Thu": [
+     "10:00",
+     "17:00"
+    ],
+    "Fri": [
+     "09:00",
+     "17:00"
+    ],
+    "Sat": [
+     "08:00",
+     "16:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "CyNyChi Hair Salon",
+   "what": "Natural hair care: braiding, locs, silk press, extensions",
+   "phone": "763-762-7162",
+   "hours_printed": "Tuesday- Saturday 10am-7pm",
+   "hours": {
+    "Mon": null,
+    "Tue": [
+     "10:00",
+     "19:00"
+    ],
+    "Wed": [
+     "10:00",
+     "19:00"
+    ],
+    "Thu": [
+     "10:00",
+     "19:00"
+    ],
+    "Fri": [
+     "10:00",
+     "19:00"
+    ],
+    "Sat": [
+     "10:00",
+     "19:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "NOVEDADES Krystal 2",
+   "what": "Apparel, quincea\u00f1era dresses, and accessories",
+   "phone": null,
+   "hours_printed": null,
+   "hours": null
+  },
+  {
+   "name": "Tribe Federal Credit Union",
+   "what": "Savings, checking, debit cards, and business accounts",
+   "phone": "800-917-0515",
+   "hours_printed": "Mon -Thurs 11am-7:00; Friday 11am-5pm; Saturday 11am-3pm; Sunday Closed",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "19:00"
+    ],
+    "Tue": [
+     "11:00",
+     "19:00"
+    ],
+    "Wed": [
+     "11:00",
+     "19:00"
+    ],
+    "Thu": [
+     "11:00",
+     "19:00"
+    ],
+    "Fri": [
+     "11:00",
+     "17:00"
+    ],
+    "Sat": [
+     "11:00",
+     "15:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Midtown Barbers",
+   "what": "Barbershop services; walk-ins welcome",
+   "phone": "763.327.3043",
+   "hours_printed": "Monday-Friday 10am-7pm; Saturdays 10am-6pm; Closed Sundays",
+   "hours": {
+    "Mon": [
+     "10:00",
+     "19:00"
+    ],
+    "Tue": [
+     "10:00",
+     "19:00"
+    ],
+    "Wed": [
+     "10:00",
+     "19:00"
+    ],
+    "Thu": [
+     "10:00",
+     "19:00"
+    ],
+    "Fri": [
+     "10:00",
+     "19:00"
+    ],
+    "Sat": [
+     "10:00",
+     "18:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Tibet Arts & Gifts",
+   "what": "Himalayan clothing, jewelry, and meditation tools like singing bowls",
+   "phone": "(651) 354-1703",
+   "hours_printed": "M-Sa 11:30am-6:30pm, Su 11:30am-6pm",
+   "hours": {
+    "Mon": [
+     "11:30",
+     "18:30"
+    ],
+    "Tue": [
+     "11:30",
+     "18:30"
+    ],
+    "Wed": [
+     "11:30",
+     "18:30"
+    ],
+    "Thu": [
+     "11:30",
+     "18:30"
+    ],
+    "Fri": [
+     "11:30",
+     "18:30"
+    ],
+    "Sat": [
+     "11:30",
+     "18:30"
+    ],
+    "Sun": [
+     "11:30",
+     "18:00"
+    ]
+   }
+  },
+  {
+   "name": "Midtown Custom Souvenirs and Gifts",
+   "what": "Custom apparel, gifts, and accessories",
+   "phone": "(612) 708-4188",
+   "hours_printed": "Monday - Saturday 11am-7pm. Sunday: Closed.",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "19:00"
+    ],
+    "Tue": [
+     "11:00",
+     "19:00"
+    ],
+    "Wed": [
+     "11:00",
+     "19:00"
+    ],
+    "Thu": [
+     "11:00",
+     "19:00"
+    ],
+    "Fri": [
+     "11:00",
+     "19:00"
+    ],
+    "Sat": [
+     "11:00",
+     "19:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Zahra Fashion",
+   "what": "East African clothing, jewelry and accessories",
+   "phone": "(612) 249-3422",
+   "hours_printed": null,
+   "hours": null
+  },
+  {
+   "name": "CMTC Wireless",
+   "what": "Mobile device accessories: cases, chargers, cables, headphones",
+   "phone": "(800) 899-0233",
+   "hours_printed": "M-Sa 10am-8pm, Su 11am-6pm",
+   "hours": {
+    "Mon": [
+     "10:00",
+     "20:00"
+    ],
+    "Tue": [
+     "10:00",
+     "20:00"
+    ],
+    "Wed": [
+     "10:00",
+     "20:00"
+    ],
+    "Thu": [
+     "10:00",
+     "20:00"
+    ],
+    "Fri": [
+     "10:00",
+     "20:00"
+    ],
+    "Sat": [
+     "10:00",
+     "20:00"
+    ],
+    "Sun": [
+     "11:00",
+     "18:00"
+    ]
+   }
+  },
+  {
+   "name": "Sanchez Jewelry",
+   "what": "Gold and silver jewelry, plus watch repair",
+   "phone": "(612) 351-7047",
+   "hours_printed": "11am-7pm",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "19:00"
+    ],
+    "Tue": [
+     "11:00",
+     "19:00"
+    ],
+    "Wed": [
+     "11:00",
+     "19:00"
+    ],
+    "Thu": [
+     "11:00",
+     "19:00"
+    ],
+    "Fri": [
+     "11:00",
+     "19:00"
+    ],
+    "Sat": [
+     "11:00",
+     "19:00"
+    ],
+    "Sun": [
+     "11:00",
+     "19:00"
+    ]
+   }
+  },
+  {
+   "name": "Dar Medina",
+   "what": "Traditionally crafted Moroccan home-goods from artisans",
+   "phone": "(320) 290-8225",
+   "hours_printed": "M-Sa 10am-8pm",
+   "hours": {
+    "Mon": [
+     "10:00",
+     "20:00"
+    ],
+    "Tue": [
+     "10:00",
+     "20:00"
+    ],
+    "Wed": [
+     "10:00",
+     "20:00"
+    ],
+    "Thu": [
+     "10:00",
+     "20:00"
+    ],
+    "Fri": [
+     "10:00",
+     "20:00"
+    ],
+    "Sat": [
+     "10:00",
+     "20:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "The Art Shoppe",
+   "what": "Handmade items from a collective of local artists",
+   "phone": "(612) 562-5871",
+   "hours_printed": "Monday-Sunday 11am-6pm",
+   "hours": {
+    "Mon": [
+     "11:00",
+     "18:00"
+    ],
+    "Tue": [
+     "11:00",
+     "18:00"
+    ],
+    "Wed": [
+     "11:00",
+     "18:00"
+    ],
+    "Thu": [
+     "11:00",
+     "18:00"
+    ],
+    "Fri": [
+     "11:00",
+     "18:00"
+    ],
+    "Sat": [
+     "11:00",
+     "18:00"
+    ],
+    "Sun": [
+     "11:00",
+     "18:00"
+    ]
+   }
+  },
+  {
+   "name": "Midtown Eye Care",
+   "what": "Eye exams, contact fittings, and eyeglasses",
+   "phone": "(612) 345-5120",
+   "hours_printed": "M-F 9am-6pm, Sa 10am-4pm, Su Closed",
+   "hours": {
+    "Mon": [
+     "09:00",
+     "18:00"
+    ],
+    "Tue": [
+     "09:00",
+     "18:00"
+    ],
+    "Wed": [
+     "09:00",
+     "18:00"
+    ],
+    "Thu": [
+     "09:00",
+     "18:00"
+    ],
+    "Fri": [
+     "09:00",
+     "18:00"
+    ],
+    "Sat": [
+     "10:00",
+     "16:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Simba Craftware",
+   "what": "African art and home decor items",
+   "phone": "(888) 967-4622",
+   "hours_printed": null,
+   "hours": null
+  },
+  {
+   "name": "Inner Peace Fragrance",
+   "what": "Incense, sage, black soaps, shea butters, candles",
+   "phone": null,
+   "hours_printed": "Monday-Tuesday CLOSED; Wednesday- Friday. 11am-6pm; Saturdays- one per month",
+   "hours": {
+    "Mon": null,
+    "Tue": null,
+    "Wed": [
+     "11:00",
+     "18:00"
+    ],
+    "Thu": [
+     "11:00",
+     "18:00"
+    ],
+    "Fri": [
+     "11:00",
+     "18:00"
+    ],
+    "Sat": null,
+    "Sun": null
+   }
+  },
+  {
+   "name": "Friends of Global Market - The Friends Zone",
+   "what": "Membership program supporting Midtown Global Market's small businesses",
+   "phone": null,
+   "hours_printed": null,
+   "hours": null
+  },
+  {
+   "name": "Cultural Wellness Center",
+   "what": "Community stories and research shared as a resource",
+   "phone": "(612) 721-5735",
+   "hours_printed": "Mon-Sat 10am-6pm",
+   "hours": {
+    "Mon": [
+     "10:00",
+     "18:00"
+    ],
+    "Tue": [
+     "10:00",
+     "18:00"
+    ],
+    "Wed": [
+     "10:00",
+     "18:00"
+    ],
+    "Thu": [
+     "10:00",
+     "18:00"
+    ],
+    "Fri": [
+     "10:00",
+     "18:00"
+    ],
+    "Sat": [
+     "10:00",
+     "18:00"
+    ],
+    "Sun": null
+   }
+  },
+  {
+   "name": "Hoyo Sambusa Food Production",
+   "what": "Produces Somali sambusa and sauces for grocery stores/schools",
+   "phone": null,
+   "hours_printed": null,
+   "hours": null
+  }
+ ]
+}

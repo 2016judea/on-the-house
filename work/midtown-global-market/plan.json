@@ -1,0 +1,15 @@
+{
+ "slug": "midtown-global-market",
+ "headline": "Visitors keep finding the vendors closed. We built a page that shows who's open right now.",
+ "gift_path": "/midtown-global-market/",
+ "evidence": [
+  "13 of 500 recent Google reviews say they found vendors closed (strict phrase match)",
+  "35 merchants on the Merchants page; 25 print usable hours, 10 don't"
+ ],
+ "to_use_it": "Link it from the website and a QR sign at each entrance.",
+ "menu": [
+  "gbp_cleanup",
+  "ai_listings",
+  "review_replies_monthly"
+ ]
+}

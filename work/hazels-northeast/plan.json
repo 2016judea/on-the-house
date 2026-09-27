@@ -1,77 +1,17 @@
 {
  "slug": "hazels-northeast",
- "name": "Hazel's Northeast",
- "sector": "Restaurant",
- "work": [
-  "replies",
-  "llms",
-  "ai"
+ "headline": "Your cold line has read warm at three inspections in a row. We made the log sheets for it.",
+ "gift_path": "/hazels-northeast/",
+ "print_path": "/hazels-northeast/print/",
+ "evidence": [
+  "Minneapolis inspections 2024-07-10, 2024-08-06, 2025-07-09: cold food 42-50F each time",
+  "no illness log at both routine visits",
+  "both routines in July; none yet in 2026 data (through 2026-08-07)"
  ],
- "headline": "replies",
- "reviews_to_answer": [
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sWFdGcFlZWE41YlZOUFExRkZWa042Um1OTlptYxAB",
-   "author_title": "Tom Cavanaugh",
-   "review_rating": 2,
-   "review_text": "Wild rice jambalaya barely had rice and pretty bland. Maybe that was the Minnesota twist!",
-   "review_datetime_utc": "02/06/2026 23:19:29",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sWFdGcFlZWE41YlZOUFExRkZWa042Um1OTlptYxAB!2m1!1s0x0:0x60d149d20f9d443e!3m1!1s2@1:CAIQACodChtycF9oOmlXWFpYYXN5bVNPQ1FFVkN6RmNNZmc%7C%7C?hl=en",
-   "date": "2026-02-06"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adE1qZGplVE5NTFhkeFRWRnlUVGRyWVZORU1VRRAB",
-   "author_title": "Kidus Ermias",
-   "review_rating": 2,
-   "review_text": "The food was quite good. I ordered the classic and got sourdough bread. Unfortunately, my bread had mold. It\u2019s worth noting that the cleanliness of the place is not up to par.",
-   "review_datetime_utc": "01/31/2026 19:29:54",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21adE1qZGplVE5NTFhkeFRWRnlUVGRyWVZORU1VRRAB!2m1!1s0x0:0x60d149d20f9d443e!3m1!1s2@1:CAIQACodChtycF9oOmZtMjdjeTNMLXdxTVFyTTdrYVNEMUE%7C%7C?hl=en",
-   "date": "2026-01-31"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMGEyaDBhbXB6YVhKR1ZrTXRWMEl4V0U5Zk1GRRAB",
-   "author_title": "Ayah Ahmed",
-   "review_rating": 2,
-   "review_text": "Food was ok\u2026.service was great",
-   "review_datetime_utc": "01/23/2026 03:36:25",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WMGEyaDBhbXB6YVhKR1ZrTXRWMEl4V0U5Zk1GRRAB!2m1!1s0x0:0x60d149d20f9d443e!3m1!1s2@1:CAIQACodChtycF9oOnV0a2h0ampzaXJGVkMtV0IxWE9fMFE%7C%7C?hl=en",
-   "date": "2026-01-23"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkcFExUmxTRnB0Wm5SblUyazVZbWx3ZHpWRVluYxAB",
-   "author_title": "Jerry Royce",
-   "review_rating": 1,
-   "review_text": "Was told I had to eait the last  3 times over 30 minutes each time, their loss I\u2019ll never come back piss poor service for some eggs and coffee",
-   "review_datetime_utc": "01/10/2026 17:38:35",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkcFExUmxTRnB0Wm5SblUyazVZbWx3ZHpWRVluYxAB!2m1!1s0x0:0x60d149d20f9d443e!3m1!1s2@1:CAIQACodChtycF9oOldpQ1RlSFptZnRnU2k5YmlwdzVEYnc%7C%7C?hl=en",
-   "date": "2026-01-10"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twU1pXbFROR2R1ZUVkVVdGUk1TalJsYW1sTGVYYxAB",
-   "author_title": "Jack Hamlin",
-   "review_rating": 5,
-   "review_text": "Thanks to the Russian girl I met salsa dancing for recommending this place",
-   "review_datetime_utc": "05/15/2026 17:21:58",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twU1pXbFROR2R1ZUVkVVdGUk1TalJsYW1sTGVYYxAB!2m1!1s0x0:0x60d149d20f9d443e!3m1!1s2@1:CAIQACodChtycF9oOkpSZWlTNGdueEdUWFRMSjRlamlLeXc%7C%7C?hl=en",
-   "date": "2026-05-15"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUFZWRmpWV05tUmtkRFVqbFRiVlJEWWxWVmFGRRAB",
-   "author_title": "Diane Herzog",
-   "review_rating": 5,
-   "review_text": "1st time eating at Hazels Northeast!!! Great experience, food was delicious! The waitress (Melissa) was superb!",
-   "review_datetime_utc": "05/08/2026 07:26:08",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WUFZWRmpWV05tUmtkRFVqbFRiVlJEWWxWVmFGRRAB!2m1!1s0x0:0x60d149d20f9d443e!3m1!1s2@1:CAIQACodChtycF9oOnVPVVFjVWNmRkdDUjlTbVRDYlVVaFE%7C%7C?hl=en",
-   "date": "2026-05-08"
-  }
- ],
- "listing_issues": [],
- "unanswered_total": 499,
- "sample": 500,
- "low_unanswered_since_2024": 33
+ "to_use_it": "Print both sheets, tape the log by the cold station.",
+ "menu": [
+  "review_replies_monthly",
+  "gbp_cleanup",
+  "online_ordering"
+ ]
 }

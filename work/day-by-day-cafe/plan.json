@@ -1,90 +1,17 @@
 {
  "slug": "day-by-day-cafe",
- "name": "Day by Day Cafe",
- "sector": "Restaurant",
- "work": [
-  "replies",
-  "listing",
-  "llms",
-  "ai"
+ "headline": "Your new website is still named \"Demo\", and that's what search shows.",
+ "gift_path": "/day-by-day-cafe/",
+ "evidence": [
+  "<title> on every page: Day By Day Cafe - Demo477 7th Street West, Saint Paul, MN, USAAmerican Restaurant",
+  "web search result headline is that line; the assistant summary called it a demonstration site",
+  "COVID line on home page",
+  "OSM phone 651-227-0654 and 6am Mo-Sa vs site 651-998-8804, 7-3 daily"
  ],
- "headline": "replies",
- "reviews_to_answer": [
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NGEwUkViekpIVERNNVJVOVpOa1l3UzFsVFltYxAB",
-   "author_title": "Jessica Donaldson",
-   "review_rating": 1,
-   "review_text": "Manger with blonde hair was incredibly rude.  I will not be back.",
-   "review_datetime_utc": "05/07/2026 19:10:18",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0NGEwUkViekpIVERNNVJVOVpOa1l3UzFsVFltYxAB!2m1!1s0x0:0x9c4e56c330cdde83!3m1!1s2@1:CAIQACodChtycF9oOkt4a0REbzJHTDM5RU9ZNkYwS1lTYmc%7C%7C?hl=en",
-   "date": "2026-05-07"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GSU9IZFRSR0ZSU0dwU2FqUkVNRTltZDFadGJrRRAB",
-   "author_title": "Eric C",
-   "review_rating": 3,
-   "review_text": "Staff wasn't attentive and kind of standoffish. My second time there, same experience both times. Too bad because the food was very excellent. We had breakfast this time.",
-   "review_datetime_utc": "04/04/2026 15:53:02",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GSU9IZFRSR0ZSU0dwU2FqUkVNRTltZDFadGJrRRAB!2m1!1s0x0:0x9c4e56c330cdde83!3m1!1s2@1:CAIQACodChtycF9oOmFIOHdTRGFRSGpSajREME9md1ZtbkE%7C%7C?hl=en",
-   "date": "2026-04-04"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nd1ExbGhXRU01WDFGT1YyUmhkRnBSVjNGelVIYxAB",
-   "author_title": "Sam Heffernan",
-   "review_rating": 2,
-   "review_text": "Food was expensive and was not impressed with the flavor, very bland. Server was very friendly and had a cool atmosphere.",
-   "review_datetime_utc": "03/28/2026 19:55:27",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25nd1ExbGhXRU01WDFGT1YyUmhkRnBSVjNGelVIYxAB!2m1!1s0x0:0x9c4e56c330cdde83!3m1!1s2@1:CAIQACodChtycF9oOngwQ1lhWEM5X1FOV2RhdFpRV3FzUHc%7C%7C?hl=en",
-   "date": "2026-03-28"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScWQydFBTbnAzUjBveFZYZDVXRXRrVlVGblVWRRAB",
-   "author_title": "Rochelle Frovarp",
-   "review_rating": 1,
-   "review_text": "So this was the second time I ever went day by day caf\u00e9 and today at about 9:30 in the morning I was meeting my niece up there for breakfast and some coffee, and as I was sitting there an employee was sitting there talking about how strong my perfume was and how much it stunk and going back-and-forth Holding his nose like he was so offended. I\u2019ve never been so embarrassed in my life. So I\u2019m sorry if you hire people like that, maybe you should give him some etiquette training. There was a way better way of doing that, but you had lost my customer service and my nieces and whomever else we decided to tell.",
-   "review_datetime_utc": "02/18/2026 21:27:26",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ScWQydFBTbnAzUjBveFZYZDVXRXRrVlVGblVWRRAB!2m1!1s0x0:0x9c4e56c330cdde83!3m1!1s2@1:CAIQACodChtycF9oOnRqd2tPSnp3R0oxVXd5WEtkVUFnUVE%7C%7C?hl=en",
-   "date": "2026-02-18"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xbk5GRlljVlJxYVRjMlkzZHlNQzF3TlU0NFdsRRAB",
-   "author_title": "Elana Rosa Danowit",
-   "review_rating": 5,
-   "review_text": "This was an amazing experience. A friend and I came for brunch and left with so much more than a full stomach. The space was so clean, and energetically welcoming. Our wonderful waitress was so accommodating and insightful. The food was flavorful and such a diverse selection to choose from. I myself got the biscuits and gravy with scrambled eggs and hash browns and let me tell you the hash browns dipped in the sausage and gravy oh my my my that was the perfect compliment, a true marriage of savory sauce and crunchy potato. The restroom is amazing, the overall decor is so inviting and so conversational. However this place had me at the walk in fish tank! Thank you all so much for making this a wonderful first time for me! I highly recommend.",
-   "review_datetime_utc": "05/07/2026 20:32:38",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xbk5GRlljVlJxYVRjMlkzZHlNQzF3TlU0NFdsRRAB!2m1!1s0x0:0x9c4e56c330cdde83!3m1!1s2@1:CAIQACodChtycF9oOm1nNFFYcVRqaTc2Y3dyMC1wNU44WlE%7C%7C?hl=en",
-   "date": "2026-05-07"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTFNpMXpObmswUVRjdFRXSjNWbGd6YURKTGIxRRAB",
-   "author_title": "Gina Lindemann",
-   "review_rating": 5,
-   "review_text": "Wonderful caf\u00e9 in St Paul. First time going there. I was just there for a Grub Hub delivery but everyone was professional.",
-   "review_datetime_utc": "04/19/2026 16:15:12",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxTFNpMXpObmswUVRjdFRXSjNWbGd6YURKTGIxRRAB!2m1!1s0x0:0x9c4e56c330cdde83!3m1!1s2@1:CAIQACodChtycF9oOk1LSi1zNnk0QTctTWJ3VlgzaDJLb1E%7C%7C?hl=en",
-   "date": "2026-04-19"
-  }
- ],
- "listing_issues": [
-  {
-   "field": "phone",
-   "google": "+1 651-998-8804",
-   "openstreetmap": "+1 651 2270654"
-  },
-  {
-   "field": "hours",
-   "days": "Mo, Tu, We, Th, Fr, Sa",
-   "google": "Mo 07:00-15:00; Tu 07:00-15:00; We 07:00-15:00; Th 07:00-15:00; Fr 07:00-15:00; Sa 07:00-15:00",
-   "openstreetmap": "Mo 06:00-15:00; Tu 06:00-15:00; We 06:00-15:00; Th 06:00-15:00; Fr 06:00-15:00; Sa 06:00-15:00"
-  }
- ],
- "unanswered_total": 500,
- "sample": 500,
- "low_unanswered_since_2024": 27
+ "to_use_it": "Paste two lines into the Zingmyorder website settings.",
+ "menu": [
+  "review_replies_monthly",
+  "gbp_cleanup",
+  "ai_listings"
+ ]
 }

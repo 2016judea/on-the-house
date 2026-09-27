@@ -1,85 +1,17 @@
 {
  "slug": "polished-nail-spa",
- "name": "Polished Nail Spa",
- "sector": "Salon",
- "work": [
-  "replies",
-  "listing",
-  "schema",
-  "llms",
-  "ai"
+ "headline": "Your website still sends people to the downtown shop that closed.",
+ "gift_path": "/polished-nail-spa/",
+ "evidence": [
+  "InForum 2026-05-19: downtown closed",
+  "downtown phone in header of every page, plus homepage, Locations, Contact",
+  "About Us link is a 404",
+  "Osgood weekday hours 10-7 vs 10-8"
  ],
- "headline": "replies",
- "reviews_to_answer": [
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0a1VtSlJZMmhxYjNCUWMxOUtkVW8zT1hCTVYyYxAB",
-   "author_title": "Mike",
-   "review_rating": 1,
-   "review_text": "Unprofessional, had issues that were not resolved when brought to their attention, do not recommend.",
-   "review_datetime_utc": "03/04/2026 00:32:33",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0a1VtSlJZMmhxYjNCUWMxOUtkVW8zT1hCTVYyYxAB!2m1!1s0x0:0x37b7268558de5380!3m1!1s2@1:CAIQACodChtycF9oOktkUmJRY2hqb3BQc19KdUo3OXBMV2c%7C%7C?hl=en",
-   "date": "2026-03-04"
-  },
-  {
-   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5TFdTMHpTRWRsU25wSU5sQmpUeTFNVWxWaWVYYxAB",
-   "author_title": "Alexis Bachmeier",
-   "review_rating": 1,
-   "review_text": "If it\u2019s possible to give a 0 star review, I would. Canceled my appointment without clarifying with me 2 days before my wedding\u2014 I called earlier in the day to see if they could get me in any earlier, but never was there a conversation about cancelling. They offered me nothing for the inconvenience. The lady never even said sorry for the miscommunication. Their messaging system didn\u2019t even alert me that they had canceled on their end. I cannot say anything nice about this business or the employees. Do not waste your business here.",
-   "review_datetime_utc": "06/05/2025 20:21:37",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5TFdTMHpTRWRsU25wSU5sQmpUeTFNVWxWaWVYYxAB!2m1!1s0x0:0x37b7268558de5380!3m1!1s2@1:CAIQACodChtycF9oOk9LWS0zSEdlSnpINlBjTy1MUlVieXc%7C%7C?hl=en",
-   "date": "2025-06-05"
-  },
-  {
-   "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMEwyYVN3EAE",
-   "author_title": "M S",
-   "review_rating": 3,
-   "review_text": "Just O.k. Had mani/pedi done a few days ago. Nails look ok- BUT uneven lengths and polish does not even go all the way up to cuticle so already looks like mani/pedi is a week or so old. Also there was no cuticle clean up(which was very much needed after neglecting my nails for the last year!) or massage done.  Salon itself has also gone downhill in the last year or so-  Very noticeably dirty and no upkeep in the asthetic.",
-   "review_datetime_utc": "01/29/2025 00:59:34",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNBMEwyYVN3EAE!2m1!1s0x0:0x37b7268558de5380!3m1!1s2@1:CIHM0ogKEICAgMCA0L2aSw%7C%7C?hl=en",
-   "date": "2025-01-29"
-  },
-  {
-   "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3LTl1TE5nEAE",
-   "author_title": "K D",
-   "review_rating": 3,
-   "review_text": "I really, really wanted to like this salon after being disappointed by my last salon. The first thing I noticed when I walked in was that the entire place was really dirty. Dust everywhere (it's a nail salon and gets dusty so I was willing to give some grace), scuffed and bare walls, dirty trash can and sink area- overall uninviting. I trucked on, hoping that maybe the nails would be worth it. I will give my nail tech credit, they were super nice and very friendly. 5 stars for personality and conversation. However, I could tell from the moment they laid the acrylic that it was going to be a long mani. I was there for an hour and a half for a full set. When I say my nails were SORE the rest of the day and into the next day!! I was happy with the shape on my right hand but my tech rushed through my left hand, leaving them uneven. Also- the acrylic never came anywhere near my cuticle so my fresh, brand new set looked a week and a half old when I left. The picture I have attached is from today (Wednesday) and I got my brand new fresh set on Saturday. I already need a fill. I will continue my search for a new salon.",
-   "review_datetime_utc": "08/29/2024 12:09:38",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3LTl1TE5nEAE!2m1!1s0x0:0x37b7268558de5380!3m1!1s2@1:CIHM0ogKEICAgID7-9uLNg%7C%7C?hl=en",
-   "date": "2024-08-29"
-  },
-  {
-   "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNubF91Y01REAE",
-   "author_title": "Nicolette Magnuson",
-   "review_rating": 5,
-   "review_text": "Thank you Polished Nail Spa for having me & my family/friends prior to my wedding day on 9.5.24! We loved having the space to all be together getting our nails done all while drinking mimosas & having some breakfast! All the girls absolutely loved their nails! Thank you for such a fun morning :)",
-   "review_datetime_utc": "09/30/2024 23:56:07",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNubF91Y01REAE!2m1!1s0x0:0x37b7268558de5380!3m1!1s2@1:CIHM0ogKEICAgICnl_ucMQ%7C%7C?hl=en",
-   "date": "2024-09-30"
-  },
-  {
-   "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6XzlLX2tnRRAB",
-   "author_title": "Cal Stalvig",
-   "review_rating": 5,
-   "review_text": "Treat Yo Self when you visit Downtown Fargo. I walked in at 10:00 and was greeted by a friendly and welcoming staff. Thank you.",
-   "review_datetime_utc": "06/13/2024 21:15:00",
-   "owner_answer": null,
-   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6XzlLX2tnRRAB!2m1!1s0x0:0x37b7268558de5380!3m1!1s2@1:CIHM0ogKEICAgIDz_9K_kgE%7C%7C?hl=en",
-   "date": "2024-06-13"
-  }
- ],
- "listing_issues": [
-  {
-   "field": "map listing",
-   "openstreetmap": "missing",
-   "fix": "not on OpenStreetMap, the free map many apps and AI tools read"
-  }
- ],
- "unanswered_total": 164,
- "sample": 165,
- "low_unanswered_since_2024": 4
+ "to_use_it": "Forward the page to whoever edits the site.",
+ "menu": [
+  "gbp_cleanup",
+  "ai_listings",
+  "online_booking"
+ ]
 }

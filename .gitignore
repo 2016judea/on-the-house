@@ -4,3 +4,4 @@ work/*/wayback/
 .vercel/
 __pycache__/
 .DS_Store
+.venv/
