@@ -1,0 +1,474 @@
+{
+ "built_on": "2026-09-26",
+ "roll_file": "Hennepin parcel file pulled 2026-08-14",
+ "sales_file_retrieved": "2026-08-18",
+ "county_assessed_parcels": 147801,
+ "contradictions": [
+  {
+   "pin": "0311822110008",
+   "address": "6130 Sycamore La N",
+   "city": "Plymouth",
+   "class": "LAND-COMMERCIAL",
+   "year_built": 2025,
+   "land": 3203000.0,
+   "building": 0,
+   "owner": "COBORN'S INC",
+   "businesses": [
+    "Coborn's Market & Table",
+    "The Global Table",
+    "Coborn's Wine & Spirits"
+   ],
+   "last_sale": "2024-11-01",
+   "last_price": 7803585.0
+  },
+  {
+   "pin": "2411722120008",
+   "address": "412 5th Ave N",
+   "city": "Hopkins",
+   "class": "VACANT LAND-APARTMENT",
+   "year_built": 2025,
+   "land": 2000000.0,
+   "building": 0,
+   "owner": "AUGUSTANA CHP VIEW HOMES INC",
+   "businesses": [
+    "Mizpah Church",
+    "Mis Amigos Spanish Immersion Preschool"
+   ],
+   "last_sale": "2022-11-01",
+   "last_price": 2250000.0
+  },
+  {
+   "pin": "2511824110043",
+   "address": "4855 Gateway Blvd",
+   "city": "Maple Plain",
+   "class": "COMMERCIAL-PREFERRED",
+   "year_built": 2025,
+   "land": 456000.0,
+   "building": 0,
+   "owner": "KWIK TRIP INC",
+   "businesses": [
+    "Bitstop Bitcoin ATM",
+    "Kwik Trip"
+   ],
+   "last_sale": null,
+   "last_price": null
+  },
+  {
+   "pin": "3012021420072",
+   "address": "11930 Business Park Blvd N",
+   "city": "Champlin",
+   "class": "LAND-COMMERCIAL",
+   "year_built": 2025,
+   "land": 606000.0,
+   "building": 0,
+   "owner": "ZAGS 26 LLC",
+   "businesses": [
+    "Lightbridge Academy of Champlin"
+   ],
+   "last_sale": "2026-06-01",
+   "last_price": 6078724.0
+  },
+  {
+   "pin": "1211823130035",
+   "address": "340 Clydesdale Tr",
+   "city": "Medina",
+   "class": "LAND-COMMERCIAL",
+   "year_built": 2025,
+   "land": 400000.0,
+   "building": 0,
+   "owner": "COMPASS MEDINA PROPERTY LLC",
+   "businesses": [
+    "Compass Orthodontics"
+   ],
+   "last_sale": "2025-08-01",
+   "last_price": 450000.0
+  },
+  {
+   "pin": "3112022420017",
+   "address": "17950 Maple Ct",
+   "city": "Dayton",
+   "class": "LAND - INDUSTRIAL",
+   "year_built": 2025,
+   "land": 2348000.0,
+   "building": 0,
+   "owner": "KWIK TRIP INC",
+   "businesses": [
+    "Kwik Trip"
+   ],
+   "last_sale": null,
+   "last_price": null
+  },
+  {
+   "pin": "2311923430088",
+   "address": "20130 Co Rd No 50",
+   "city": "Corcoran",
+   "class": "LAND-COMMERCIAL",
+   "year_built": 2025,
+   "land": 248000.0,
+   "building": 0,
+   "owner": "KAUKAUNA OF MINNESOTA LLC",
+   "businesses": [
+    "Domino's Pizza"
+   ],
+   "last_sale": null,
+   "last_price": null
+  },
+  {
+   "pin": "1211823310048",
+   "address": "500 Hamel Rd",
+   "city": "Medina",
+   "class": "VACANT LAND-APARTMENT",
+   "year_built": 2025,
+   "land": 1200000.0,
+   "building": 0,
+   "owner": "MEDINA APARTMENTS LLC",
+   "businesses": [],
+   "last_sale": "2022-07-01",
+   "last_price": 1600000.0
+  },
+  {
+   "pin": "2511923140025",
+   "address": "7325 Brockton La",
+   "city": "Corcoran",
+   "class": "VACANT LAND-APARTMENT",
+   "year_built": 2025,
+   "land": 320000.0,
+   "building": 0,
+   "owner": "COVENTRY PROPS/CORORAN LLC",
+   "businesses": [],
+   "last_sale": "2025-11-01",
+   "last_price": 1600000.0
+  },
+  {
+   "pin": "1411822110020",
+   "address": "4335 Zachary La N",
+   "city": "Plymouth",
+   "class": "VACANT LAND-APARTMENT",
+   "year_built": 2025,
+   "land": 600000.0,
+   "building": 0,
+   "owner": "COVENTRY PROPS/PLYMOUTH LLC",
+   "businesses": [],
+   "last_sale": "2025-02-01",
+   "last_price": 1402500.0
+  },
+  {
+   "pin": "0311822110019",
+   "address": "6074 Quinwood La N",
+   "city": "Plymouth",
+   "class": "VACANT LAND-APARTMENT",
+   "year_built": 2025,
+   "land": 3025000.0,
+   "building": 0,
+   "owner": "ROERS PLYMOUTH APTS LLC ETAL",
+   "businesses": [],
+   "last_sale": "2025-04-01",
+   "last_price": 525000.0
+  },
+  {
+   "pin": "3111923330001",
+   "address": "23730 State Hwy No 55",
+   "city": "Corcoran",
+   "class": "LAND - INDUSTRIAL",
+   "year_built": 2025,
+   "land": 424000.0,
+   "building": 0,
+   "owner": "CRAIG E SCHERBER",
+   "businesses": [],
+   "last_sale": "2023-05-01",
+   "last_price": 360000.0
+  },
+  {
+   "pin": "3311823130016",
+   "address": "430 Old Crystal Bay Rd N",
+   "city": "Orono",
+   "class": "LAND - INDUSTRIAL",
+   "year_built": 2025,
+   "land": 586000.0,
+   "building": 0,
+   "owner": "TIMOTHY BACHMEIER ET AL",
+   "businesses": [],
+   "last_sale": "2026-06-01",
+   "last_price": 284900.0
+  },
+  {
+   "pin": "2312023410010",
+   "address": "92 Address Pending",
+   "city": "Rogers",
+   "class": "LAND - INDUSTRIAL",
+   "year_built": 2025,
+   "land": 450000.0,
+   "building": 0,
+   "owner": "LARIAT COMPANIES INC",
+   "businesses": [],
+   "last_sale": "2025-04-01",
+   "last_price": 200000.0
+  },
+  {
+   "pin": "0611722410227",
+   "address": "910 Wayzata Blvd E",
+   "city": "Wayzata",
+   "class": "VACANT LAND-APARTMENT",
+   "year_built": 2025,
+   "land": 3950000.0,
+   "building": 0,
+   "owner": "GATEWAY WAYZATA LLC",
+   "businesses": [],
+   "last_sale": null,
+   "last_price": null
+  },
+  {
+   "pin": "2512023440027",
+   "address": "19275 Linden Dr",
+   "city": "Rogers",
+   "class": "INDUSTRIAL-PREFERRED",
+   "year_built": 2025,
+   "land": 271000.0,
+   "building": 0,
+   "owner": "ARMORED INVESTMENTS LLC",
+   "businesses": [],
+   "last_sale": null,
+   "last_price": null
+  },
+  {
+   "pin": "0211823330020",
+   "address": "80 Address Pending",
+   "city": "Medina",
+   "class": "COMMERCIAL-PREFERRED",
+   "year_built": 2025,
+   "land": 157000.0,
+   "building": 0,
+   "owner": "MEP MEDINA LLC",
+   "businesses": [],
+   "last_sale": null,
+   "last_price": null
+  },
+  {
+   "pin": "2111822140045",
+   "address": "40 Address Unassigned",
+   "city": "Plymouth",
+   "class": "COMMERCIAL-PREFERRED",
+   "year_built": 2025,
+   "land": 47000.0,
+   "building": 0,
+   "owner": "FERNBROOK APARTMNTS WEST LLC",
+   "businesses": [],
+   "last_sale": null,
+   "last_price": null
+  },
+  {
+   "pin": "1912021420005",
+   "address": "321 E River Pkwy",
+   "city": "Champlin",
+   "class": "COMMERCIAL-PREFERRED",
+   "year_built": 2025,
+   "land": 0.0,
+   "building": 0,
+   "owner": "MISSISSIPPI CROSSINGS RL EST",
+   "businesses": [],
+   "last_sale": null,
+   "last_price": null
+  }
+ ],
+ "under_1000": [
+  {
+   "pin": "0511821420075",
+   "address": "6918 56th Ave N",
+   "city": "Crystal",
+   "class": "COMMERCIAL-PREFERRED",
+   "total": 100.0,
+   "year_built": 1991,
+   "owner": "SCHUMEISTER PRO HOLDINGS LLC",
+   "last_price": 1774123.0,
+   "last_sale": "2000-07-01",
+   "businesses": [
+    "O'Reilly Auto Parts"
+   ]
+  },
+  {
+   "pin": "3511921130009",
+   "address": "22 Address Unassigned",
+   "city": "Brooklyn Center",
+   "class": "INDUSTRIAL-PREFERRED",
+   "total": 300.0,
+   "year_built": 1985,
+   "owner": "675 STINSON LLC",
+   "last_price": 4950000.0,
+   "last_sale": "2021-12-01",
+   "businesses": []
+  }
+ ],
+ "ratio": {
+  "n": 91,
+  "median": 0.902,
+  "cod": 29.9,
+  "band": [
+   0.6,
+   1.5
+  ],
+  "under": 10,
+  "over": 6
+ },
+ "outliers": [
+  {
+   "parcel_id": "0311822120084",
+   "address": "6050 Sycamore La N, Plymouth",
+   "city": "Plymouth",
+   "use": "COMMERCIAL-PREFERRED",
+   "sale_month": "2025-12",
+   "price": 35750000,
+   "assessed": 4516000,
+   "ratio": 0.12632167832167832
+  },
+  {
+   "parcel_id": "1412023430008",
+   "address": "13400 Rogers Dr, Rogers",
+   "city": "Rogers",
+   "use": "COMMERCIAL-PREFERRED",
+   "sale_month": "2026-04",
+   "price": 25500000,
+   "assessed": 8850000,
+   "ratio": 0.34705882352941175
+  },
+  {
+   "parcel_id": "2511923140026",
+   "address": "7330 Brockton La, Corcoran",
+   "city": "Corcoran",
+   "use": "VACANT LAND-APARTMENT",
+   "sale_month": "2025-09",
+   "price": 2650000,
+   "assessed": 1000000,
+   "ratio": 0.37735849056603776
+  },
+  {
+   "parcel_id": "2011723120033",
+   "address": "3465 Shoreline Dr, Orono",
+   "city": "Orono",
+   "use": "APARTMENT",
+   "sale_month": "2026-03",
+   "price": 1447500,
+   "assessed": 600000,
+   "ratio": 0.41450777202072536
+  },
+  {
+   "parcel_id": "3411823310085",
+   "address": "345 Brown Rd N, Long Lake",
+   "city": "Long Lake",
+   "use": "APARTMENT",
+   "sale_month": "2026-05",
+   "price": 5400000,
+   "assessed": 2261000,
+   "ratio": 0.4187037037037037
+  },
+  {
+   "parcel_id": "1411822110020",
+   "address": "4335 Zachary La N, Plymouth",
+   "city": "Plymouth",
+   "use": "VACANT LAND-APARTMENT",
+   "sale_month": "2025-02",
+   "price": 1402500,
+   "assessed": 600000,
+   "ratio": 0.42780748663101603
+  },
+  {
+   "parcel_id": "1211822410007",
+   "address": "4700 Nathan La N, Plymouth",
+   "city": "Plymouth",
+   "use": "COMMERCIAL-PREFERRED",
+   "sale_month": "2025-12",
+   "price": 25000000,
+   "assessed": 11328000,
+   "ratio": 0.45312
+  },
+  {
+   "parcel_id": "0211821120010",
+   "address": "5930 Earle Brown Dr, Brooklyn Center",
+   "city": "Brooklyn Center",
+   "use": "COMMERCIAL-PREFERRED",
+   "sale_month": "2026-02",
+   "price": 6500000,
+   "assessed": 2978000,
+   "ratio": 0.45815384615384613
+  },
+  {
+   "parcel_id": "2811821330161",
+   "address": "6100 Golden Valley Rd, Golden Valley",
+   "city": "Golden Valley",
+   "use": "COMMERCIAL-PREFERRED",
+   "sale_month": "2026-01",
+   "price": 2874426,
+   "assessed": 1520000,
+   "ratio": 0.5288012284887487
+  },
+  {
+   "parcel_id": "2111822410022",
+   "address": "3025 Harbor La N, Plymouth",
+   "city": "Plymouth",
+   "use": "APARTMENT",
+   "sale_month": "2026-06",
+   "price": 40500000,
+   "assessed": 21647000,
+   "ratio": 0.5344938271604939
+  },
+  {
+   "parcel_id": "3112021130104",
+   "address": "11473 Marketplace Dr N, Champlin",
+   "city": "Champlin",
+   "use": "COMMERCIAL-PREFERRED",
+   "sale_month": "2025-11",
+   "price": 1075000,
+   "assessed": 1635000,
+   "ratio": 1.5209302325581395
+  },
+  {
+   "parcel_id": "2312023140016",
+   "address": "20851 Commerce Blvd, Rogers",
+   "city": "Rogers",
+   "use": "INDUSTRIAL-PREFERRED",
+   "sale_month": "2026-01",
+   "price": 1420000,
+   "assessed": 2560000,
+   "ratio": 1.8028169014084507
+  },
+  {
+   "parcel_id": "2312023130040",
+   "address": "21001 John Milless Dr, Rogers",
+   "city": "Rogers",
+   "use": "LOW INCOME RENTAL",
+   "sale_month": "2026-05",
+   "price": 1200000,
+   "assessed": 2200000,
+   "ratio": 1.8333333333333333
+  },
+  {
+   "parcel_id": "0111822110005",
+   "address": "6000 Nathan La N, Plymouth",
+   "city": "Plymouth",
+   "use": "COMMERCIAL-NON PREFERRED",
+   "sale_month": "2025-11",
+   "price": 5653600,
+   "assessed": 10976000,
+   "ratio": 1.9414178576482242
+  },
+  {
+   "parcel_id": "0311821440026",
+   "address": "1297 Shingle Creek Crsng, Brooklyn Center",
+   "city": "Brooklyn Center",
+   "use": "COMMERCIAL-PREFERRED",
+   "sale_month": "2025-01",
+   "price": 1650000,
+   "assessed": 4000000,
+   "ratio": 2.4242424242424243
+  },
+  {
+   "parcel_id": "3011822440011",
+   "address": "1455 Co Rd No 101, Plymouth",
+   "city": "Plymouth",
+   "use": "COMMERCIAL-PREFERRED",
+   "sale_month": "2026-05",
+   "price": 1123848,
+   "assessed": 6500000,
+   "ratio": 5.783700286871534
+  }
+ ]
+}

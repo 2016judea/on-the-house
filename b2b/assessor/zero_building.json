@@ -1,0 +1,759 @@
+[
+ {
+  "pin": "0611722310089",
+  "address": "400 WALKER AVE S",
+  "city": "Wayzata",
+  "class": "RAILROAD",
+  "land_value": 5051900.0,
+  "building_value": 0.0,
+  "owner": "BURLINGTON NORTHERN INC",
+  "businesses": [
+   {
+    "name": "Wayzata Depot Museum | Lake Minnetonka Historical Society",
+    "category": "history_museum",
+    "confidence": 1.0
+   },
+   {
+    "name": "Wayzata Chamber",
+    "category": "corporate_office",
+    "confidence": 0.91
+   }
+  ]
+ },
+ {
+  "pin": "3411723210064",
+  "address": "23500 SMITHTOWN RD",
+  "city": "Shorewood",
+  "class": "MARINA",
+  "land_value": 4546000.0,
+  "building_value": 0.0,
+  "owner": "W OF SHOREWOOD LLC",
+  "businesses": [
+   {
+    "name": "Minnetonka Marina - Shorewood",
+    "category": "marina",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "0611722410227",
+  "address": "910 WAYZATA BLVD E",
+  "city": "Wayzata",
+  "class": "VACANT LAND-APARTMENT",
+  "land_value": 3950000.0,
+  "building_value": 0.0,
+  "owner": "GATEWAY WAYZATA LLC",
+  "businesses": [
+   {
+    "name": "Wangensteen William K Attorney",
+    "category": "lawyer",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "2611723330012",
+  "address": "21900 MINNETONKA BLVD",
+  "city": "Greenwood",
+  "class": "MARINA",
+  "land_value": 3583000.0,
+  "building_value": 0.0,
+  "owner": "GREENWOOD MARINA LLC",
+  "businesses": [
+   {
+    "name": "Excelsior Bay Harbor",
+    "category": "marina",
+    "confidence": 0.95
+   },
+   {
+    "name": "Bayside Marine",
+    "category": "marina",
+    "confidence": 1.0
+   },
+   {
+    "name": "Lakeside Sports &amp; Pain Clinic",
+    "category": "health_and_medical",
+    "confidence": 0.95
+   },
+   {
+    "name": "Erotas Custom Building",
+    "category": "builders",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "1011723420024",
+  "address": "1955 SHORELINE DR",
+  "city": "Orono",
+  "class": "MARINA",
+  "land_value": 3453000.0,
+  "building_value": 0.0,
+  "owner": "WILLOW PROPERTIES #44 LC",
+  "businesses": [
+   {
+    "name": "Your Boat Club Lake Minnetonka - Smiths Bay",
+    "category": "active_life",
+    "confidence": 0.99
+   }
+  ]
+ },
+ {
+  "pin": "3411723110059",
+  "address": "10 WATER ST",
+  "city": "Excelsior",
+  "class": "LAND-COMMERCIAL",
+  "land_value": 3440000.0,
+  "building_value": 0.0,
+  "owner": "WATER & LAKE HOTEL LLC",
+  "businesses": [
+   {
+    "name": "Excelsior Flea Market",
+    "category": "flea_market",
+    "confidence": 0.97
+   },
+   {
+    "name": "Lake Shore Deli",
+    "category": "restaurant",
+    "confidence": 0.95
+   }
+  ]
+ },
+ {
+  "pin": "0811723410012",
+  "address": "3324 N SHORE DR",
+  "city": "Orono",
+  "class": "MARINA",
+  "land_value": 3242000.0,
+  "building_value": 0.0,
+  "owner": "MAXWELL BAY PROPERTIES LLC",
+  "businesses": [
+   {
+    "name": "Wayzata Marine",
+    "category": "marina",
+    "confidence": 0.99
+   }
+  ]
+ },
+ {
+  "pin": "0311822110008",
+  "address": "6130 SYCAMORE LA N",
+  "city": "Plymouth",
+  "class": "LAND-COMMERCIAL",
+  "land_value": 3203000.0,
+  "building_value": 0.0,
+  "owner": "COBORN'S INC",
+  "businesses": [
+   {
+    "name": "The Global Table",
+    "category": "restaurant",
+    "confidence": 0.9
+   },
+   {
+    "name": "Coborn's Wine & Spirits",
+    "category": "liquor_store",
+    "confidence": 0.9
+   },
+   {
+    "name": "Penny Horse Parlor",
+    "category": "ice_cream_shop",
+    "confidence": 0.9
+   },
+   {
+    "name": "Coborn's Market & Table",
+    "category": "grocery_store",
+    "confidence": 1.0
+   }
+  ]
+ },
+ {
+  "pin": "2711723240050",
+  "address": "135 LAKEVIEW AVE",
+  "city": "Tonka Bay",
+  "class": "MARINA",
+  "land_value": 3085000.0,
+  "building_value": 0.0,
+  "owner": "TONKA BAY PROPERTY HLDGS LLC",
+  "businesses": [
+   {
+    "name": "Caribbean Marina and Gas Dock",
+    "category": "marina",
+    "confidence": 0.98
+   },
+   {
+    "name": "Lost Bay",
+    "category": "restaurant",
+    "confidence": 0.92
+   },
+   {
+    "name": "Bay To Bay Boat Club",
+    "category": "boat_rental_and_training",
+    "confidence": 0.99
+   },
+   {
+    "name": "Tequila Butcher At The Caribbean",
+    "category": "restaurant",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "3112022420017",
+  "address": "17950 MAPLE CT",
+  "city": "Dayton",
+  "class": "LAND - INDUSTRIAL",
+  "land_value": 2348000.0,
+  "building_value": 0.0,
+  "owner": "KWIK TRIP INC",
+  "businesses": [
+   {
+    "name": "Kwik Trip",
+    "category": "convenience_store",
+    "confidence": 0.98
+   }
+  ]
+ },
+ {
+  "pin": "3511723220182",
+  "address": "141 MINNETONKA BLVD",
+  "city": "Excelsior",
+  "class": "MARINA",
+  "land_value": 2207000.0,
+  "building_value": 0.0,
+  "owner": "W OF MINNETONKA INC",
+  "businesses": [
+   {
+    "name": "MarineMax Excelsior",
+    "category": "boat_dealer",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "2411722120008",
+  "address": "412 5TH AVE N",
+  "city": "Hopkins",
+  "class": "VACANT LAND-APARTMENT",
+  "land_value": 2000000.0,
+  "building_value": 0.0,
+  "owner": "AUGUSTANA CHP VIEW HOMES INC",
+  "businesses": [
+   {
+    "name": "Mis Amigos Spanish Immersion Preschool",
+    "category": "preschool",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "1111723210001",
+  "address": "1449 SHORELINE DR",
+  "city": "Orono",
+  "class": "MARINA",
+  "land_value": 1988000.0,
+  "building_value": 0.0,
+  "owner": "RLA FAMILY L P",
+  "businesses": [
+   {
+    "name": "CrossPoint Marine Co.",
+    "category": "boat_service_and_repair",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "0311823340001",
+  "address": "2000 PRAIRIE DR",
+  "city": "Medina",
+  "class": "LAND-INDUSTRIAL",
+  "land_value": 1489000.0,
+  "building_value": 0.0,
+  "owner": "DARWE LLC",
+  "businesses": [
+   {
+    "name": "KD & Company Landscape & Recycling",
+    "category": "landscaping",
+    "confidence": 0.95
+   }
+  ]
+ },
+ {
+  "pin": "0211923130002",
+  "address": "10705 CO RD NO 116",
+  "city": "Corcoran",
+  "class": "GOLF COURSE",
+  "land_value": 1090000.0,
+  "building_value": 0.0,
+  "owner": "GOLDEN ACRES GOLF COURSE INC",
+  "businesses": [
+   {
+    "name": "Golden Acres Golf Course, Inc",
+    "category": "active_life",
+    "confidence": 0.95
+   }
+  ]
+ },
+ {
+  "pin": "1711723330026",
+  "address": "4044 SUNSET DR",
+  "city": "Spring Park",
+  "class": "MARINA",
+  "land_value": 977000.0,
+  "building_value": 0.0,
+  "owner": "SEASONAL INVESTMENTS LLC",
+  "businesses": [
+   {
+    "name": "United States Postal Service",
+    "category": "shipping_center",
+    "confidence": 0.97
+   }
+  ]
+ },
+ {
+  "pin": "2711824310002",
+  "address": "70 ADDRESS UNASSIGNED",
+  "city": "Independence",
+  "class": "FARM",
+  "land_value": 910000.0,
+  "building_value": 0.0,
+  "owner": "WEST END ASSOCIATES INC",
+  "businesses": [
+   {
+    "name": "The Polo Classic",
+    "category": "active_life",
+    "confidence": 0.97
+   }
+  ]
+ },
+ {
+  "pin": "2411824110033",
+  "address": "4894 BRIDGEVINE WAY",
+  "city": "Independence",
+  "class": "VACANT LAND-RESIDENTIAL",
+  "land_value": 835900.0,
+  "building_value": 0.0,
+  "owner": "BOHLAND BRIDGEVINE LLC",
+  "businesses": [
+   {
+    "name": "1031Xchange",
+    "category": "real_estate_agent",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "0911824210001",
+  "address": "7665 CO RD NO 11",
+  "city": "Independence",
+  "class": "FARM",
+  "land_value": 787800.0,
+  "building_value": 0.0,
+  "owner": "LAKE ROBINA FARMS LLC",
+  "businesses": [
+   {
+    "name": "Owl's Nest Farms",
+    "category": "active_life",
+    "confidence": 0.96
+   }
+  ]
+ },
+ {
+  "pin": "0511722330003",
+  "address": "1100 EASTMAN LA",
+  "city": "Wayzata",
+  "class": "MARINA",
+  "land_value": 703000.0,
+  "building_value": 0.0,
+  "owner": "WAYZATA YACHT CLUB",
+  "businesses": [
+   {
+    "name": "Wayzata Yacht Club",
+    "category": "marina",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "0111822420096",
+  "address": "5760 NATHAN LA N",
+  "city": "Plymouth",
+  "class": "LAND-COMMERCIAL",
+  "land_value": 696000.0,
+  "building_value": 0.0,
+  "owner": "BASS LAKE ROAD HOLDINGS EAST",
+  "businesses": [
+   {
+    "name": "Speedway",
+    "category": "gas_station",
+    "confidence": 1.0
+   }
+  ]
+ },
+ {
+  "pin": "0611722240106",
+  "address": "317 WAYZATA BLVD E",
+  "city": "Wayzata",
+  "class": "VACANT LAND-RESIDENTIAL",
+  "land_value": 612000.0,
+  "building_value": 0.0,
+  "owner": "THOMAS J MARTINSON ET AL",
+  "businesses": [
+   {
+    "name": "Melissa Patterson, Ma, Lpcc, Ladc, Lsc",
+    "category": null,
+    "confidence": 0.92
+   },
+   {
+    "name": "Bruce Martinson Family Cosmetic Dentistry",
+    "category": "dentist",
+    "confidence": 0.92
+   },
+   {
+    "name": "Wayzata Medical Spa",
+    "category": "medical_spa",
+    "confidence": 1.0
+   }
+  ]
+ },
+ {
+  "pin": "3012021420072",
+  "address": "11930 BUSINESS PARK BLVD N",
+  "city": "Champlin",
+  "class": "LAND-COMMERCIAL",
+  "land_value": 606000.0,
+  "building_value": 0.0,
+  "owner": "ZAGS 26 LLC",
+  "businesses": [
+   {
+    "name": "Lightbridge Academy of Champlin",
+    "category": "home_service",
+    "confidence": 0.97
+   }
+  ]
+ },
+ {
+  "pin": "2511824110043",
+  "address": "4855 GATEWAY BLVD",
+  "city": "Maple Plain",
+  "class": "COMMERCIAL-PREFERRED",
+  "land_value": 456000.0,
+  "building_value": 0.0,
+  "owner": "KWIK TRIP INC",
+  "businesses": [
+   {
+    "name": "Bitstop Bitcoin ATM",
+    "category": null,
+    "confidence": 1.0
+   },
+   {
+    "name": "Midwest Dental Maple Plain",
+    "category": "general_dentistry",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "0611823120004",
+  "address": "4700 CO RD NO 19",
+  "city": "Medina",
+  "class": "FARM",
+  "land_value": 450000.0,
+  "building_value": 0.0,
+  "owner": "PEGASUS LAND SOLUTIONS LLC",
+  "businesses": [
+   {
+    "name": "Dean Johnson Homes, Inc.",
+    "category": "contractor",
+    "confidence": 0.92
+   },
+   {
+    "name": "CAS Tax and Accounting Services",
+    "category": "trusts",
+    "confidence": 0.92
+   },
+   {
+    "name": "Farmers Insurance - Michael Van Beusekom",
+    "category": "auto_insurance",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "1211823130035",
+  "address": "340 CLYDESDALE TR",
+  "city": "Medina",
+  "class": "LAND-COMMERCIAL",
+  "land_value": 400000.0,
+  "building_value": 0.0,
+  "owner": "COMPASS MEDINA PROPERTY LLC",
+  "businesses": [
+   {
+    "name": "Compass Orthodontics",
+    "category": "orthodontist",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "0311723220015",
+  "address": "2325 WATERTOWN RD",
+  "city": "Orono",
+  "class": "VACANT LAND-RESIDENTIAL",
+  "land_value": 392000.0,
+  "building_value": 0.0,
+  "owner": "KELLEY & KELLEY INC",
+  "businesses": [
+   {
+    "name": "Kelley & Kelley Nursery",
+    "category": "nursery_and_gardening",
+    "confidence": 1.0
+   }
+  ]
+ },
+ {
+  "pin": "3312022240005",
+  "address": "56 ADDRESS UNASSIGNED",
+  "city": "Dayton",
+  "class": "GOLF COURSE",
+  "land_value": 375000.0,
+  "building_value": 0.0,
+  "owner": "SUNDANCE DEVELOPMENT",
+  "businesses": [
+   {
+    "name": "Sundance Golf & Bowl, Inc.",
+    "category": "active_life",
+    "confidence": 1.0
+   }
+  ]
+ },
+ {
+  "pin": "2511923140025",
+  "address": "7325 BROCKTON LA",
+  "city": "Corcoran",
+  "class": "VACANT LAND-APARTMENT",
+  "land_value": 320000.0,
+  "building_value": 0.0,
+  "owner": "COVENTRY PROPS/CORORAN LLC",
+  "businesses": [
+   {
+    "name": "Applewood Pointe of Corcoran",
+    "category": "assisted_living_facility",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "2311824320011",
+  "address": "1980 CO RD NO 90",
+  "city": "Independence",
+  "class": "LAND - INDUSTRIAL",
+  "land_value": 302000.0,
+  "building_value": 0.0,
+  "owner": "SEASONAL INVESTMENTS LLC",
+  "businesses": [
+   {
+    "name": "Twin Pines Tree Care & Landscape",
+    "category": "tree_services",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "2411923220001",
+  "address": "8300 CO RD NO 116",
+  "city": "Corcoran",
+  "class": "FARM",
+  "land_value": 293800.0,
+  "building_value": 0.0,
+  "owner": "DOROTHY E SCHUTTE TRUSTEE",
+  "businesses": [
+   {
+    "name": "Saint Therese of Corcoran",
+    "category": "retirement_home",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "2311923430088",
+  "address": "20130 CO RD NO 50",
+  "city": "Corcoran",
+  "class": "LAND-COMMERCIAL",
+  "land_value": 248000.0,
+  "building_value": 0.0,
+  "owner": "KAUKAUNA OF MINNESOTA LLC",
+  "businesses": [
+   {
+    "name": "Domino's Pizza",
+    "category": "pizza_delivery_service",
+    "confidence": 0.92
+   },
+   {
+    "name": "10-50 Club",
+    "category": "burger_restaurant",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "3411724340215",
+  "address": "6800 BELLFLOWER DR",
+  "city": "Minnetrista",
+  "class": "VACANT LAND-RESIDENTIAL",
+  "land_value": 180000.0,
+  "building_value": 0.0,
+  "owner": "M/I HOMES OF MPLS/ST PAUL",
+  "businesses": [
+   {
+    "name": "M/I Homes Woodland Cove",
+    "category": "home_developer",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "2911821220133",
+  "address": "2452 WINNETKA AVE N",
+  "city": "Golden Valley",
+  "class": "VACANT LAND-APARTMENT",
+  "land_value": 150000.0,
+  "building_value": 0.0,
+  "owner": "LIBERTY APARTMENTS LLC",
+  "businesses": [
+   {
+    "name": "Western Union",
+    "category": "money_transfer_services",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "3611923440144",
+  "address": "19162 62ND AVE",
+  "city": "Corcoran",
+  "class": "VACANT LAND-RESIDENTIAL",
+  "land_value": 136200.0,
+  "building_value": 0.0,
+  "owner": "M R MAGANTI/K K NANNAPANENI",
+  "businesses": [
+   {
+    "name": "Walcott Glen by Pulte Homes",
+    "category": "builders",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "3312022310108",
+  "address": "15240 113TH AVE N",
+  "city": "Dayton",
+  "class": "GOLF COURSE",
+  "land_value": 132000.0,
+  "building_value": 0.0,
+  "owner": "SUNDANCE DEVELOPMENT LLC",
+  "businesses": [
+   {
+    "name": "HI-Score North Bowl Pro Shop",
+    "category": "sporting_goods",
+    "confidence": 0.98
+   }
+  ]
+ },
+ {
+  "pin": "2811924320064",
+  "address": "7819 BRIDGEWATER CT",
+  "city": "Greenfield",
+  "class": "VACANT LAND-RESIDENTIAL",
+  "land_value": 18800.0,
+  "building_value": 0.0,
+  "owner": "S E JANKOWIAK/J C JANKOWIAK",
+  "businesses": [
+   {
+    "name": "Kettering Creek Villas by JP Brooks Builders",
+    "category": "builders",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "2711723230146",
+  "address": "97 ADDRESS UNASSIGNED",
+  "city": "Tonka Bay",
+  "class": "LAND-COMMERCIAL",
+  "land_value": 10000.0,
+  "building_value": 0.0,
+  "owner": "SOULEWIND PROPERTIES ONE LLC",
+  "businesses": [
+   {
+    "name": "Tonka Bay Marina",
+    "category": "marina",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "3111723440028",
+  "address": "27225 SMITHTOWN RD",
+  "city": "Shorewood",
+  "class": "FARM",
+  "land_value": 2200.0,
+  "building_value": 0.0,
+  "owner": "TENA J BRANDHORST TRUSTEES",
+  "businesses": [
+   {
+    "name": "Twin Orchards Nursery",
+    "category": "nursery_and_gardening",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "3211822130022",
+  "address": "40 ADDRESS UNASSIGNED",
+  "city": "Plymouth",
+  "class": "VACANT LAND-RESIDENTIAL",
+  "land_value": 300.0,
+  "building_value": 0.0,
+  "owner": "STEVEN C SWANSON ET AL",
+  "businesses": [
+   {
+    "name": "NovoRoi Systems, LLC",
+    "category": "software_development",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "1711821220017",
+  "address": "86 ADDRESS UNASSIGNED",
+  "city": "New Hope",
+  "class": "LAND-COMMERCIAL",
+  "land_value": 100.0,
+  "building_value": 0.0,
+  "owner": "HOOGLAND & ZOERHOFF PTR",
+  "businesses": [
+   {
+    "name": "Lakes Area Realty",
+    "category": "real_estate_agent",
+    "confidence": 0.92
+   }
+  ]
+ },
+ {
+  "pin": "0511821420075",
+  "address": "6918 56TH AVE N",
+  "city": "Crystal",
+  "class": "COMMERCIAL-PREFERRED",
+  "land_value": 100.0,
+  "building_value": 0.0,
+  "owner": "SCHUMEISTER PRO HOLDINGS LLC",
+  "businesses": [
+   {
+    "name": "O'Reilly Auto Parts",
+    "category": "auto_parts_and_supply_store",
+    "confidence": 0.99
+   }
+  ]
+ }
+]

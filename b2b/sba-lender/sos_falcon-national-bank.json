@@ -1,0 +1,3118 @@
+{
+ "all metro service companies": {
+  "borrower": "All Metro Service Companies LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=All+Metro+Service&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "All Metro Services, LLC",
+   "All Metro Services LLC"
+  ]
+ },
+ "biomorph": {
+  "borrower": "Biomorph, Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Biomorph+Inc&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Biomorph, Inc."
+  ],
+  "match": "Biomorph, Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=2191278e-03f3-ec11-91bc-00155d32b93a",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "6/23/2022",
+  "history": [
+   {
+    "date": "6/23/2022",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "6/29/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/26/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/1/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/13/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "blaine chiropractic center": {
+  "borrower": "Blaine Chiropractic Center, P.A.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Blaine+Chiropractic+Center&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Blaine Chiropractic Center, P.A."
+  ],
+  "match": "Blaine Chiropractic Center, P.A.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=b0d2aeee-99d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "09/02/1981",
+  "history": [
+   {
+    "date": "09/02/1981",
+    "event": "Original Filing"
+   },
+   {
+    "date": "10/27/1988",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "3/15/2019",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "7/23/2019",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "1/20/2023",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "10/31/1988",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/19/1989",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "01/17/1990",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/06/1991",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "09/23/1992",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/28/1993",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/06/1994",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/10/1995",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/16/1996",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/20/1997",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/20/1998",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/27/1999",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/05/2000",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/30/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/13/2002",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/09/2004",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/16/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/08/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/21/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/17/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "09/17/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/01/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/25/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/28/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "6/27/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/17/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/26/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/8/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/31/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "7/23/2019",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "4/17/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/10/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "6/23/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/13/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/7/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/19/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "blue water marine rigging and electronics": {
+  "borrower": "Blue Water Marine Rigging and Electronics Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Blue+Water+Marine&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Blue Water Marine Rigging and Electronics Inc."
+  ],
+  "match": "Blue Water Marine Rigging and Electronics Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=4d06a55d-a968-f011-9094-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "7/24/2025",
+  "history": [
+   {
+    "date": "7/24/2025",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": []
+ },
+ "bredahl plumbing": {
+  "borrower": "Bredahl Plumbing Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Bredahl+Plumbing+Inc&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Bredahl Plumbing, Inc."
+  ],
+  "match": "Bredahl Plumbing, Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=05c60bf3-b1d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "08/04/1989",
+  "history": [
+   {
+    "date": "08/04/1989",
+    "event": "Original Filing"
+   },
+   {
+    "date": "9/25/2013",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "6/8/2015",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "10/6/2015",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "2/20/2020",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "4/16/2020",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "01/08/1990",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/27/1990",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/04/1991",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/04/1992",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/22/1993",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/04/1994",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/05/1995",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/19/1996",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/03/1997",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/24/1999",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/15/1999",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/01/2000",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/14/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/10/2002",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/06/2004",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/16/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/30/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/05/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/23/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/25/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/21/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/25/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/23/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/27/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/6/2015",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "9/30/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/26/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/30/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/16/2020",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "9/16/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/16/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/31/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/4/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/28/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "brook west chiropractic clinic": {
+  "borrower": "Brook West Chiropractic Clinic, PLLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Brook+West+Chiropractic&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Brook West Chiropractic Clinic, PLLC"
+  ],
+  "match": "Brook West Chiropractic Clinic, PLLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=352ed056-8ed4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "09/07/2006",
+  "history": [
+   {
+    "date": "09/07/2006",
+    "event": "Original Filing"
+   },
+   {
+    "date": "03/11/2009",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "3/24/2020",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "6/20/2024",
+    "event": "Registered Office and/or Agent"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "11/15/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/08/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/06/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/29/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/05/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/17/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/10/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/3/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/28/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/29/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/7/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/19/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/27/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/13/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/28/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/30/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/25/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/14/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/26/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "buildings consulting group": {
+  "borrower": "Buildings Consulting Group, Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Buildings+Consulting+Group&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Buildings Consulting Group, Inc."
+  ],
+  "match": "Buildings Consulting Group, Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=f4639856-a3d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "12/29/1994",
+  "history": [
+   {
+    "date": "12/29/1994",
+    "event": "Original Filing"
+   },
+   {
+    "date": "04/06/2009",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "2/25/2013",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "3/8/2013",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "1/26/2023",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "3/9/2023",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "07/23/1996",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/05/1997",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/29/1998",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/04/1999",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/07/2000",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/25/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/20/2002",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/23/2004",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/01/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/30/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/11/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/14/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/23/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/16/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/12/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/8/2013",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "8/20/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/19/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "6/8/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "6/13/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/4/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/20/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/22/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/22/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/9/2023",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "10/2/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/3/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "coleman lawn snow": {
+  "borrower": "Coleman Lawn & Snow LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Coleman+Lawn+%26&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Coleman Lawn & Snow LLC"
+  ],
+  "match": "Coleman Lawn & Snow LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=ee271589-86a6-ed11-9068-00155d01c614",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "2/6/2023",
+  "history": [
+   {
+    "date": "2/6/2023",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "3/13/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/20/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/11/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "croft stern jewelry designs": {
+  "borrower": "Croft & Stern Jewelry Designs LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Croft+%26+Stern&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Croft & Stern Jewelry Designs, LLC"
+  ],
+  "match": "Croft & Stern Jewelry Designs, LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=a8f3e39f-cec1-ed11-9069-00155d01c614",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "3/13/2023",
+  "history": [
+   {
+    "date": "3/13/2023",
+    "event": "Original Filing"
+   },
+   {
+    "date": "3/16/2023",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "12/13/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/22/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/2/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "crosslake enterprises": {
+  "borrower": "Crosslake Enterprises Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Crosslake+Enterprises+Inc&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Crosslake Enterprises Inc."
+  ],
+  "match": "Crosslake Enterprises Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=bdadb6b8-bde5-eb11-91b1-00155d32b93a",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "7/15/2021",
+  "history": [
+   {
+    "date": "7/15/2021",
+    "event": "Original Filing"
+   },
+   {
+    "date": "8/17/2021",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "3/31/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/23/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/7/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/30/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "dae fitness 1": {
+  "borrower": "DAE Fitness 1 Corp",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=DAE+Fitness+1&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "DAE Fitness 1 Corp"
+  ],
+  "match": "DAE Fitness 1 Corp",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=286cfdd1-ee83-ee11-9078-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "11/15/2023",
+  "history": [
+   {
+    "date": "11/15/2023",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "10/2/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/23/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/4/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "dae fitness 1 profit sharing plan": {
+  "borrower": "DAE Fitness 1 Corp. Profit Sharing Plan",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=DAE+Fitness+1&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "DAE Fitness 1 Corp"
+  ]
+ },
+ "eichhorst investments": {
+  "borrower": "Eichhorst Investments LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Eichhorst+Investments+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Eichhorst Investments LLC"
+  ],
+  "match": "Eichhorst Investments LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=625efc5c-7234-e511-b14d-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "7/27/2015",
+  "history": [
+   {
+    "date": "7/27/2015",
+    "event": "Original Filing"
+   },
+   {
+    "date": "12/21/2020",
+    "event": "Amendment"
+   },
+   {
+    "date": "2/20/2024",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "2/26/2024",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "3/19/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/2/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/29/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/1/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/1/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/14/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/9/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/15/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/12/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/9/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "elite medical management services": {
+  "borrower": "ELITE MEDICAL MANAGEMENT SERVICES LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=ELITE+MEDICAL+MANAGEMENT&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Elite Medical Management, LLC",
+   "Elite Medical Management Services L.L.C.",
+   "Elite Medical Management Services L.L.C."
+  ],
+  "match": "Elite Medical Management Services L.L.C.",
+  "ambiguous": true,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=ff3d7428-2ea0-ea11-919c-00155d32b905",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "5/27/2020",
+  "history": [
+   {
+    "date": "5/27/2020",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "9/10/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/25/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/1/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/26/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/5/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "falls coffee": {
+  "borrower": "Falls Coffee LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Falls+Coffee+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Falls Coffee L.L.C."
+  ],
+  "match": "Falls Coffee L.L.C.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=efae855e-1264-ec11-91b6-00155d32b93a",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "12/23/2021",
+  "history": [
+   {
+    "date": "12/23/2021",
+    "event": "Original Filing"
+   },
+   {
+    "date": "2/8/2023",
+    "event": "Administrative Termination"
+   },
+   {
+    "date": "3/2/2023",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "3/2/2023",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "3/5/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/28/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "forage retail": {
+  "borrower": "Forage Retail LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Forage+Retail+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Forage Retail LLC"
+  ],
+  "match": "Forage Retail LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=0d59a62c-ec46-f011-9092-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "6/11/2025",
+  "history": [
+   {
+    "date": "6/11/2025",
+    "event": "Original Filing"
+   },
+   {
+    "date": "8/5/2025",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "1/1/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "freedom team": {
+  "borrower": "FREEDOM TEAM LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=FREEDOM+TEAM+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Freedom Team LLC",
+   "Freedom Team LLC DBA Wandering Spirits"
+  ],
+  "match": "Freedom Team LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=b8b4824d-fd61-ee11-9077-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "10/3/2023",
+  "history": [
+   {
+    "date": "10/3/2023",
+    "event": "Original Filing"
+   },
+   {
+    "date": "10/3/2024",
+    "event": "Amendment"
+   },
+   {
+    "date": "10/4/2024",
+    "event": "Amendment"
+   },
+   {
+    "date": "10/30/2024",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "8/5/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/2/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "health orientated pool enterprise": {
+  "borrower": "Health Orientated Pool Enterprise, Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Health+Orientated+Pool&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Health Orientated Pool Enterprise, Inc."
+  ],
+  "match": "Health Orientated Pool Enterprise, Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=b2bd4c98-a3d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "11/15/1999",
+  "history": [
+   {
+    "date": "11/15/1999",
+    "event": "Original Filing"
+   },
+   {
+    "date": "11/15/2002",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "03/17/2005",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "6/8/2015",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "8/10/2015",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "3/17/2025",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "3/17/2025",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "12/13/2000",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/09/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/15/2002",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "01/14/2004",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/03/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/24/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "09/19/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/09/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/25/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/04/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/28/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/26/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/9/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/10/2015",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "12/28/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/24/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/12/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/5/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/12/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/16/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/2/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/20/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/15/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/17/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "jam hops gymnastics factory": {
+  "borrower": "JAM HOPS GYMNASTICS FACTORY, INC.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=JAM+HOPS+GYMNASTICS&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "JAM HOPS Gymnastics Booster Club",
+   "JAM HOPS GYMNASTICS FACTORY, INC."
+  ],
+  "match": "JAM HOPS GYMNASTICS FACTORY, INC.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=2090b399-abd4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "04/28/1997",
+  "history": [
+   {
+    "date": "04/28/1997",
+    "event": "Original Filing"
+   },
+   {
+    "date": "12/05/2002",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "01/08/2007",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "03/23/2007",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "8/1/2012",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "10/1/2012",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "12/28/2017",
+    "event": "Registered Office and/or Agent"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "12/21/1999",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/09/2000",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/13/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/09/2002",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/04/2004",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/23/2007",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "03/17/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/25/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/18/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/1/2012",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "6/14/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/11/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/2/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/15/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/9/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/24/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/26/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/10/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/28/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/28/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/1/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/27/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/11/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/2/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "k b service": {
+  "borrower": "K.B. SERVICE COMPANY",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=K+B+SERVICE&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "K.B. SERVICE COMPANY",
+   "KB Services, LLC"
+  ],
+  "match": "K.B. SERVICE COMPANY",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=754d07ab-9fd4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "07/03/1995",
+  "history": [
+   {
+    "date": "07/03/1995",
+    "event": "Original Filing"
+   },
+   {
+    "date": "02/26/1996",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "01/15/1999",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "2/23/2024",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "4/24/2024",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "02/27/1996",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "01/19/1999",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/05/2000",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/28/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/05/2003",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/13/2003",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "01/22/2004",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/05/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/21/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "09/13/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/14/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/25/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/19/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/26/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/28/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/14/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/26/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/12/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/3/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/19/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/8/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/17/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/21/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/13/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/19/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/24/2024",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "9/22/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "kalisch": {
+  "borrower": "Kalisch, Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Kalisch+Inc&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "KALISCH, INC."
+  ],
+  "match": "KALISCH, INC.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=aa6d1940-abd4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "02/08/2002",
+  "history": [
+   {
+    "date": "02/08/2002",
+    "event": "Original Filing"
+   },
+   {
+    "date": "01/09/2008",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "4/26/2019",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "2/11/2021",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "3/15/2021",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "10/25/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/09/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/26/2019",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "3/15/2021",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "11/7/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/4/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/3/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/6/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "ke marsh construction": {
+  "borrower": "KE Marsh Construction, LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=KE+Marsh+Construction&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": []
+ },
+ "kidspeak": {
+  "borrower": "Kidspeak, Ltd.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Kidspeak+Ltd&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Kidspeak, Ltd."
+  ],
+  "match": "Kidspeak, Ltd.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=653442d1-b3d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "10/17/2001",
+  "history": [
+   {
+    "date": "10/17/2001",
+    "event": "Original Filing"
+   },
+   {
+    "date": "01/17/2006",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "04/14/2006",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "03/17/2010",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "2/20/2020",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "4/17/2020",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "9/15/2023",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "10/5/2023",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "08/07/2002",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/14/2006",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "03/08/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/08/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/09/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/09/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/02/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/21/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/12/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/28/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/2/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/17/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/4/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/10/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/17/2020",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "3/1/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/2/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/30/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/26/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "7/8/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/23/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "kings classic custom": {
+  "borrower": "Kings Classic & Custom LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Kings+Classic+%26&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Kings Classic & Custom, LLC",
+   "Kings Classic & Custom LLC"
+  ],
+  "match": "Kings Classic & Custom, LLC",
+  "ambiguous": true,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=294c5a6e-b9ef-ef11-908e-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "2/20/2025",
+  "history": [
+   {
+    "date": "2/20/2025",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": []
+ },
+ "last stop liquor": {
+  "borrower": "Last Stop Liquor Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Last+Stop+Liquor&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Last Stop Liquor Inc."
+  ],
+  "match": "Last Stop Liquor Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=6acfb432-f142-f011-9092-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "6/6/2025",
+  "history": [
+   {
+    "date": "6/6/2025",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": []
+ },
+ "loadstar dumpsters": {
+  "borrower": "LoadStar Dumpsters LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=LoadStar+Dumpsters+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "LoadStar Dumpsters LLC"
+  ],
+  "match": "LoadStar Dumpsters LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=545d03f3-648f-f011-9095-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "9/11/2025",
+  "history": [
+   {
+    "date": "9/11/2025",
+    "event": "Original Filing"
+   },
+   {
+    "date": "10/28/2025",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": []
+ },
+ "marble discount tile supply": {
+  "borrower": "MARBLE DISCOUNT & TILE SUPPLY, INC.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=MARBLE+DISCOUNT+%26&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Marble Discount & Tile Supply, Inc."
+  ],
+  "match": "Marble Discount & Tile Supply, Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=8e31957c-b2d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "10/17/2000",
+  "history": [
+   {
+    "date": "10/17/2000",
+    "event": "Original Filing"
+   },
+   {
+    "date": "2/11/2021",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "4/15/2021",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "1/26/2023",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "4/19/2023",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "1/11/2024",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "03/24/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/19/2002",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/15/2004",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/01/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/20/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/20/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "09/18/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "09/29/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/23/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "07/19/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/21/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/28/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/29/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/22/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/14/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/18/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/19/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/27/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/15/2021",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "4/19/2023",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "12/26/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/22/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "minnesota standard services": {
+  "borrower": "Minnesota Standard Services LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Minnesota+Standard+Services&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Minnesota Standard Services LLC"
+  ],
+  "match": "Minnesota Standard Services LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=f762aed8-530b-f111-909e-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "2/16/2026",
+  "history": [
+   {
+    "date": "2/16/2026",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": []
+ },
+ "molldrem family dentistry": {
+  "borrower": "Molldrem Family Dentistry, P.A.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Molldrem+Family+Dentistry&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Molldrem Family Dentistry, P.A."
+  ],
+  "match": "Molldrem Family Dentistry, P.A.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=e1d68c80-87d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "12/17/2003",
+  "history": [
+   {
+    "date": "12/17/2003",
+    "event": "Original Filing"
+   },
+   {
+    "date": "11/17/2005",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "01/09/2008",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "10/08/2008",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "2/27/2017",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "4/25/2017",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "2/23/2024",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "4/8/2024",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "11/17/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "09/19/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/08/2008",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "12/30/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/29/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/28/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/31/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/28/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/25/2017",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "10/31/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/7/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/10/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/11/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/9/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/8/2024",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "10/22/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "mse graphics": {
+  "borrower": "MSE Graphics LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=MSE+Graphics+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "MSE Graphics, LLC"
+  ],
+  "match": "MSE Graphics, LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=756423e6-87d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "02/25/2004",
+  "history": [
+   {
+    "date": "02/25/2004",
+    "event": "Original Filing"
+   },
+   {
+    "date": "01/11/2006",
+    "event": "Administrative Termination"
+   },
+   {
+    "date": "12/14/2007",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "12/14/2007",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "10/26/2021",
+    "event": "Registered Office and/or Agent"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "12/14/2007",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "09/15/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/05/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/01/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/19/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/25/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/6/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/24/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/14/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/3/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/11/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/29/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/4/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/30/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/8/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/13/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/19/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/27/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/3/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/7/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "nala bear": {
+  "borrower": "Nala-Bear LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Nala+Bear+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Nala-Bear LLC"
+  ],
+  "match": "Nala-Bear LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=37002674-1a65-ee11-9077-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "10/7/2023",
+  "history": [
+   {
+    "date": "10/7/2023",
+    "event": "Original Filing"
+   },
+   {
+    "date": "7/28/2024",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "1/22/2026",
+    "event": "Administrative Termination"
+   },
+   {
+    "date": "5/9/2026",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "7/19/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/9/2026",
+    "event": "Annual Reinstatement"
+   }
+  ]
+ },
+ "northern brands": {
+  "borrower": "NORTHERN BRANDS INC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=NORTHERN+BRANDS+INC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": []
+ },
+ "pario industries": {
+  "borrower": "Pario Industries LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Pario+Industries+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Pario Industries LLC"
+  ],
+  "match": "Pario Industries LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=0131de67-5ff6-eb11-91b1-00155d32b93a",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "8/5/2021",
+  "history": [
+   {
+    "date": "8/5/2021",
+    "event": "Original Filing"
+   },
+   {
+    "date": "1/15/2025",
+    "event": "Administrative Termination"
+   },
+   {
+    "date": "8/24/2025",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "8/19/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/23/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/24/2025",
+    "event": "Annual Reinstatement"
+   }
+  ]
+ },
+ "passageway financial": {
+  "borrower": "Passageway Financial LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Passageway+Financial+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Passageway Financial LLC",
+   "Passageway Financial LLC"
+  ],
+  "match": "Passageway Financial LLC",
+  "ambiguous": true,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=247bd5f1-52f2-f011-909a-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "1/15/2026",
+  "history": [
+   {
+    "date": "1/15/2026",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": []
+ },
+ "plymouth jims liquor": {
+  "borrower": "Plymouth Jims Liquor INC.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Plymouth+Jims+Liquor&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Plymouth Jims Liquor INC."
+  ],
+  "match": "Plymouth Jims Liquor INC.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c722a1b1-25d2-eb11-9189-00155d01c40e",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "6/20/2021",
+  "history": [
+   {
+    "date": "6/20/2021",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "1/20/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/4/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/27/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/30/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "plymouth jimsliquor": {
+  "borrower": "Plymouth JimsLiquor INC.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Plymouth+JimsLiquor+INC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Plymouth Jims Liquor INC."
+  ],
+  "match": "Plymouth Jims Liquor INC.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c722a1b1-25d2-eb11-9189-00155d01c40e",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "6/20/2021",
+  "history": [
+   {
+    "date": "6/20/2021",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "1/20/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/4/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/27/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/30/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "precision industries": {
+  "borrower": "PRECISION INDUSTRIES INC.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=PRECISION+INDUSTRIES+INC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Precision Industries Inc."
+  ],
+  "match": "Precision Industries Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=6490b7f9-a57e-ee11-9078-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "11/8/2023",
+  "history": [
+   {
+    "date": "11/8/2023",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "3/7/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/30/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "renaissance coating consultants": {
+  "borrower": "RENAISSANCE COATING CONSULTANTS, LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=RENAISSANCE+COATING+CONSULTANTS&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Renaissance Coating Consultants, LLC"
+  ],
+  "match": "Renaissance Coating Consultants, LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=078bbb88-90d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "09/27/2007",
+  "history": [
+   {
+    "date": "09/27/2007",
+    "event": "Original Filing"
+   },
+   {
+    "date": "4/21/2014",
+    "event": "Administrative Termination"
+   },
+   {
+    "date": "2/4/2015",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "08/26/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "08/05/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/13/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/23/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/7/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/4/2015",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "10/7/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/1/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/20/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/17/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/12/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/24/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/19/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/28/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/11/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/8/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "7/20/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "ridgewell living": {
+  "borrower": "Ridgewell Living LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Ridgewell+Living+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Ridgewell Living LLC"
+  ],
+  "match": "Ridgewell Living LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=38bd7c70-1e1b-ec11-91b3-00155d32b93a",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "9/21/2021",
+  "history": [
+   {
+    "date": "9/21/2021",
+    "event": "Original Filing"
+   },
+   {
+    "date": "10/6/2021",
+    "event": "Amendment"
+   },
+   {
+    "date": "2/27/2023",
+    "event": "Registered Office and/or Agent"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "9/20/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/5/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/18/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/9/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "route 65 salesand classics": {
+  "borrower": "Route 65 Salesand Classics, LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Route+65+Salesand&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Route 65 Sales and Classics, LLC"
+  ],
+  "match": "Route 65 Sales and Classics, LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c4a0e997-6821-e811-9158-00155d0d6f70",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "3/6/2018",
+  "history": [
+   {
+    "date": "3/6/2018",
+    "event": "Original Filing"
+   },
+   {
+    "date": "11/11/2019",
+    "event": "Registered Office and/or Agent"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "11/11/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/5/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/30/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/19/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/16/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/13/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/6/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "sjs enterprises": {
+  "borrower": "SJS Enterprises, LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=SJS+Enterprises+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": []
+ },
+ "spmg holding": {
+  "borrower": "SPMG HOLDING INC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=SPMG+HOLDING+INC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "SPMG HOLDING INC"
+  ],
+  "match": "SPMG HOLDING INC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=0e0f25c8-dec3-e711-8189-00155d01c6c6",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "11/7/2017",
+  "history": [
+   {
+    "date": "11/7/2017",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "12/30/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "6/13/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/15/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "7/2/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/14/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/4/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/27/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/2/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "sunrise specialty contracting": {
+  "borrower": "Sunrise Specialty Contracting, Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Sunrise+Specialty+Contracting&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Sunrise Specialty Contracting, Inc."
+  ],
+  "match": "Sunrise Specialty Contracting, Inc.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=cd1c4978-b6d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "08/12/1980",
+  "history": [
+   {
+    "date": "08/12/1980",
+    "event": "Original Filing"
+   },
+   {
+    "date": "09/09/1988",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "04/03/2009",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "4/14/2025",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "7/9/2025",
+    "event": "Amendment"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "09/12/1988",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "01/06/1989",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/01/1989",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "01/16/1990",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/09/1991",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/23/1993",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/02/1993",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/13/1995",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "01/08/1997",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/04/1998",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/22/1999",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/31/2000",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/27/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/04/2002",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/10/2004",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "06/09/2005",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/30/2006",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/17/2007",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/29/2008",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/13/2009",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "05/12/2010",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "03/01/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/1/2012",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/12/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "7/3/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "7/2/2015",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/16/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "8/16/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/3/2018",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "5/21/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/5/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/20/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/8/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "6/30/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/16/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "4/14/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "6/19/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "task masters handyman service": {
+  "borrower": "Task Masters Handyman Service Inc.",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Task+Masters+Handyman&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "TASK MASTERS HANDYMAN SERVICE INC."
+  ],
+  "match": "TASK MASTERS HANDYMAN SERVICE INC.",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=056fcf23-b3d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "06/29/1998",
+  "history": [
+   {
+    "date": "06/29/1998",
+    "event": "Original Filing"
+   },
+   {
+    "date": "11/08/2000",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "01/17/2006",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "04/05/2006",
+    "event": "Registered Office and/or Agent"
+   },
+   {
+    "date": "01/09/2008",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "04/02/2009",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "3/13/2018",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "3/15/2018",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "1/8/2025",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "2/26/2025",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "11/05/1999",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/24/2001",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "02/28/2003",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "04/02/2009",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "07/23/2011",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/18/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/10/2013",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/16/2014",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/17/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/12/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "3/15/2018",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "1/24/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/18/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/22/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "9/20/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/8/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/26/2025",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "1/23/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "tpw hospitality": {
+  "borrower": "TPW Hospitality LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=TPW+Hospitality+LLC&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "TPW Hospitality LLC"
+  ],
+  "match": "TPW Hospitality LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=02b6284d-4e12-ec11-91b2-00155d32b93a",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "9/10/2021",
+  "history": [
+   {
+    "date": "9/10/2021",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "5/27/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/30/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/13/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "10/12/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "vps global solutions": {
+  "borrower": "vps global solutions LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=vps+global+solutions&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "vps global solutions LLC"
+  ],
+  "match": "vps global solutions LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3a53b853-47f0-ee11-9080-00155d01c440",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "4/1/2024",
+  "history": [
+   {
+    "date": "4/1/2024",
+    "event": "Original Filing"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "11/14/2025",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/8/2026",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "word of mouth painting": {
+  "borrower": "Word of Mouth Painting LLC",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Word+of+Mouth&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "wordofmouth-catering",
+   "Word of Mouth Painting LLC",
+   "Word of Mouth Solutions"
+  ],
+  "match": "Word of Mouth Painting LLC",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=606976fb-96d4-e011-a886-001ec94ffe7f",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2026",
+  "filed": "12/21/2010",
+  "history": [
+   {
+    "date": "12/21/2010",
+    "event": "Original Filing"
+   },
+   {
+    "date": "8/3/2012",
+    "event": "Administrative Termination"
+   },
+   {
+    "date": "10/25/2012",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "4/21/2014",
+    "event": "Administrative Termination"
+   },
+   {
+    "date": "3/26/2015",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "1/11/2018",
+    "event": "Registered Office and/or Agent"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "10/25/2012",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "3/26/2015",
+    "event": "Annual Reinstatement"
+   },
+   {
+    "date": "2/24/2016",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/14/2017",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/18/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/26/2019",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "2/2/2020",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/21/2021",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "1/2/2022",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/13/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "12/17/2024",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "11/21/2025",
+    "event": "Annual Renewal"
+   }
+  ]
+ },
+ "yeej transport": {
+  "borrower": "Yeej Transport Inc",
+  "search_url": "https://mblsportal.sos.mn.gov/Business/BusinessSearch?BusinessName=Yeej+Transport+Inc&IncludePriorNames=False&Status=&Type=BeginsWith",
+  "candidates": [
+   "Yeej Transport Inc"
+  ],
+  "match": "Yeej Transport Inc",
+  "ambiguous": false,
+  "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=e593428a-4351-ed11-906b-00155d32b947",
+  "status": "Active / In Good Standing",
+  "renewal_due": "12/31/2027",
+  "filed": "10/21/2022",
+  "history": [
+   {
+    "date": "10/21/2022",
+    "event": "Original Filing"
+   },
+   {
+    "date": "11/9/2022",
+    "event": "Amendment"
+   },
+   {
+    "date": "1/9/2025",
+    "event": "Administrative Dissolution"
+   },
+   {
+    "date": "6/4/2026",
+    "event": "Annual Reinstatement"
+   }
+  ],
+  "renewals": [
+   {
+    "date": "9/18/2023",
+    "event": "Annual Renewal"
+   },
+   {
+    "date": "6/4/2026",
+    "event": "Annual Reinstatement"
+   }
+  ]
+ }
+}
