@@ -39,7 +39,7 @@ def main() -> None:
         kind = KIND.get(t.get("office") or t.get("amenity") or t.get("building"), "")
         rows.append((round(d * 1.3 / 80), t["name"], kind, addr))
     rows.sort()
-    table = "".join(f"<tr><td>{m} min</td><td><b>{esc(n)}</b><br><span class='meta'>{esc(k)}{' · ' + esc(a) if a else ''}</span></td></tr>"
+    table = "".join(f"<tr><td style='white-space:nowrap'>{m} min</td><td><b>{esc(n)}</b><br><span class='meta'>{esc(k)}{' · ' + esc(a) if a else ''}</span></td></tr>"
                     for m, n, k, a in rows)
     body = f"""
 <p class="meta">For Atomic Coffee · 222 Broadway N, Fargo</p>

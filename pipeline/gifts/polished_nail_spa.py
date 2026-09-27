@@ -65,8 +65,8 @@ def main() -> None:
     save_plan(SLUG, {
         "slug": SLUG, "headline": "Your website still sends people to the downtown shop that closed.",
         "gift_path": f"/{SLUG}/",
-        "evidence": ["InForum 2026-05-19: downtown closed", "downtown phone in header of every page, plus homepage, Locations, Contact",
-                     "About Us link is a 404", "Osgood weekday hours 10-7 vs 10-8"],
+        "evidence": ["downtown shop closed this spring (InForum story, May 19, 2026)", "downtown phone in header of every page, plus homepage, Locations, Contact",
+                     "About Us link is a 404", "the site gives Osgood two different weekday closing times (7pm on the homepage, 8pm on Contact Us); only the owner knows which is right"],
         "to_use_it": "Forward the page to whoever edits the site.",
         "menu": ["gbp_cleanup", "ai_listings", "online_booking"],
     })

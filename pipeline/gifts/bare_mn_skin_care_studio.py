@@ -77,7 +77,7 @@ def main() -> None:
         "slug": SLUG, "headline": "One of your Google reviews is about Barneys. Removing it takes you from 4.5 to 4.6.",
         "gift_path": f"/{SLUG}/",
         "evidence": [f"{len(post)} of {len(post)} reviews since Oct 2020 are 5 stars",
-                     f"Barneys review {dt(barneys)}, 1 star", f"rating {now:.2f} -> {after:.2f}"],
+                     f"Barneys review {dt(barneys)}, 1 star", f"Google shows {round(now + 1e-9, 1)} now; without that review it shows {round(after + 1e-9, 1)}"],
         "to_use_it": "Report the one review as off topic from her Google login.",
         "menu": ["review_replies_monthly", "online_booking", "review_engine"],
     })

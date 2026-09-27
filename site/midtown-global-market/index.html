@@ -42,7 +42,7 @@ ul{padding-left:1.2rem}
 <p><span class="big" id="n">–</span> <span class="sans">merchants open</span></p>
 <div id="open"></div>
 <h2>Opening later today</h2><div id="later"></div>
-<h2>Closed today</h2><div id="closed"></div>
+<h2>Closed now</h2><div id="closed"></div>
 <h2>No hours posted</h2>
 <p class="meta">These merchants don't list hours on the market's Merchants page yet.</p>
 <div id="unknown"></div>
@@ -64,12 +64,14 @@ function render(){
   const h=m.hours[day]; if(!h){closed.push(m);continue}
   const a=toMin(h[0]),b=toMin(h[1]);
   if(min>=a&&min<b) open.push([m,'until '+fmt(h[1])]); else if(min<a) later.push([m,'opens '+fmt(h[0])]); else closed.push(m);}
+ const order=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]; const i0=order.indexOf(day);
+ const next=m=>{for(let k=1;k<=7;k++){const d=order[(i0+k)%7];const h=m.hours[d];if(h)return 'opens '+(k===1?'tomorrow':d)+' '+fmt(h[0])}return ''};
  const li=(m,t)=>`<div class="v"><div class="row"><b>${m.name}</b><span>${t||''}</span></div><div class="meta">${m.what||''}</div></div>`;
  document.getElementById('clock').textContent=new Intl.DateTimeFormat('en-US',{timeZone:'America/Chicago',weekday:'long',hour:'numeric',minute:'2-digit'}).format(new Date());
  document.getElementById('n').textContent=open.length;
  document.getElementById('open').innerHTML=open.map(([m,t])=>li(m,t)).join('')||'<p class="meta">Nobody right now.</p>';
  document.getElementById('later').innerHTML=later.map(([m,t])=>li(m,t)).join('')||'<p class="meta">—</p>';
- document.getElementById('closed').innerHTML=closed.map(m=>li(m,'closed today')).join('')||'<p class="meta">—</p>';
+ document.getElementById('closed').innerHTML=closed.map(m=>li(m,next(m))).join('')||'<p class="meta">—</p>';
  document.getElementById('unknown').innerHTML=unknown.map(m=>li(m,m.printed||'no hours posted')).join('');
 }
 render(); setInterval(render,60000);

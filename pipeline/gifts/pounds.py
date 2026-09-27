@@ -154,7 +154,7 @@ def main() -> None:
         "evidence": ["poundsfargo.com/menu is 9 images and no menu text",
                      "5 Google reviews (2022-2024) complain there is no physical menu, only a QR code; one liked it",
                      f"{n_items} items transcribed"],
-        "to_use_it": "Print /print/ for the tables; link /pounds/ from Instagram or the QR code.",
+        "to_use_it": "Print the table menu from the button on the page. Link the page from Instagram or your QR code.",
         "menu": ["online_ordering", "gbp_cleanup", "review_replies_monthly"],
     })
     print("built", SLUG, n_items, "items")

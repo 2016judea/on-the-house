@@ -68,7 +68,7 @@ def main() -> None:
     page(SLUG, "Facials with Rachel — review card", card, sub="card",
          strip='Print (letter). <a href="../">Back</a>', css="@page{size:letter;margin:.4in}")
     save_plan(SLUG, {
-        "slug": SLUG, "headline": "506 people have reviewed you on GlossGenius. Google shows 31, mostly old haircut reviews.",
+        "slug": SLUG, "headline": "506 people have reviewed you on GlossGenius. Google shows 31, mostly old haircut reviews. We made a counter card and an after-visit text that send happy clients to your Google page.",
         "gift_path": f"/{SLUG}/", "print_path": f"/{SLUG}/card/",
         "evidence": ["GlossGenius about page: 506 reviews", "Google: 31 reviews, 4.3; 19 before 2021; 7 about haircuts",
                      "hours differ on every open day"],

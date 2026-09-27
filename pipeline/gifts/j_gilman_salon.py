@@ -89,7 +89,7 @@ def main() -> None:
     body = f"""
 <p class="meta">916 East Douglas Avenue · Wichita, KS 67202 · <a href="tel:+13162605203">(316) 260-5203</a></p>
 <h1>J. Gilman Salon</h1>
-<p class="lede">{esc(t['home'].split('Welcome to J. Gilman Salon ')[1].split(' Discover the J. Gilman')[0])}</p>
+<p class="lede">{esc(t['home'].split('Welcome to J. Gilman Salon ')[1].split(' Nestled in')[0])} A full service men and women's hair salon in Wichita's Old Town.</p>
 <a class="btn" href="{BOOK}">Book now</a>
 
 <h2>Services</h2>
