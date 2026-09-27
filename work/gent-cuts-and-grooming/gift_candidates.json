@@ -1,0 +1,77 @@
+{
+ "complaints": [
+  {
+   "theme": "Last-minute cancellations / no notice when stylist is out",
+   "count": 10,
+   "quotes": [
+    "Few hours before my appointment I was cancelled on... I cannot trust them to not cancel before my wedding",
+    "I've tried three separate times months apart and they've canceled every single time",
+    "Got there only to find out the stylist I had an appointment with had called in sick for the day. No phone call, no email from the shop beforehand"
+   ],
+   "latest": "2025-04"
+  },
+  {
+   "theme": "Paying for street parking is pushing customers to other locations",
+   "count": 2,
+   "quotes": [
+    "I used to go to this location, but unfortunately with paying for parking now I switched to Eagan",
+    "to drive 35 minutes and pay for parking, it doesn't make it convenient at all!"
+   ],
+   "latest": "2026-03"
+  },
+  {
+   "theme": "High stylist turnover / can't keep good employees",
+   "count": 4,
+   "quotes": [
+    "What happened to the original crew that used to work here? They can't seem to keep good employees",
+    "expensive and inconsistent. Probably due to high turnover of stylists"
+   ],
+   "latest": "2025-08"
+  },
+  {
+   "theme": "Uneven/unblended fades and bad cuts (skill variance)",
+   "count": 8,
+   "quotes": [
+    "big chunks all over the back that don't blend and several sections that are longer than the rest",
+    "ridges all along the sides of my head that I had to blend in with clippers myself when I got home"
+   ],
+   "latest": "2026-04"
+  },
+  {
+   "theme": "Strict/inconsistently enforced lateness and walk-in cutoff policy",
+   "count": 3,
+   "quotes": [
+    "second time a was 11 minutes late and they would not see me due to their 10 minute policy",
+    "Refuse to walk in haircut over 90 minutes before closing time"
+   ],
+   "latest": "2025-02"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "Where to actually park near Grand Ave without paying",
+   "for_complaint": "Paying for street parking is pushing customers to other locations",
+   "deliverable": "One-page printable guide (URL + PDF/sign for the front desk and mirror stations) showing free street-parking blocks, nearest free lots, and walk time from 867 Grand Ave, so front desk can hand it to every caller who asks about parking",
+   "inputs_needed": "St. Paul public parking/signage rules for the Grand Ave corridor and a public map of nearby lots \u2014 both public data, no account needed, fully reachable today",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Two separate reviewers name the exact reason they stopped or reconsidered coming: paid parking. One explicitly switched to a different GENT location over it. This is the one complaint we can fully resolve today with zero cost and zero involvement from them."
+  },
+  {
+   "title": "A real Grand Ave, St. Paul page \u2014 the live site only shows Minneapolis",
+   "for_complaint": "Location confusion \u2014 gentcg.com resolves to /locations/minneapolis/, and this St. Paul shop isn't on OpenStreetMap either",
+   "deliverable": "Standalone HTML page at a URL: correct 867 Grand Ave address, hours, phone, embedded public map, the parking guide above, and top stylists customers actually name in reviews (Ashley, Mo, Mercedes, Kristin, Ari) with how long each has been mentioned",
+   "inputs_needed": "Current hours and phone number, pulled from the shop's public Google Business Profile listing \u2014 public, reachable, no login",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Right now the only live page for this business points to the wrong city. A visitor searching 'GENT St Paul' lands nowhere authoritative \u2014 this is the single missing asset that fixes it, built from data that's already public."
+  },
+  {
+   "title": "Print the stylist wall customers already wrote for you",
+   "for_complaint": "High stylist turnover / can't keep good employees \u2014 loyalty is to the chair, not the shop",
+   "deliverable": "A printable one-page sign/PDF for the front desk or mirror stations listing the stylists 500 reviewers actually name by hand (Ashley, Mo, Mercedes, Kristin, Ari, Patrick) with how many reviews mention each and what they're known for (fades, beard/razor work, kids' cuts) \u2014 so a new client picks a stylist instead of just picking a chair",
+   "inputs_needed": "Nothing beyond the review corpus already supplied",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "This isn't a generic 'meet the team' page \u2014 it's their own customers' words about their own staff, counted and printed. It's the cheapest possible hedge against the exact key-person risk their own reviews describe."
+  }
+ ],
+ "best": 0
+}

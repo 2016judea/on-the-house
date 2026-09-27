@@ -1,0 +1,106 @@
+{
+ "complaints": [
+  {
+   "theme": "No physical menu \u2014 QR-code-only ordering",
+   "count": 6,
+   "quotes": [
+    "They don't have physical menus; you scan a QR code in order to check out the menu. Which is nice, but also not. Kind of annoying that they don't have a physical menu.",
+    "No menus. The waitress handed us a tablet. We left with no ideas to return",
+    "the menus they have are used with a QR code which me and my guests only 1 brought a phone in so everyone was cuddled up trying to look at one screen. We thought it was so ridiculous that we left",
+    "No paper menus for people older than 25"
+   ],
+   "latest": "2024-06"
+  },
+  {
+   "theme": "Too loud to hold a conversation",
+   "count": 6,
+   "quotes": [
+    "Music was good, just too loud. Unable to talk amongst our party.",
+    "It was so LOUD. I was sitting next to the person I was with and we could hardly hear each other.",
+    "the music is far too loud and it's hard to enjoy conversations with anyone when you are yelling at them across the table",
+    "Very, very loud!!!!! Don't go if you want to be able to talk."
+   ],
+   "latest": "2025-03"
+  },
+  {
+   "theme": "Discontinued items customers keep asking to bring back",
+   "count": 6,
+   "quotes": [
+    "Please bring back the menu item that was loaded fries with pulled pork on them! Please!",
+    "Why remove your dry rub from the menu? It made your wings, a wing above the rest.",
+    "no longer have lemon pepper wings",
+    "I have ordered 'da club' for years and recently the ingredients and quality have gone down quite a bit. It seems like they are using canned chicken and a different kind of guacamole now.",
+    "Wish they would bring back the bloody mary bar."
+   ],
+   "latest": "2025-04"
+  },
+  {
+   "theme": "Can't find the door / confusing address since the move",
+   "count": 4,
+   "quotes": [
+    "couldn't find the door at first but if you look closely it's on the right side",
+    "The sign is very small and doesnt pop out when youre driving by. When you first walk in, its hard to tell where to go. The hostess table is off to the right and hidden.",
+    "I found different addresses listed online depending on where I looked.",
+    "it's 'wait to be seated' but the podium isn't directly up front"
+   ],
+   "latest": "2026-02"
+  },
+  {
+   "theme": "Restaurant is too cold",
+   "count": 3,
+   "quotes": [
+    "The only issue we had was that it was so cold in the restaurant.",
+    "Only complaint was that it was really cold.",
+    "It was freezing in there last night and very uncomfortable!"
+   ],
+   "latest": "2026-05"
+  },
+  {
+   "theme": "Named servers singled out for rude/inattentive service",
+   "count": 5,
+   "quotes": [
+    "Due to rude service from Kinley I will not be back.",
+    "My server Sophie I tonight was sub par to say the least. She seemed like she was mad at us from the start.",
+    "The staff seemed more interested in chatting amongst themselves than asking us what we wanted."
+   ],
+   "latest": "2026-03"
+  },
+  {
+   "theme": "Portions smaller than expected for the price",
+   "count": 4,
+   "quotes": [
+    "portions were kind of small or at least smaller than expected",
+    "Smashburger style burgers but small portions of fries.",
+    "Did not come close to the hype... small burgers vs price"
+   ],
+   "latest": "2025-12"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "A real printed menu, so nobody has to scan a phone",
+   "for_complaint": "No physical menu \u2014 QR-code-only ordering",
+   "deliverable": "A print-ready one-page table menu (HTML page + PDF) built from Pounds' actual dishes named in their own reviews and site \u2014 Grail Burger, Blaze It Burger, Te Amo hippie bowl, Piggy Smalls, poutine, ranch flight, dill pickle ranch, wing flavors \u2014 formatted to print on 11x17 or slot into a table stand today.",
+   "inputs_needed": "Their current official menu page on poundsfargo.com (public, site already returns 200) for exact prices/items; reachable now without login. Fallback: build from the ~40 dish names guests already volunteer in reviews if the live menu page can't be scraped cleanly.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Six reviews across three years say the same thing in different words \u2014 one calling the QR-only setup a reason they walked out \u2014 and this hands them a finished, printable fix instead of one more note saying 'you should really have paper menus.'"
+  },
+  {
+   "title": "A one-page 'Find Pounds' sign fixing the door confusion",
+   "for_complaint": "Can't find the door / confusing address since the move",
+   "deliverable": "A single printable/postable page: '6 Broadway N, Fargo \u2014 entrance on the right,' an embedded OpenStreetMap static map pinned to the exact building, and the on-street parking note guests already volunteer ('easy parking right on Broadway'). Sized to tape to the small storefront sign guests say doesn't pop out.",
+   "inputs_needed": "OpenStreetMap data for 6 Broadway N (already supplied, public, no login) plus the current listed address/hours \u2014 both publicly reachable via the OSM tag data and the live poundsfargo.com site.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "This isn't a hypothetical \u2014 a 2026 review says guests still can't find the door at the current location, and a 2024 review says the address online doesn't even match. It's the exact confusion, solved with the exact address, ready to tape up before the next Friday rush."
+  },
+  {
+   "title": "A 'guests keep asking for this back' menu memo",
+   "for_complaint": "Discontinued items customers keep asking to bring back",
+   "deliverable": "A one-page, dated dossier for whoever runs the kitchen: each retired item guests have named by name \u2014 dry rub wings, lemon pepper wings, pulled-pork cheese fries, the potato-bun TBA, the Bloody Mary bar \u2014 with the exact review quote and date next to each, so it reads as a ranked, sourced case for what to bring back first.",
+   "inputs_needed": "None beyond the review set already in hand \u2014 fully buildable right now with zero additional lookups.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Five separate menu items, named individually, across four years of reviews, some begged for twice ('Please!'). No owner has to go hunting through 500 reviews to see the pattern \u2014 it's compiled and dated for them."
+  }
+ ],
+ "best": 0
+}

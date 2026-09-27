@@ -1,0 +1,88 @@
+{
+ "complaints": [
+  {
+   "theme": "Inconsistent drink builds \u2014 grounds in mocha, watered-down milk/ice ratio, watered-down iced tea, burnt/flavorless brewed coffee",
+   "count": 9,
+   "quotes": [
+    "Every time I go here, there is a considerable amount of coffee grounds in my mocha. This is concerning, as it typically indicates a lack of cleaning. Their milk to ice ratio is also off, meaning you get a watered down drink.",
+    "I always get a turtle mocha blended, I was feel that they make it wrong, or just not currently.",
+    "Espresso was good and of course iconic but latter was watered down and too milky.",
+    "the coffee coming out of the spigot is flavorless and bitter - it all tastes the same",
+    "over the last couple years their has been so burnt as to be undrinkable... it tastes like I'm drinking ash.",
+    "The sweeteners were not labeled and were kind of a mess. I was extremely disappointed to find that there were no calorie free sweeteners available",
+    "My drink was nasty",
+    "Famous place but drinks are never that great"
+   ],
+   "latest": "2026-03"
+  },
+  {
+   "theme": "This location isn't on the Dunn Bros app/rewards network and its menu differs from the chain \u2014 customers repeatedly blindsided",
+   "count": 5,
+   "quotes": [
+    "they don't have the same menu as the rest of the Dunn Bros locations and they don't use the Dunn Bros rewards app either... I'm unable to get this when I go here.",
+    "this is the first Dunn brothers location, because of this, they don't allow you to use the app, redeem rewards, discounts or promotions. I learned this the hard way!",
+    "this is the ORIGINAL Dunn Brothers, yet their own app cannot be used here. So, if you have any Dunn Brothers credit, don't plan on using it here; it's not even possible to do so.",
+    "I wanted the spiced honey nirvana. I was informed they are not part of the chain. They tried to make it, but turned it into a cold drink. Its a hot drink. Kind of disappointed"
+   ],
+   "latest": "2024-06"
+  },
+  {
+   "theme": "Parking is confusing \u2014 some reviewers report none, others describe a free lot and an alley entrance nobody has published",
+   "count": 4,
+   "quotes": [
+    "Reliable, great coffee, parking sux. Good service.",
+    "Indoor seating still closed off due to the COVlD scam, no parking, bakery case is always pitiful looking.",
+    "Parking can be a little tough but great little neighborhood area.",
+    "Free small parking lot direcrly to the east of it (accessible through alley). Great parking in adjacent Grand Snelling Business Association parking lot."
+   ]
+  },
+  {
+   "theme": "Pastry case runs out early / inconsistent quality",
+   "count": 4,
+   "quotes": [
+    "Pastries could be better",
+    "bakery case is always pitiful looking",
+    "dry and bready croissants, mushy muffins",
+    "pastries if you get there before they run out"
+   ],
+   "latest": "2026-03"
+  },
+  {
+   "theme": "Single bathroom / weak wifi (minor, low count)",
+   "count": 3,
+   "quotes": [
+    "Only one bathroom though, so don't drink your coffee too quick.",
+    "Just one bathroom in the basement for a very active business is a challenge sometimes",
+    "Consistently terrible internet service. It's soooo bad I have had to leave the business on many occasions."
+   ],
+   "latest": "2025-06"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "The Original Dunn Bros: what's different here, one page",
+   "for_complaint": "This location isn't on the Dunn Bros app/rewards network and its menu differs from the chain",
+   "deliverable": "A one-page printable sign for the counter/door plus a matching web page explaining: this is the founding 1987 location, independently owned and roasted on-site daily, not connected to the corporate app/rewards system, and which chain-menu items (honey matcha latte, spiced honey nirvana) aren't offered here \u2014 framed as why it's better, not an apology.",
+   "inputs_needed": "Their own live website copy at dunnbrosgrand.com (200 OK, public) plus the OSM listing details already gathered",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Five reviews across nine years say some version of 'I learned this the hard way' about the app \u2014 this turns a recurring 1-star surprise into pride on the door before anyone orders."
+  },
+  {
+   "title": "Where to actually park at the Grand Ave Dunn Bros",
+   "for_complaint": "Parking is confusing \u2014 some reviewers report none, others describe a free lot nobody has published",
+   "deliverable": "A simple map page and matching printable sign showing the free lot east of the building via the alley and the adjacent Grand-Snelling Business Association lot, with a walking arrow from each to the front door.",
+   "inputs_needed": "Public satellite/map imagery of 1569 Grand Ave (Google Maps or OpenStreetMap, no login) plus the lot descriptions volunteered in their own reviews",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Their own customers already published the answer ('free small parking lot directly to the east... through the alley') across a decade of reviews, and it's never once made it onto a sign or their site \u2014 this just prints what their happiest customers already told everyone else."
+  },
+  {
+   "title": "Bar card for the exact drink mistakes customers named",
+   "for_complaint": "Inconsistent drink builds \u2014 grounds in mocha, watered-down ratios, flavorless brew",
+   "deliverable": "A printable espresso-bar reference card listing the specific failure points customers quoted \u2014 check the portafilter basket before pulling into a mocha, measure ice before milk on iced drinks, label the sweetener station \u2014 as quick visual checkpoints, not a recipe rewrite.",
+   "inputs_needed": "Nothing beyond the review text itself \u2014 the defects are already described in customers' own words",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "This is the highest-count, most severe complaint (grounds in the drink, 2-star), spanning 2019 to 2026 \u2014 a card built entirely from what their own paying regulars diagnosed, not a generic SOP template."
+  }
+ ],
+ "best": 1
+}

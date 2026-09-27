@@ -1,0 +1,90 @@
+{
+ "complaints": [
+  {
+   "theme": "Food served cold or lukewarm on arrival",
+   "count": 14,
+   "quotes": [
+    "Four beef orders were luke-warm to cold. My walleye seemed overcooked.",
+    "I had the risotto and duck it came out ice cold... I couldn't eat the risotto as it was cold and gummy.",
+    "Went for dinner with friends, their scallops were delivered cold, and they didn't dare eat.",
+    "Our food when it finally came was cold and 2 people did not get their food.",
+    "\"Caramelized bananas\" on the dessert were cold bananas with raw sugar sprinkled on them.",
+    "The service was great but the food is Always cold!"
+   ],
+   "latest": "2025-12"
+  },
+  {
+   "theme": "Signature steak cuts and specialty dishes unavailable",
+   "count": 8,
+   "quotes": [
+    "Place had no ribeye or tbone or top sirloin on menu... Will never go back",
+    "Out of the lobster pasta special on Valentine's Day. Gotta get someone back there who knows how to order.",
+    "No walleye on a Friday night and overcooked food.",
+    "Came for Bison burger but they do not have it any more.",
+    "Excellent place... Need to add ribeye to the menu though.",
+    "Steak selection is very limited and over priced for choice cuts. We got drinks and headed elsewhere."
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Large-party billing breakdowns (bachelorette/holiday groups)",
+   "count": 9,
+   "quotes": [
+    "We waited over an hour for our bills... my sister in laws bachlorette was ruined",
+    "Days later, we find they charged us for some of the girls meals who already paid via cash or card.",
+    "We booked a Christmas party 2 weeks in advance. Ordered apps that never came. Our food when it finally came was cold and 2 people did not get their food.",
+    "Pathetic service... we had to wait like 2 hours for the bills???????",
+    "Nice place, forgot half our groups orders, messed up the drinks, forgot drinks, forgot our appetizers"
+   ],
+   "latest": "2025-12"
+  },
+  {
+   "theme": "Reservation system unreliable / walk-ins seated ahead of reservations",
+   "count": 6,
+   "quotes": [
+    "First, they lost our reservation... The hostess commented on how their system 'loses' reservations.",
+    "I show up 7 minutes early for my reservation for 2 and then other people show up about 12 minutes after that and get seated immediately",
+    "We tried to book a group for 7 and said they would call us back. They never did, so we booked elsewhere.",
+    "I had a reservation, which I was sat in the middle of two very loud parties... I left. Didn't even eat."
+   ],
+   "latest": "2025-12"
+  },
+  {
+   "theme": "Discontinued or missing menu items customers ask for",
+   "count": 4,
+   "quotes": [
+    "First time there. We will be back next time in Fargo. I did not see duck on the menu.",
+    "Came for Bison burger but they do not have it any more.",
+    "the only recommendation is to add more vegetarian dishes with gluten free appetizers!"
+   ],
+   "latest": "2024-10"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "Tonight's Board \u2014 steak & specialty availability sign",
+   "for_complaint": "Signature steak cuts and specialty dishes unavailable",
+   "deliverable": "A print-ready host-stand sign listing Porter Creek's actual cuts and recurring-request dishes (Ribeye, T-Bone, Top Sirloin, Hanger Steak, NY Strip, Tenderloin, Buffalo Walleye, Bison Burger, Rotisserie Chicken, weekend specials) with a wipe-clean checkbox column, sized to print as an 8.5x11 host-stand card or laminated table-side card. Delivered as an HTML file/URL.",
+   "inputs_needed": "Porter Creek's own current menu/steak list, pulled from portercreek.com (site returns 200 \u2014 publicly reachable) to get exact dish names and pricing right.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It uses their own dish names off their own menu and directly answers the January 2026 review ('no ribeye or tbone or top sirloin... will never go back') \u2014 a host can hold it up and start using it at tonight's shift, no software, no login, no cost."
+  },
+  {
+   "title": "Big Table \u2014 pre-split-check playbook for parties of 8+",
+   "for_complaint": "Large-party billing breakdowns (bachelorette/holiday groups)",
+   "deliverable": "One-page laminated protocol card for host/server/kitchen: collect each guest's payment method at seating for parties of 8+, assign one lead server plus a designated food-runner, course-fire timer prompts, and a scripted recovery line for a missed course. Delivered as a printable HTML page.",
+   "inputs_needed": "None \u2014 built entirely from the repeated failure pattern already documented in five 1-star reviews (June-July 2024) and three more (December 2025) describing the identical breakdown.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It names the exact failure from their own reviews (2-hour bill waits, double charges, no manager in sight) and hands tonight's host a floor procedure, not a marketing idea."
+  },
+  {
+   "title": "Reservation backup log for a system that 'loses' bookings",
+   "for_complaint": "Reservation system unreliable / walk-ins seated ahead of reservations",
+   "deliverable": "A printable paper backup reservation log (time, party name, size, phone) plus an arrival-order card for the host stand, so a software glitch doesn't cost a table. Delivered as a fill-in PDF/HTML sheet.",
+   "inputs_needed": "None beyond what the reviews already reveal (a Porter Creek hostess is quoted admitting the system 'loses' reservations).",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It quotes their own staff about their own known software bug and gives a $0 paper fallback usable this weekend, with no vendor call required."
+  }
+ ],
+ "best": 0
+}

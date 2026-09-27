@@ -1,0 +1,105 @@
+{
+ "complaints": [
+  {
+   "theme": "Slow service and lost/forgotten orders on busy nights",
+   "count": 9,
+   "quotes": [
+    "The prix fixe service took 3 hours. Our server worked behind the bar the whole time. Nothing like our previous Alma experiences.",
+    "Potatoes sat there under the heat lamp, finally brought those over.",
+    "waited for 40 minutes to find out that our order had been lost",
+    "ordered food and waited for 30 minutes just to discover that they lost our order",
+    "it too an hour and a half to 2 burgers"
+   ],
+   "latest": "2025-11"
+  },
+  {
+   "theme": "QR-code/phone-only ordering removes human service, asks for too much info, or isn't explained before you arrive",
+   "count": 7,
+   "quotes": [
+    "Not a fan of QR code ordering because it asks for too much information but you can order up front.",
+    "the QR system ordering at tables feels a step down from what the experience used to be",
+    "I appreciate QR menus, but you completely lose all semblance of human interaction.",
+    "all food ordering, beverage ordering, 'table service' and payment is done on a cellphone without a server... very disappointing to see them lose the in person connection",
+    "you are required to place your order on phone and bus your own table"
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Portions feel small / paltry for the price, and what's included isn't clear upfront",
+   "count": 7,
+   "quotes": [
+    "the servings were so paltry... still go home and eat dinner afterwards",
+    "REALLY cut back on the amount of food you get and do not have dessert and takeaway cookies included with the cost of the meal",
+    "Portion sizes could have been a bit bigger for the cost",
+    "The first '6 courses' were a charcuterie board separated on different plates... wasn't hand crafted dishes by any means"
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "21% built-in service charge / gratuity is confusing or feels hidden from the printed price",
+   "count": 4,
+   "quotes": [
+    "The menu informed us that 21% is added to the prices so that Alma can pay its workers a living wage... who wouldn't think that the full price was reflected in what was written on the menu? It is not.",
+    "moved to ordering via QR code and mandatory tipping instead of adjusting food prices to reflect the cost of providing a living wage",
+    "Tipping was a bit confusing because the tab said it was included but the waitress said it was appreciated. Some better communication around that could be helpful."
+   ],
+   "latest": "2025-01"
+  },
+  {
+   "theme": "Caf\u00e9 counter staff rudeness / guests made to feel like an inconvenience",
+   "count": 5,
+   "quotes": [
+    "Cashier didn't say hello or anything just stared at me.",
+    "bratty smug service from behind the counter",
+    "instead of being helpful or apologetic, they've made me feel as though im inconveniencing them by asking for something i've already paid for"
+   ],
+   "latest": "2025-12"
+  },
+  {
+   "theme": "No parking signage \u2014 guests can't find the lot / no valet info",
+   "count": 2,
+   "quotes": [
+    "I initially didn't see the parking or any signs that the...",
+    "No valet parking option."
+   ],
+   "latest": "2025-06"
+  },
+  {
+   "theme": "Bakery items sold out with no warning, or menu photo doesn't match what's available",
+   "count": 3,
+   "quotes": [
+    "Take the croissant picture off of doordash or make croissants available to order, it's false advertising.",
+    "100% of the time I've sat in, they forget my bakery item and then are sold out and can't offer me anything.",
+    "I was exited to buy some fresh sourdough, but one of the staff members said they had ran out"
+   ],
+   "latest": "2025-01"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "One card explaining how to order, tip, and park here",
+   "for_complaint": "QR-ordering confusion + 21% gratuity confusion + unmarked parking lot",
+   "deliverable": "A printed half-page orientation card (host-stand, table insert, and a standalone URL page) built from Alma's actual three-venue structure: which of the three doors you're at (caf\u00e9 counter/QR, restaurant reserved dinner, hotel desk) and how ordering works there; a plain-English line stating the 21% charge is built into menu prices for staff living wages, not an extra tip; and a small labeled map graphic pointing to the unsigned guest lot behind 528 University Ave SE \u2014 since neither Google nor OpenStreetMap show it.",
+   "inputs_needed": "Alma's own site (almampls.com) for current venue names/hours/policy wording, plus a public satellite/street view of the address for the lot graphic \u2014 both reachable without login.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It answers, in the order guests hit them, the exact three things reviewers say confused or annoyed them before the meal even started \u2014 not a marketing flyer, a fix for the specific friction they wrote down."
+  },
+  {
+   "title": "Tonight's tasting menu, course by course, in plain English",
+   "for_complaint": "Portions feel paltry / unclear what's included in the price",
+   "deliverable": "A one-page insert pulled from Alma's current seasonal tasting menu that spells out everything actually on the table \u2014 amuse bouche, bread and spread, the stated courses, and any complimentary send-off (cookies, petit fours) \u2014 printed per season change so a $150\u2013450 guest sees the full inclusion list before eating, not after the bill.",
+   "inputs_needed": "Alma's current tasting-menu page/pricing tiers from almampls.com \u2014 public, reachable, no login.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It directly answers the reviewer who paid $364 and didn't realize dessert wasn't included anymore \u2014 the confusion is about disclosure, not portion size, and this fixes disclosure for free."
+  },
+  {
+   "title": "Caf\u00e9 ordering and today's-sold-out sign",
+   "for_complaint": "Bakery sell-outs with no warning + counter friction that reads as rudeness",
+   "deliverable": "A small counter/table sign stating both ways to order (counter or table QR) plus a blank line staff hand-write each morning for 'sold out today' \u2014 so guests aren't told at the register that the pastry in the case (or the DoorDash photo) isn't actually available.",
+   "inputs_needed": "None beyond the caf\u00e9's own posted hours/menu on almampls.com to match wording \u2014 public, reachable.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It's a one-line fix for the exact moment \u2014 being told 'we're out' with no warning \u2014 that shows up again and again as both a stock complaint and a rudeness complaint."
+  }
+ ],
+ "best": 0
+}

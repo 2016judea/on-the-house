@@ -1,0 +1,112 @@
+{
+ "complaints": [
+  {
+   "theme": "Rude, dismissive, or visibly checked-out front-counter staff",
+   "count": 12,
+   "quotes": [
+    "One of your ladies up front is by far the rudest person I have ever had to work with. Ever.",
+    "I wish I could give an accurate review of the food, but the older lady at the counter was so rude and disrespectful that I left before I ordered.",
+    "I was treated with such disrespect from the cashier that I ended up walking out of the restaurant without ordering.",
+    "Employee taking our order clearly hung over or actively on something, slurring words. Our sandwiches were not made properly, very lazy."
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Portion size / protein shrinkage on named signature sandwiches",
+   "count": 7,
+   "quotes": [
+    "Got the large motherload and there was hardly any meat on it. What happened to this place? Used to be great. This is like 16$ sandwich with no protein.",
+    "BAIT AND SWITCH!!! The picture on the wall looks awesome but the sandwich I got was unrecognizable. I ate 1/2 of it and it is basically a half sandwich.",
+    "My main gripe is the sorry amount of veggies on my veggie sandwich. I was hoping for a nice amount of hummus and avocado. I couldn't see the avocado."
+   ],
+   "latest": "2025-11"
+  },
+  {
+   "theme": "Slow, unpredictable wait times with orders served out of sequence",
+   "count": 7,
+   "quotes": [
+    "Sometimes you wait 5 minutes, sometimes 25 minutes. Sometimes they prepare food in the order it came in, sometimes you watch the seven people who came after you leave first.",
+    "Took 40 minutes for my sandwich and several people who ordered their food 10 minutes after me got their food before me.",
+    "It took 40 minutes to get my food. There was maybe 4 other people in there. They got my order wrong 3 times before I even got food."
+   ],
+   "latest": "2021-03"
+  },
+  {
+   "theme": "Prices feel high relative to portion (\"spendy\")",
+   "count": 6,
+   "quotes": [
+    "Little on the spendy side, but overall matches up with other sandwich shops.",
+    "A bit expensive but food and gluten free options are good.",
+    "Great food and easy place to make a stop at, however every single time i go its hard to swallow the bill."
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Order accuracy errors and unannounced recipe/menu changes",
+   "count": 6,
+   "quotes": [
+    "Got home with my order... it's not Caesar dressing... their Caesar recipe/supplier may have changed... she basically called me a liar.",
+    "Great food, wish they would have remembered the grilled onions I asked for.",
+    "Every time we order something is missing from our order."
+   ],
+   "latest": "2024-05"
+  },
+  {
+   "theme": "Handwritten/ad-hoc signage and unexplained early closures",
+   "count": 3,
+   "quotes": [
+    "Employees had a hand written sign closing at 2:30. We beat that time.",
+    "Her greeting was that there would be a 30-40 minute delay... she could have said something to us such as 'i will still take your order'.",
+    "Apparently they were 'booked solid' and 'not taking any orders for 30 to 45 minutes.'"
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Unmet requests for specific menu items no longer offered or missing",
+   "count": 3,
+   "quotes": [
+    "Wish they still had the veggie meat option.",
+    "I just wish they had tuna sandwiches like at subway :)",
+    "i wish they took apple pay"
+   ],
+   "latest": "2026-02"
+  },
+  {
+   "theme": "Foreign objects / food-safety incidents met with no acknowledgment",
+   "count": 3,
+   "quotes": [
+    "As i was filling my cup a chunk of mold came. The 'manager' on duty argued with me stating it was not mold but a fruit chunk.",
+    "My tomato basil soup had a hair in it... just after hearing another customer report a hair in her food.",
+    "There was barely any avocado, the avocado was brown, egg had no seasoning... they did not even say sorry or offer a refund."
+   ],
+   "latest": "2024-11"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "Line-cook portion cards for the Motherload, Mo, and Southwest Mo",
+   "for_complaint": "Portion size / protein shrinkage on named signature sandwiches",
+   "deliverable": "A printable one-page laminated card per signature sandwich (pulled from their own public menu names/descriptions/prices) showing the exact build order and ingredient count for that item, sized to tape at the make line",
+   "inputs_needed": "Their own website menu page (item names, descriptions, prices) \u2014 already public at smilingmoosedeli.com",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Every one of these reviews quotes their own menu item by name and their own $16 price back at them \u2014 this isn't a generic 'watch your portions' poster, it's their Motherload, their price, their words, ready to tape up today with zero new decisions required"
+  },
+  {
+   "title": "A real printed hours sign to replace the handwritten one",
+   "for_complaint": "Handwritten/ad-hoc signage and unexplained early closures",
+   "deliverable": "A designed, print-ready hours sign (PDF, letter + door-cling size) using their actual posted Google Business hours and address, plus a one-line 'still taking walk-ins' placard variant for busy stretches",
+   "inputs_needed": "Their Google Business Profile hours listing \u2014 public, already summarized at the top of this brief (4.5\u2605, 589 reviews)",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "The exact incident that became a public 2-star review \u2014 a handwritten '2:30' sign turning away paying customers who arrived before that time \u2014 has a one-page fix sitting in a file, not a policy memo"
+  },
+  {
+   "title": "One page: what changed on our menu, answered",
+   "deliverable": "A single printable/postable FAQ page addressing the specific unresolved confusions in their own reviews \u2014 the Caesar dressing recipe/supplier change, the discontinued veggie-meat option, the 'perfect pair' substitution rule, gluten-free bread availability \u2014 written from their own menu and review history so front-counter staff can hand it over instead of arguing",
+   "for_complaint": "Order accuracy errors and unannounced recipe/menu changes",
+   "inputs_needed": "Their public website menu/dietary page for current ingredient lists to confirm what's true today",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "This is the page that would have kept the 5-year Caesar-salad regular: it answers 'did you change the recipe' before a customer has to accuse a cashier of lying to find out"
+  }
+ ],
+ "best": 1
+}

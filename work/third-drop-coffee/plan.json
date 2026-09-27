@@ -1,0 +1,97 @@
+{
+ "slug": "third-drop-coffee",
+ "name": "Third Drop Coffee",
+ "sector": "Restaurant",
+ "work": [
+  "site",
+  "replies",
+  "listing",
+  "schema",
+  "llms",
+  "ai"
+ ],
+ "headline": "site_broken",
+ "reviews_to_answer": [
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvM1JrNTBiV1YwZVRRNWFqbEtjRGxOTFUxa0xXYxAB",
+   "author_title": "Jana Lynn",
+   "review_rating": 1,
+   "review_text": "They close when it snows. That's every time I've tried to go there. They do not update hours online, just notes on the door.",
+   "review_datetime_utc": "12/25/2025 16:44:41",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tvM1JrNTBiV1YwZVRRNWFqbEtjRGxOTFUxa0xXYxAB!2m1!1s0x0:0xc95e22ed68a4b978!3m1!1s2@1:CAIQACodChtycF9oOko3Rk50bWV0eTQ5ajlKcDlNLU1kLWc%7C%7C?hl=en",
+   "date": "2025-12-25"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taT2FHSnJjV2cwWWt0bk5VSTVNbTFVUWs1eFJuYxAB",
+   "author_title": "Eli Jones",
+   "review_rating": 1,
+   "review_text": "I usually stop by 2-4 times a week for a quick drip coffee. Today I had the unfortunate experience of running into the owner Shawn. I originally thought he was a brand new employee because he did not greet us, prompt our order, or ask us to pay. Instead he just pointed at the card reader and generally looked confused at us. He didn't listen to our order at all and the Barista had to ask us what we wanted. He tried to give me a lame excuse about it and the entire experience was off-putting.\n\nI will not be back, Shawn's attitude and behavior made sure of that.",
+   "review_datetime_utc": "11/17/2025 14:23:13",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taT2FHSnJjV2cwWWt0bk5VSTVNbTFVUWs1eFJuYxAB!2m1!1s0x0:0xc95e22ed68a4b978!3m1!1s2@1:CAIQACodChtycF9oOkZOaGJrcWg0YktnNUI5Mm1UQk5xRnc%7C%7C?hl=en",
+   "date": "2025-11-17"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jMlFtSXhMVFp6TW1oUVNtWnFlbTh4TVhFMFJtYxAB",
+   "author_title": "Golden Girl",
+   "review_rating": 1,
+   "review_text": "I can't quite put my finger on it, but I did not feel welcome here. I was not treated poorly, however I did not feel this was an inviting space to enjoy my latte. It definitely was a stark contrast to walking into Moonrise Cafe.\n\nThe Lavender latte, left much to be desired. It was not what I was expecting. I'm not sure if the coffee contributed to the bitter taste of the coffee ground at the bottom of my cup. Adding sweetener did not help.",
+   "review_datetime_utc": "09/02/2025 14:25:12",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25jMlFtSXhMVFp6TW1oUVNtWnFlbTh4TVhFMFJtYxAB!2m1!1s0x0:0xc95e22ed68a4b978!3m1!1s2@1:CAIQACodChtycF9oOnc2QmIxLTZzMmhQSmZqem8xMXE0Rmc%7C%7C?hl=en",
+   "date": "2025-09-02"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMFJIZEhRMlZhU1c4NVYwWjBhUzFYV0hsdFFWRRAB",
+   "author_title": "David Kaiser",
+   "review_rating": 3,
+   "review_text": "This is a decent spot if you\u2019re looking to go local. I ordered an iced latte and a bakery item. Both were a solid 6-7/10. The price was decent as well. The service was just ok. The employees were pleasant enough. As someone that has worked in food service and coffee specifically, it was unorganized with even just 2 people working and one of my items was forgot about. I stood there for over 5 minutes waiting at the register for someone to ask what I was waiting for. I\u2019m glad I tried it but not sure I would go back.",
+   "review_datetime_utc": "08/01/2025 16:39:30",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WMFJIZEhRMlZhU1c4NVYwWjBhUzFYV0hsdFFWRRAB!2m1!1s0x0:0xc95e22ed68a4b978!3m1!1s2@1:CAIQACodChtycF9oOnV0RHdHQ2VaSW85V0Z0aS1XWHltQVE%7C%7C?hl=en",
+   "date": "2025-08-01"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KR01IWkxSV2MyTURGTGRsVnZYMkpDV1Y4NVVGRRAB",
+   "author_title": "Kelly Grizzaffi",
+   "review_rating": 5,
+   "review_text": "Great coffee cafe!  Service was quick. Came in for coffee and space to have a meeting during mid day.  Didn't feel rushed or pressured. Muffin and scones were available for food options.",
+   "review_datetime_utc": "02/25/2026 14:51:24",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KR01IWkxSV2MyTURGTGRsVnZYMkpDV1Y4NVVGRRAB!2m1!1s0x0:0xc95e22ed68a4b978!3m1!1s2@1:CAIQACodChtycF9oOmJGMHZLRWc2MDFLdlVvX2JCWV85UFE%7C%7C?hl=en",
+   "date": "2026-02-25"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcVNqUkNUMDFhWlMxU1JGWnVWMUp5TXpSR2NrRRAB",
+   "author_title": "Janet Jones",
+   "review_rating": 5,
+   "review_text": "Meet a few friends there almost every week. A good place for chatting when it's not too busy.",
+   "review_datetime_utc": "11/18/2025 18:35:50",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KcVNqUkNUMDFhWlMxU1JGWnVWMUp5TXpSR2NrRRAB!2m1!1s0x0:0xc95e22ed68a4b978!3m1!1s2@1:CAIQACodChtycF9oOnJqSjRCT01aZS1SRFZuV1JyMzRGckE%7C%7C?hl=en",
+   "date": "2025-11-18"
+  }
+ ],
+ "listing_issues": [
+  {
+   "field": "website",
+   "google": "https://www.thirddropcoffeemoorhead.com/",
+   "openstreetmap": "https://www.thirddropcoffee.com"
+  },
+  {
+   "field": "website",
+   "google": "https://www.thirddropcoffeemoorhead.com/",
+   "reality": "the secure (https) version fails to load; only plain http works (checked 2026-09-26)"
+  },
+  {
+   "field": "hours",
+   "days": "Mo, Tu, We, Th, Fr, Sa, Su",
+   "google": "Mo 06:00-18:00; Tu 06:00-18:00; We 06:00-18:00; Th 06:00-18:00; Fr 06:00-18:00; Sa 07:00-16:00; Su 07:00-16:00",
+   "openstreetmap": "Mo 06:30-18:00; Tu 06:30-18:00; We 06:30-18:00; Th 06:30-18:00; Fr 06:30-18:00; Sa 06:30-18:00; Su 06:30-18:00"
+  }
+ ],
+ "unanswered_total": 296,
+ "sample": 296,
+ "low_unanswered_since_2024": 7
+}

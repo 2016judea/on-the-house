@@ -1,0 +1,6 @@
+# Raw pulls: reviewer names and full report text. Rebuilt by pipeline/signals.py.
+work/*/signals.json
+work/*/wayback/
+.vercel/
+__pycache__/
+.DS_Store

@@ -1,0 +1,78 @@
+{
+ "slug": "atomic-coffee",
+ "name": "Atomic Coffee",
+ "sector": "Restaurant",
+ "work": [
+  "site",
+  "replies",
+  "llms",
+  "ai"
+ ],
+ "headline": "site",
+ "reviews_to_answer": [
+  {
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQc29mMTlBRRAB",
+   "author_title": "Olivia Gartner",
+   "review_rating": 1,
+   "review_text": "Everytime I\u2019ve come in, people are loitering and by people I mean the homeless population. My last straw was when a homeless man cat called a women and she left from being so uncomfortable. I don\u2019t get it??? A lot of potential here but it just reeks and the spots are taken for hours by those who are not there to enjoy coffee.",
+   "review_datetime_utc": "02/12/2026 20:35:00",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURQc29mMTlBRRAB!2m1!1s0x0:0xd3b8f58000034c70!3m1!1s2@1:CIHM0ogKEICAgIDPsof19AE%7C%7C?hl=en",
+   "date": "2026-02-12"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRemRFUnNUMDlsYWsweUxWRkZiVmhLVlRscFdIYxAB",
+   "author_title": "Kordell Horner",
+   "review_rating": 1,
+   "review_text": "Horrible service here",
+   "review_datetime_utc": "01/17/2026 16:57:17",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xRemRFUnNUMDlsYWsweUxWRkZiVmhLVlRscFdIYxAB!2m1!1s0x0:0xd3b8f58000034c70!3m1!1s2@1:CAIQACodChtycF9oOlQzdERsT09lak0yLVFFbVhKVTlpWHc%7C%7C?hl=en",
+   "date": "2026-01-17"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRlQwMUNkbEJMY1U0dE5WOUlabGwzVWxCNVJVRRAB",
+   "author_title": "Katy",
+   "review_rating": 3,
+   "review_text": "Nice coffee shop. Good drinks. I come here sometimes to study. Putting three stars due to today and seeing an interaction between staff that was a little uncomfortable. A worker came in about an hour late and the woman barista behind the counter publicly began chastising him and speaking/almost yelling about how she \u201cwas supposed to leave and I had to call someone because of you not responding and how irresponsible..\u201d etcetera. I understood her frustration but was embarrassed for the guy + her that she couldn\u2019t calmly talk to him away from all of us customers. This went on for a solid 10 minutes.",
+   "review_datetime_utc": "01/01/2026 19:06:25",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SRlQwMUNkbEJMY1U0dE5WOUlabGwzVWxCNVJVRRAB!2m1!1s0x0:0xd3b8f58000034c70!3m1!1s2@1:CAIQACodChtycF9oOnRFT01CdlBLcU4tNV9IZll3UlB5RUE%7C%7C?hl=en",
+   "date": "2026-01-01"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRU9VWlhNSEJMUlZJMWJIaEtPRFZSY20xak5WRRAB",
+   "author_title": "Spike Hyzer (spikehyzer)",
+   "review_rating": 3,
+   "review_text": "The coffee was decent, but not as great as elsewhere downtown. The space is nice and the service was good. We didn't eat anything. Better than most, as Fargo has a lot of bad greasy spoons and donut shops, but we missed another that was highly recommended.",
+   "review_datetime_utc": "07/02/2025 19:23:06",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKRU9VWlhNSEJMUlZJMWJIaEtPRFZSY20xak5WRRAB!2m1!1s0x0:0xd3b8f58000034c70!3m1!1s2@1:CAIQACodChtycF9oOkJEOUZXMHBLRVI1bHhKODVRcm1jNVE%7C%7C?hl=en",
+   "date": "2025-07-02"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTk1qWXlVVXBXTjA5NlpHbFVRWE5tV21nMVZXYxAB",
+   "author_title": "Lindberg Leonardo Alban",
+   "review_rating": 5,
+   "review_text": "Came in here on a busy morning and was pleasantly surprised how smooth everything went. The line moved quick, and the staff still took time to be friendly. I ordered an iced latte and it tasted fresh, not watered down like some places do. The coffee had a nice strong flavor without being bitter. Inside was clean and had a relaxed vibe, good spot to sit for a bit. Prices were pretty normal for this area. Only small thing was seating filled up fast, but overall a really solid coffee shop I'd come back to.",
+   "review_datetime_utc": "05/01/2026 15:14:44",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KTk1qWXlVVXBXTjA5NlpHbFVRWE5tV21nMVZXYxAB!2m1!1s0x0:0xd3b8f58000034c70!3m1!1s2@1:CAIQACodChtycF9oOnJNMjYyUUpWN096ZGlUQXNmWmg1VWc%7C%7C?hl=en",
+   "date": "2026-05-01"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNVRVSjZOMU0zYW1aQ1ZraE5TVGRoY0dsR2ExRRAB",
+   "author_title": "Yellow Art",
+   "review_rating": 5,
+   "review_text": "I just had a $6 or $7 sandwich called the sausage,egg and cheddar cheese McMuffin. Soo Soo fire. I mean that sandwich you would really have to eat slow. I am so happy and feeling good. I would be back for more. Thanks again\nGreat food there",
+   "review_datetime_utc": "04/30/2026 15:18:18",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSNVRVSjZOMU0zYW1aQ1ZraE5TVGRoY0dsR2ExRRAB!2m1!1s0x0:0xd3b8f58000034c70!3m1!1s2@1:CAIQACodChtycF9oOkR5TUJ6N1M3amZCVkhNSTdhcGlGa1E%7C%7C?hl=en",
+   "date": "2026-04-30"
+  }
+ ],
+ "listing_issues": [],
+ "unanswered_total": 500,
+ "sample": 500,
+ "low_unanswered_since_2024": 11
+}

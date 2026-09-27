@@ -1,0 +1,108 @@
+{
+ "complaints": [
+  {
+   "theme": "Order/delivery mistakes \u2014 wrong, missing, forgotten, or refused orders",
+   "count": 9,
+   "quotes": [
+    "Sent here for a delivery and they wouldn't make it",
+    "oh we forgot about it, it'll be there in an hour (after being quoted 45 minutes)",
+    "we never get our order right",
+    "Idiot didn't listen, even after asking 2x, gave me the wrong pizza",
+    "My pizza came out half skinny vinny, half the 2 extra toppings"
+   ],
+   "latest": "2025-06"
+  },
+  {
+   "theme": "Bland / no-flavor pizza, especially on plain slices",
+   "count": 7,
+   "quotes": [
+    "Pizza has no flavor even with toppings, taste like thin cardboard",
+    "NASTY NO FLAVOR!",
+    "Very bland. Tasteless crust. The name is a huge misnomer because there was no spice at all",
+    "There's nothing tasty about it for me... I like crust not getting crust here"
+   ],
+   "latest": "2024-10"
+  },
+  {
+   "theme": "Greasy/oily food, worst on tostadas and nachos",
+   "count": 5,
+   "quotes": [
+    "Got 2 tostada's I couldn't even take a hole bite due to fact it was SATURATED in greese",
+    "Greasy pile of glop",
+    "Very grease cheese, dough was doughy, seems undercooked"
+   ],
+   "latest": "2024-10"
+  },
+  {
+   "theme": "Price feels high for portion/value",
+   "count": 6,
+   "quotes": [
+    "$30 for 3 slices and two drinks",
+    "why pay double for something similar",
+    "Tried to charge me 3$ for a cup of water",
+    "I was charged 19$ for this sandwich... charged a dollar for each vegetable"
+   ],
+   "latest": "2025-05"
+  },
+  {
+   "theme": "Gift card, punch card, coupon, or rewards-text not honored",
+   "count": 5,
+   "quotes": [
+    "declined it, stating 'we don't have to because it's the law.' It has $12.85 on it",
+    "Guy says 'it looks old'... he goes to the manager who then denies me the food I earned",
+    "had a coupon that was for a free slice of pizza but was still charged for it",
+    "got a text for the 18 inch pie for half price... was cold in the middle"
+   ],
+   "latest": "2023-11"
+  },
+  {
+   "theme": "Unfriendly, rushed counter staff and unhelpful phone answers",
+   "count": 5,
+   "quotes": [
+    "Service was okay. Just not overly friendly. No smiles. No chit chat",
+    "she didn't know and would ask someone... heard him say 'tell her we don't know'",
+    "kept rushing me and rolling his eyes at me",
+    "the guy on the phone just sighed, and did no apologize"
+   ],
+   "latest": "2025-01"
+  },
+  {
+   "theme": "Unmet requests: bring back off-menu items, later hours, allergen clarity, student discount",
+   "count": 4,
+   "quotes": [
+    "I hope they put it back on the menu so I can order it again :)",
+    "everyone says they wish you were the spot that was open late when the bars are closing",
+    "Should still have a student discount so hit that up",
+    "the girl gave a long pause before saying she didn't know and would ask someone"
+   ],
+   "latest": "2026-01"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "An order-ticket checklist built for Spicy Pie's own build-your-own menu",
+   "for_complaint": "Order/delivery mistakes \u2014 wrong, missing, forgotten, or refused orders",
+   "deliverable": "A printable half-page slip (PDF/HTML, print at any printer today) staffers check off per order: slice vs whole, sauce (regular or spicy marinara), extra toppings side (half/whole), GF crust flag, delivery vs pickup vs dine-in, and a forgotten-order safeguard line for phone/delivery tickets. Built around their actual by-the-slice/half-topping system, not a generic order form.",
+   "inputs_needed": "Their current menu structure and topping/sauce options \u2014 reachable today at their live site https://pizzagrindersbeer.com/ (200 OK) \u2014 no login needed.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Every wrong-order complaint in the review pile traces to the same failure point: half-toppings, sauce swaps, and delivery hand-off aren't tracked anywhere on paper. A slip shaped to their exact ordering quirks (not a generic ticket) fixes the thing customers are actually naming, for the cost of a print job."
+  },
+  {
+   "title": "A plain-language gift card and rewards rules card for the counter",
+   "for_complaint": "Gift card, punch card, coupon, or rewards-text not honored",
+   "deliverable": "A one-page printed card/sign for the register stating, in plain language, what North Dakota law actually requires for gift card expiration and how their rewards/coupon redemptions work \u2014 so staff have something to point to instead of improvising an answer customers dispute.",
+   "inputs_needed": "North Dakota's public gift-card/store-value statute text (freely available via the ND Century Code online, no login) plus the name of their existing loyalty program as customers describe it in reviews ('the club', rewards app, punch cards).",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Two customers on record say a denied card or coupon cost the business their whole family's future visits. This directly answers the exact dispute quoted \u2014 wrong law cited, no printed policy to check against \u2014 with something that ends the argument before it starts."
+  },
+  {
+   "title": "A spice-level and gluten-free guide naming their actual menu items",
+   "for_complaint": "Unmet requests: bring back off-menu items, later hours, allergen clarity, student discount",
+   "deliverable": "A one-page guide (posted by the phone/register) listing which named items are GF-crust compatible, which sauces are spicy vs regular, and flags the off-menu Inferno Grinder as available on request \u2014 built entirely from their own listed menu, not generic allergen boilerplate.",
+   "inputs_needed": "Their current menu and GF crust description, reachable today at https://pizzagrindersbeer.com/. Exact kitchen cross-contamination protocol (fryer sharing, etc.) is not public and would need the owner to fill in one blank line themselves.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "A traveling customer with a food intolerance got 'tell her we don't know' on the phone and left a 1-star review naming the staffer's exact words. A guide with their real items on it means the next call gets a real answer instead of a shrug."
+  }
+ ],
+ "best": 0
+}

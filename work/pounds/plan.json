@@ -1,0 +1,78 @@
+{
+ "slug": "pounds",
+ "name": "Pounds",
+ "sector": "Restaurant",
+ "work": [
+  "site",
+  "replies",
+  "llms",
+  "ai"
+ ],
+ "headline": "site",
+ "reviews_to_answer": [
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxVk1GTm1Oek55TFhKWGRFWlVUM1J3UkU0NGFXYxAB",
+   "author_title": "JoJo JoJo",
+   "review_rating": 1,
+   "review_text": "Due to rude service from Kinley I will not be back. If owners wonder why your business is declining you might want to look at your employees and how they\u2019re treating your patrons. Not good.",
+   "review_datetime_utc": "03/12/2026 21:40:01",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxVk1GTm1Oek55TFhKWGRFWlVUM1J3UkU0NGFXYxAB!2m1!1s0x0:0xb54597c1a3293f55!3m1!1s2@1:CAIQACodChtycF9oOk1VMFNmNzNyLXJXdEZUT3RwRE44aWc%7C%7C?hl=en",
+   "date": "2026-03-12"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tab01tTkliWEpFUTI1VlQwNXViMnBMWlhkSFVtYxAB",
+   "author_title": "Jada Riley",
+   "review_rating": 1,
+   "review_text": "My experience was great until we were seated. We had a server named Sophie I, with curly hair, she sat us down, walked away and came back with water, but when we asked for straws very nicely, all she said was \u201cstraws?\u201c , reached in her back pocket and dropped them down on our table and then walked away. She came back, took our order. After every interaction, she just walks away and doesn\u2019t say thank you or anything polite. We didn't even get her name until after we saw the receipt. When it came time to pay, my friend paid with cash, and when Sophie asked if she wants change back, my friend said \u201cno thank you\u201d and Sophie walked away without any \u201cThank you\u201d or anything. From the very start, the interaction was just very unpleasant. I\u2019ve never had an interaction like this since I\u2019ve been in Fargo. It\u2019s a shame because the food is very good. I got the three finger combo. I will not be back.",
+   "review_datetime_utc": "02/14/2026 03:25:50",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tab01tTkliWEpFUTI1VlQwNXViMnBMWlhkSFVtYxAB!2m1!1s0x0:0xb54597c1a3293f55!3m1!1s2@1:CAIQACodChtycF9oOkZoMmNIbXJEQ25VT05ub2pLZXdHUmc%7C%7C?hl=en",
+   "date": "2026-02-14"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMWFrTnFSMlJCWXpCdlJtd3plVmhVYUVadVFuYxAB",
+   "author_title": "Katherine O'Donnell",
+   "review_rating": 1,
+   "review_text": "My server Sophie I tonight was sub par to say the least. She seemed like she was mad at us from the start. She dropped our straws on the table when we asked for some. Don\u2019t recommend if you want a comfortable experience.",
+   "review_datetime_utc": "02/14/2026 03:25:44",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pVMWFrTnFSMlJCWXpCdlJtd3plVmhVYUVadVFuYxAB!2m1!1s0x0:0xb54597c1a3293f55!3m1!1s2@1:CAIQACodChtycF9oOjU1akNqR2RBYzBvRmwzeVhUaEZuQnc%7C%7C?hl=en",
+   "date": "2026-02-14"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMmRuZEZMVWhHVkVWeGNsQjVNVGRxVVVodmRuYxAB",
+   "author_title": "J",
+   "review_rating": 3,
+   "review_text": "The place could use a good cleaning. A bit pricey for what you get.",
+   "review_datetime_utc": "01/14/2026 13:58:52",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KMmRuZEZMVWhHVkVWeGNsQjVNVGRxVVVodmRuYxAB!2m1!1s0x0:0xb54597c1a3293f55!3m1!1s2@1:CAIQACodChtycF9oOmJ2dndFLUhGVEVxclB5MTdqUUhvdnc%7C%7C?hl=en",
+   "date": "2026-01-14"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVVRtdzVZbWhJWjNSMU5qTlhXbkJzTkY4NU5YYxAB",
+   "author_title": "Mikky Nixon",
+   "review_rating": 5,
+   "review_text": "Super creative menu, artsy fun decor and good food. Loved the strawberry mango fresh and huckleberry drinks \ud83c\udf79 They were able to seat our group of 10 right away. Bravo Pounds!",
+   "review_datetime_utc": "05/17/2026 02:50:18",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WVVRtdzVZbWhJWjNSMU5qTlhXbkJzTkY4NU5YYxAB!2m1!1s0x0:0xb54597c1a3293f55!3m1!1s2@1:CAIQACodChtycF9oOmVUTmw5YmhIZ3R1NjNXWnBsNF85NXc%7C%7C?hl=en",
+   "date": "2026-05-17"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jelFqbHJSVEp3ZUVWSlVuSTJkVGxxVEdnMGRrRRAB",
+   "author_title": "Kayvayyeah anderson",
+   "review_rating": 5,
+   "review_text": "Food is great and very affordable. Got stuff from the build you own platter part of the menu. The only issue we had was that it was so cold in the restaurant. Loved their chicken strips, the ranch was amazing and the honey mustard was great. The grilled cheese was good and the fries were nice and crispy!",
+   "review_datetime_utc": "05/12/2026 11:15:00",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21jelFqbHJSVEp3ZUVWSlVuSTJkVGxxVEdnMGRrRRAB!2m1!1s0x0:0xb54597c1a3293f55!3m1!1s2@1:CAIQACodChtycF9oOmczQjlrRTJweEVJUnI2dTlqTGg0dkE%7C%7C?hl=en",
+   "date": "2026-05-12"
+  }
+ ],
+ "listing_issues": [],
+ "unanswered_total": 483,
+ "sample": 500,
+ "low_unanswered_since_2024": 28
+}

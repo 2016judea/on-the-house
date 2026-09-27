@@ -1,0 +1,65 @@
+{
+ "complaints": [
+  {
+   "theme": "Confusion about what they currently offer \u2014 customers/prospects think it's still a hair salon",
+   "count": 1,
+   "quotes": [
+    "They don't do hair anymore from what I seen. More of a facial place. How do you get business?"
+   ],
+   "latest": "2024-10"
+  },
+  {
+   "theme": "Showed up for a booked appointment or walk-in and got no service, no warning",
+   "count": 2,
+   "quotes": [
+    "I went today the doors were locked and the sign was on. Called and nobody answered.",
+    "if you do not wish to cut my hair all you had to do was tell me. you had no need to have me come in and waste my time."
+   ],
+   "latest": "2024-10"
+  },
+  {
+   "theme": "Phone goes unanswered or staff is dismissive when someone tries to call in",
+   "count": 2,
+   "quotes": [
+    "Called and nobody answered.",
+    "the girl carla there hung up on me!"
+   ],
+   "latest": "2024-10"
+  },
+  {
+   "theme": "No way to see real availability without calling and getting told it's hours away",
+   "count": 1,
+   "quotes": [
+    "found out that the next opening isnt until one and so i said thats way too late ill have to find somewhere else to go since its 8:30 in the morning"
+   ],
+   "latest": "2017-03"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "One page that finally answers 'how do you get business?'",
+   "for_complaint": "Confusion about what they currently offer",
+   "deliverable": "Single published page: current services (facials, microblading/brows, lashes, select hair) pulled straight off their live GlossGenius menu, real hours and phone from their public Google Business Profile, embedded map, and a direct Book Now link \u2014 the exact page a lost prospect needs, ready to link from their Google profile and Instagram bio today.",
+   "inputs_needed": "Their live GlossGenius page (facialswithrachel.glossgenius.com \u2014 already loads, 200 OK, has services/prices), their public Google Business Profile hours/phone, a public map embed.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It's their own customer's exact words, 'how do you get business,' answered \u2014 the one thing a stranger couldn't find is now one link away, and it cost them nothing."
+  },
+  {
+   "title": "A door sign so a locked door doesn't read as 'gone out of business'",
+   "for_complaint": "Showed up and got no service, no warning",
+   "deliverable": "Print-ready door sign (PDF/PNG, two sizes) with the real phone number and hours and a clear line: 'With a client right now \u2014 text [number] and I'll reply, or book at [real GlossGenius link].' Tapes to the same door the 3-star reviewer found locked.",
+   "inputs_needed": "Real phone number and hours from their public Google Business Profile.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It's the literal fix for the review that asked 'how do you get business' out loud \u2014 a $0 print job that turns a locked door from a dead end into a next step."
+  },
+  {
+   "title": "A QR card that lets people book instead of calling at 8:30am",
+   "for_complaint": "No way to see real availability without calling",
+   "deliverable": "Small printed card / social-bio link with a QR code straight to their live GlossGenius booking calendar, labeled 'See today's real openings \u2014 no call needed,' sized for the counter or door.",
+   "inputs_needed": "The public GlossGenius booking URL (already confirmed live and reachable \u2014 no login required to view or book).",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It removes the exact failure in the 2017 review \u2014 call, get bad news, hang up and go elsewhere \u2014 by putting the real calendar in front of them instead of a phone that might not get picked up."
+  }
+ ],
+ "best": 0
+}

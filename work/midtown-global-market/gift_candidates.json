@@ -1,0 +1,101 @@
+{
+ "complaints": [
+  {
+   "theme": "Vendors/stalls closed or unpredictable hours, especially Sundays and evenings",
+   "count": 28,
+   "quotes": [
+    "Every time I come here or try to come here, 80% of the food vendors are closed.",
+    "The produce exchange was closed, but even if it were open, it's very small.",
+    "Barely any food vendors open... felt gross.",
+    "Closes earlier then advertised don't waste your time"
+   ],
+   "latest": "2026-04"
+  },
+  {
+   "theme": "Safety, homelessness, and drug/alcohol activity around entrances and outside the building",
+   "count": 14,
+   "quotes": [
+    "Outside is covered in trash, homeless people, people begging for money and people completely inebriated on drugs or drunk. Broken glass, needles and human feces on the sidewalks.",
+    "Security had to escort out 3 separate homeless individuals over the short time we were there.",
+    "Used to be cool not it's dangerous! I got hit up a bunch and won't go back!"
+   ],
+   "latest": "2026-04"
+  },
+  {
+   "theme": "Declining vendor count / empty stalls compared to before",
+   "count": 11,
+   "quotes": [
+    "I remember the market having a lot more vendors. Seems pretty scarce now.",
+    "Visit worthy one time to shop the remaining cultural stalls, but fewer remain with many empty spaces...",
+    "There are lots of empty stalls and a number of rundown ones."
+   ],
+   "latest": "2025-09"
+  },
+  {
+   "theme": "Parking confusion: free vs. paid vs. validation, and lot size",
+   "count": 9,
+   "quotes": [
+    "I was confused by the parking. I parked in a lot across one of the entrances and I was seemingly the only one that paid... maybe it's free.",
+    "Parking is no longer free. This place is basically just a flea market.",
+    "Poco parqueadero.",
+    "Not thrilled about having to pay parking in an outdoor lot."
+   ],
+   "latest": "2026-03"
+  },
+  {
+   "theme": "Pricing/portion mismatch (\"pricey\", \"outrageous\")",
+   "count": 6,
+   "quotes": [
+    "Had I would have known I was going to get six or seven wing flings for my $20... your prices are outrageous.",
+    "There's a lot to eat but it's pretty pricey to be honest.",
+    "Overpriced"
+   ],
+   "latest": "2026-04"
+  },
+  {
+   "theme": "Security/bathroom profiling incidents",
+   "count": 3,
+   "quotes": [
+    "I was racially profiled here along with my friend. They kicked us out for using the restroom after we purchased food.",
+    "i feel so much safer since they put a security guard right in front of the bathrooms to yell at me if they think i'm using the wrong one"
+   ],
+   "latest": "2023-08"
+  },
+  {
+   "theme": "Website/reality mismatch on unmet expectations",
+   "count": 2,
+   "quotes": [
+    "Not much there! Not what I thought it was by looking at the website or as advertised.",
+    "I thought it would be more. Just like a farmers market."
+   ],
+   "latest": "2025-04"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "See which of our 30+ vendors are actually open now",
+   "for_complaint": "Vendors/stalls closed or unpredictable hours, especially Sundays and evenings",
+   "deliverable": "One public page (and a printable lobby/entrance sign) listing every current Midtown Global Market vendor with real day-by-day hours pulled from each vendor's own public Google Business listing, sorted so Sunday and evening gaps are visible before someone drives over \u2014 the exact complaint in 28 reviews spanning three years, none of which a single-vendor restaurant could ever generate.",
+   "inputs_needed": "Current vendor roster (market's own directory page or a walk-through list from reviews) + each named vendor's public Google Business hours (individually searchable, no login) + the market's own posted overall hours for cross-check.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It answers, in one glance, the exact question that produced their worst reviews for three straight years \u2014 'will anything actually be open when I get there' \u2014 without needing one vendor's password or a single phone call."
+  },
+  {
+   "title": "A page proving it's safe to visit, not just saying so",
+   "for_complaint": "Safety, homelessness, and drug/alcohol activity around entrances and outside the building",
+   "deliverable": "A 'Getting Here Safely' page naming the specific well-lit ramp entrance on the east side (already referenced by visitors), the walking route from the METRO Blue Line Lake Street/Midtown Station, and the Minneapolis 3rd Precinct non-emergency line for anyone who feels unsafe \u2014 concrete, checkable facts standing in for the vague reassurance the current unanswered 1-star reviews are missing.",
+   "inputs_needed": "METRO Transit stop location and public schedule (public GTFS/Metro Transit site), the building's ramp/entrance locations (OSM and Street View, public), Minneapolis 3rd Precinct non-emergency contact (public). Exact current security-desk staffing hours are not published anywhere public, so that one line ships as 'ask at the info desk' rather than a guess.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Four of the five most recent 1-star reviews cite exactly this fear and none got an answer \u2014 a page with a named route, a named station, and a real phone number replaces anxiety with a plan."
+  },
+  {
+   "title": "Straight answer: is parking here free or not?",
+   "for_complaint": "Parking confusion: free vs. paid vs. validation, and lot size",
+   "deliverable": "A one-page parking guide with a simple entrance map distinguishing the ramp (free with a vendor validation card, per multiple 5-star reviews describing the process) from the metered outdoor lot (reported at $2/hr), so a first-time visitor knows which lot to use and how to get validated before they pay something they didn't need to.",
+   "inputs_needed": "Public satellite/street-view imagery of the two lots (Google Maps/OSM, public) plus the rate and validation-card process as independently documented across a dozen public reviews from 2023-2026.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Nine separate reviews over three years show visitors guessing whether they're about to get ticketed \u2014 this removes the guess before they pull in, and it's a question only a shared, multi-vendor lot generates."
+  }
+ ],
+ "best": 0
+}

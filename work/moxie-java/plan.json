@@ -1,0 +1,75 @@
+{
+ "slug": "moxie-java",
+ "name": "Moxie Java",
+ "sector": "Restaurant",
+ "work": [
+  "replies",
+  "listing",
+  "schema",
+  "llms",
+  "ai"
+ ],
+ "headline": "replies",
+ "reviews_to_answer": [
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVmIyTTBVM2xwYURselpVTlZablJ0TjFKWVlWRRAB",
+   "author_title": "Sarah Rowell",
+   "review_rating": 1,
+   "review_text": "$9.46 for a medium blended s\u2019mores coffee.\n\nNever buying coffee here again, lol.",
+   "review_datetime_utc": "11/18/2025 20:27:00",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KVmIyTTBVM2xwYURselpVTlZablJ0TjFKWVlWRRAB!2m1!1s0x0:0x98e746d818907a99!3m1!1s2@1:CAIQACodChtycF9oOmJVb2M0U3lpaDlzZUNVZnRtN1JYYVE%7C%7C?hl=en",
+   "date": "2025-11-18"
+  },
+  {
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2MDYzdkR3EAE",
+   "author_title": "Selena Cordova",
+   "review_rating": 2,
+   "review_text": "Honestly some of the worst tasting coffee ever",
+   "review_datetime_utc": "12/23/2024 21:10:03",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2MDYzdkR3EAE!2m1!1s0x0:0x98e746d818907a99!3m1!1s2@1:CIHM0ogKEICAgIDv063vDw%7C%7C?hl=en",
+   "date": "2024-12-23"
+  },
+  {
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUbVlfcmxnRRAB",
+   "author_title": "Oconnorr Henry",
+   "review_rating": 1,
+   "review_text": "Nope not for everyone,",
+   "review_datetime_utc": "05/25/2024 23:01:19",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUbVlfcmxnRRAB!2m1!1s0x0:0x98e746d818907a99!3m1!1s2@1:CIHM0ogKEICAgIDTmY_rlgE%7C%7C?hl=en",
+   "date": "2024-05-25"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMk0xWlZOVzk2VFhaVGFsQnlXVFZtVG10cGFGRRAB",
+   "author_title": "Miguel Renzo Mabilangan",
+   "review_rating": 5,
+   "review_text": "She was super kind, considerate, and made my drink excellent and took my order great because I cant speak English. Recommend \ud83d\udcaf\ud83d\udcaf",
+   "review_datetime_utc": "02/19/2026 22:51:09",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWMk0xWlZOVzk2VFhaVGFsQnlXVFZtVG10cGFGRRAB!2m1!1s0x0:0x98e746d818907a99!3m1!1s2@1:CAIQACodChtycF9oOlV2M1ZVNW96TXZTalByWTVmTmtpaFE%7C%7C?hl=en",
+   "date": "2026-02-19"
+  },
+  {
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxeG9HVDFnRRAB",
+   "author_title": "Sansan Andora",
+   "review_rating": 5,
+   "review_text": "I start my day with coffee from Moxie Java\nI ordered Christmas Lace (french vanilla mix mocha) with just the right amount of bitter and sweet, this is very tasty \u2615\ufe0f\u2615\ufe0f",
+   "review_datetime_utc": "12/28/2023 18:22:51",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxeG9HVDFnRRAB!2m1!1s0x0:0x98e746d818907a99!3m1!1s2@1:CIHM0ogKEICAgIC1xoGT1gE%7C%7C?hl=en",
+   "date": "2023-12-28"
+  }
+ ],
+ "listing_issues": [
+  {
+   "field": "map listing",
+   "openstreetmap": "missing",
+   "fix": "not on OpenStreetMap, the free map many apps and AI tools read"
+  }
+ ],
+ "unanswered_total": 154,
+ "sample": 154,
+ "low_unanswered_since_2024": 3
+}

@@ -1,0 +1,114 @@
+{
+ "complaints": [
+  {
+   "theme": "Loitering, homeless harassment, and safety incidents inside the cafe",
+   "count": 5,
+   "quotes": [
+    "Everytime I've come in, people are loitering and by people I mean the homeless population... a homeless man cat called a women and she left from being so uncomfortable",
+    "there was a homeless person sleeping in a chair. Weather was horrible and cold so understandable",
+    "has a small population of homeless people that spend their time there at night and ask for money",
+    "Two more homeless people came in and one was obviously not all there while another one chatted him up... A belligerent woman came in and started yelling",
+    "Beware of homeless people."
+   ],
+   "latest": "2026-02"
+  },
+  {
+   "theme": "Ignored at the counter / staff unresponsive despite a call bell existing",
+   "count": 7,
+   "quotes": [
+    "Horrible service here",
+    "stood at the counter for five minutes. Barista was standing three feet away... no acknowledgement, no 'just a minute'",
+    "the cashier was nowhere to be seen until I had to ring the bell for service",
+    "I stood at the counter probably 5 minutes without being acknowledged by the barista",
+    "the sandwiches sat on counter.. finally I went searching for them... no reason they couldn't let us know they were ready",
+    "Forgot my order and staff was very rude when I asked about it after 30 minutes",
+    "staff was unbelievably rude every time"
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Weak, watery, or stale coffee/espresso",
+   "count": 8,
+   "quotes": [
+    "The coffee was weak",
+    "Tasted like flavored water",
+    "I ordered a cappuccino, I ended up getting mostly hot water. No flavor or coffee",
+    "Watery $5 cappuccino...",
+    "the drip and it was very weak and distasteful",
+    "It honestly tasted like milk... the espresso must be weak",
+    "Just not good coffee and food is OK at best",
+    "iced coffee and it tasted stale with hints of cacao and not in a good way"
+   ],
+   "latest": "2024-10"
+  },
+  {
+   "theme": "Meeting-room booking terms are unclear/contradictory (price, minimum, hours)",
+   "count": 4,
+   "quotes": [
+    "For just $25, we had the space for almost five hours",
+    "Room reservation is only $25 or purchase of $25 beverages and food",
+    "You can rent out the private back room for free/just have to spend so much money on drinks",
+    "there's a big conference area in the back you can either rent or reserve too. I'm not sure what it costs"
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Microwaved/cold-center food, especially the toasted sandwiches",
+   "count": 6,
+   "quotes": [
+    "The bacon was super undercooked/rubbery",
+    "gigantic stale wrap... McDonalds puts more food in their snack-wraps",
+    "the sandwiches were like cardboard",
+    "Breakfast was freshly microwaved, lesson learned",
+    "My sandwich was cold in the middle",
+    "sandwiches are warmed in a microwave... if you've been in the coffee shop business since the mid 90s you should have a toaster oven by now"
+   ],
+   "latest": "2025-06"
+  },
+  {
+   "theme": "Downtown parking is hard to find near the cafe",
+   "count": 2,
+   "quotes": [
+    "near the renowned Fargo Theatre, that might also make it difficult to find parking",
+    "Parking on the street is always a challenge"
+   ],
+   "latest": "2018-06"
+  },
+  {
+   "theme": "Wifi unreliable for the study/work crowd the cafe markets itself to",
+   "count": 2,
+   "quotes": [
+    "Great coffee but the wifi is terrible. It's so spotty making it difficult to do homework",
+    "Wifi has been in and out lately"
+   ],
+   "latest": "2020-02"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "A clear, dated comfort & safety policy posted at the door",
+   "for_complaint": "Loitering, homeless harassment, and safety incidents inside the cafe",
+   "deliverable": "A one-page printable sign + matching web page (URL) titled 'Atomic Coffee is for everyone \u2014 here's how we keep it that way,' naming 222 Broadway N's actual layout (open floor plan, meeting room in back), a plain-language seating/purchase policy, and a 'tell a barista, we'll handle it' line \u2014 built directly off the Feb 2026 review describing a customer driven out by harassment.",
+   "inputs_needed": "Their current posted hours/late-night schedule (from atomiccoffeefm.com, which returns 200 now) so the sign can reference actual closing times; no login or contact required.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It quotes their own most damaging recent review back at them and hands over the exact fix as a printable page they can tape up before their next shift \u2014 not a strategy memo about 'customer experience.'"
+  },
+  {
+   "title": "A 'ring the bell' sign so the bell you already have gets used",
+   "for_complaint": "Ignored at the counter / staff unresponsive despite a call bell existing",
+   "deliverable": "A small printable counter/table sign and a QR-linked one-pager saying exactly where to stand and that a bell exists for service \u2014 because a 2023 review shows Atomic already owns a bell customers don't know to use, which is why five other reviewers describe standing unacknowledged for minutes.",
+   "inputs_needed": "None beyond the counter layout implied by reviews; fully buildable from the review text alone.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It's not 'train your staff to be nicer' \u2014 it points at physical infrastructure they already paid for that customers don't know exists, with a one-sentence fix."
+  },
+  {
+   "title": "One real page explaining what the back room actually costs",
+   "for_complaint": "Meeting-room booking terms are unclear/contradictory (price, minimum, hours)",
+   "deliverable": "A hosted HTML one-pager, 'Reserve the Back Room at Atomic Coffee, 222 Broadway N,' laying out the room's known terms as reported by four different customers over four years ($25/multi-hour slot vs. $25 minimum spend vs. 'not sure what it costs'), flagged clearly as customer-reported pending their confirmation, with their already-public phone number as the next step.",
+   "inputs_needed": "Atomic's current room pricing/policy to replace the 'as reported by guests' placeholder with an authoritative number \u2014 reachable by visiting atomiccoffeefm.com (live, 200) or their public phone listing; not reachable without that confirmation for the price itself, but the page is usable and honest today as-is.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Four paying groups over four years describe four different room policies \u2014 this is revenue they're already generating with zero public page to sell it, unlike the report's generic 'build a catering menu' finding."
+  }
+ ],
+ "best": 0
+}

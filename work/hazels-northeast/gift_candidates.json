@@ -1,0 +1,83 @@
+{
+ "complaints": [
+  {
+   "theme": "Reservation policy / one-hour table limit not disclosed until guests are seated, and phone reservations not honored",
+   "count": 17,
+   "quotes": [
+    "Made a reservation for 10:30 and by 10:39, the server was continuously rushing us to order saying that we only have 1 hour. 1 hour is absolutely insane for a sit down restaurant.",
+    "We made reservations over the phone when we got there they said we didn't have reservations and the guy we talked to over the phone completely denied talking to us.",
+    "Please update your website to include the fact that reservations are strongly recommended, although I will be honest in saying it was basically just implied to us that reservations were in fact required.",
+    "I was told when sat that they only reserve tables for an hour during weekend brunch, which is fine but would have been nice to know when we made the reservation.",
+    "20 mins before our reservation for 7 people, the restaurant called us and told us that they were not going to be seating us.",
+    "Honestly, the host told us 'your table reservation is for an hour.' As if we planned to park there for the whole morning?"
+   ],
+   "latest": "2025-07"
+  },
+  {
+   "theme": "Hashbrowns inconsistent \u2014 over-onioned, undercooked, or overcooked, called out by name repeatedly",
+   "count": 6,
+   "quotes": [
+    "I love potatoes and onions, but the hashbrowns here tasted like raw onions. Way too strong.",
+    "The hashbrowns are 60% onion.",
+    "The biscuits were hard and the hash browns tasted like onion powder.",
+    "hash browns...leave a lot to be desired. We all thought they were undercooked and blah."
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Menu too narrow \u2014 almost everything is beef/pork, requests for more vegetarian and gluten-free options",
+   "count": 6,
+   "quotes": [
+    "there were four options the last time I was there... the lack of options that aren't beef or pork based.",
+    "Only note would be to add more vegetarian options.",
+    "One wish is the menu wasn't so limited and they had more gluten free offerings.",
+    "Not alot of options on menu."
+   ],
+   "latest": "2026-04"
+  },
+  {
+   "theme": "Parking is confusing/difficult near this specific block",
+   "count": 3,
+   "quotes": [
+    "Parking can be a pain, but that's true of most of the restaurants in that area.",
+    "parking though is very difficult tho but still a mellow spot."
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Menu/allergen listing doesn't match what's served (safety-relevant)",
+   "count": 1,
+   "quotes": [
+    "I recently developed a severe allergy to most tree nuts... I ordered the beet salad a few weeks ago assuming it would be safe because it stated it had pistachios, but it ended up having pecans on it and I had to throw the whole thing away."
+   ],
+   "latest": "2024-03"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "Reservations & Wait-Time Guide for Hazel's",
+   "for_complaint": "Reservation policy / one-hour table limit not disclosed until guests are seated, and phone reservations not honored",
+   "deliverable": "A one-page hosted guide (URL) plus a printable host-stand sign titled 'Hazel's Northeast \u2014 Reservations & What to Expect,' stating in plain language: how to book (their existing Tock link), that peak weekend brunch tables turn at ~60\u201390 minutes so more neighbors get seated, and what to do if you walk in without one. Solves the exact complaint pattern in 17 reviews (six 1-star) where guests were blindsided by the time limit or a reservation dispute at the host stand.",
+   "inputs_needed": "Their public website (hazelsnortheast.com) for the existing booking link and hours; the review text itself as the source for what guests are currently NOT being told.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It's built entirely from their own 1-star reviews describing the same host-stand fight, word for word \u2014 the owner will recognize the exact complaint before they finish the first line."
+  },
+  {
+   "title": "A parking map for 2859 Johnson St NE",
+   "for_complaint": "Parking is confusing/difficult near this specific block",
+   "deliverable": "A single-page map (URL, printable) showing the small public lot across Johnson St NE plus which side streets allow parking, built from OpenStreetMap and the Minneapolis public parking layer for that block \u2014 not a generic 'parking is tough downtown' note.",
+   "inputs_needed": "OpenStreetMap data and Minneapolis public street/parking data for the 2859 Johnson St NE block \u2014 both public, no login.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It shows their own street corner, not a stock graphic \u2014 something they can hand a first-time guest who circled the block twice."
+  },
+  {
+   "title": "A menu substitution and allergen caution card",
+   "for_complaint": "Menu too narrow \u2014 requests for more vegetarian/gluten-free options; plus the pistachio/pecan mislabeling incident",
+   "deliverable": "A one-page reference built from their actual published menu (hazelsnortheast.com) marking which current dishes are vegetarian-adaptable and flagging the specific nut-labeling mismatch a guest hit, so front-of-house has one page to hand a guest with dietary questions instead of guessing.",
+   "inputs_needed": "Their current public menu page \u2014 reachable now without login (menu content, not account access).",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It names the exact dish and exact swap that sent a guest home with a thrown-out salad \u2014 a concrete near-miss, not a hypothetical."
+  }
+ ],
+ "best": 0
+}

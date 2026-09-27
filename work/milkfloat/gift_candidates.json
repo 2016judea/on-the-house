@@ -1,0 +1,103 @@
+{
+ "complaints": [
+  {
+   "theme": "Stale/dry/hard baked goods (cookies, brownies, cruffins, cheesecake bars)",
+   "count": 10,
+   "quotes": [
+    "Three different types of cookies, all stale, dry and crumbly. Disappointing",
+    "I get home and the food is rock hard and inetible. I can't even get a knife through it",
+    "the cruffins barely have any filling and your brownies are hard",
+    "cheesecake bar was dense and dry, and the cosmic brownie was no better"
+   ],
+   "latest": "2025-05"
+  },
+  {
+   "theme": "No public restroom / restroom code only given if you ask, not posted",
+   "count": 4,
+   "quotes": [
+    "No public restrooms (Drove from out of town...)",
+    "go to Braums where you can get more friendly service and a public restroom at a fraction of the cost",
+    "we weren't given the wifi code (nor was it noticeable if it was written somewhere) or a toilet code (given only when you ask staff)"
+   ],
+   "latest": "2026-02"
+  },
+  {
+   "theme": "Cold/unfriendly counter service (no greeting, staring, no smiles)",
+   "count": 7,
+   "quotes": [
+    "No one spoke to me until I was at the register, when one of three people turned away from their active conversation to stare at me until I ordered",
+    "girl behind the counter acted as though she was offended we were there",
+    "Staff could be friendlier, no smiles most looked like they didn't want to be there"
+   ],
+   "latest": "2025-12"
+  },
+  {
+   "theme": "Ice cream is Tillamook (store-bought), not house-made; flavor selection thin",
+   "count": 5,
+   "quotes": [
+    "it was Tillamook ice cream like you can buy in the store. That was a little disappointing",
+    "Hardly any options for ice cream flavors/toppings",
+    "I only wish they had more ice cream flavors...",
+    "Does not have rolled ice cream but everything else was as google advertised"
+   ],
+   "latest": "2025-03"
+  },
+  {
+   "theme": "Wrong drink given / inconsistent, burnt coffee",
+   "count": 4,
+   "quotes": [
+    "they will give me anything but the one I asked for",
+    "wasn't what I ordered",
+    "every time I get coffee it's super duper burnt",
+    "Their \"Americano\" tasted like burnt gas-station drip coffee"
+   ],
+   "latest": "2024-12"
+  },
+  {
+   "theme": "Unposted policy signage (no-dogs, board-game rule change) causes blow-ups",
+   "count": 3,
+   "quotes": [
+    "The worker screamed at such an incredibly high decibel that every single person in the place immediately turned... we genuinely did not see their no dogs sign",
+    "we were told we weren't aloud to play board games on Saturdays anymore",
+    "I miss when they used to have board games you could play in there"
+   ],
+   "latest": "2024-11"
+  },
+  {
+   "theme": "Wish open Sundays / hours not obvious to first-timers/out-of-towners",
+   "count": 2,
+   "quotes": [
+    "I do wish they were open Sundays",
+    "Drove from out of town. Was looking for a place to get a snack & sit to read"
+   ],
+   "latest": "2024-09"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "One counter card: wifi, restroom, no-dogs, hours, GF/vegan flags",
+   "for_complaint": "No public restroom / wifi code not posted / no-dogs sign missed / Sunday hours unclear",
+   "deliverable": "A print-ready one-page laminated counter card + matching single-page site (index.html) stating: hours including 'closed Sundays', the wifi network name (blank for owner to letter in), restroom policy exactly as staff already enforce it ('ask any barista for the code'), the no-dogs policy stated up front instead of only enforced by a shout, and a GF/vegan flag since multiple reviewers praise that but ask about it verbally. Delivered as a ready-to-print PDF/HTML file today.",
+   "inputs_needed": "Owner only needs to hand-letter the actual wifi password and restroom code onto the printed card (2 blanks) \u2014 everything else is already public from reviews/site.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It directly quotes their own customers' asks (the wifi/toilet-code review, the out-of-towner who didn't know hours, the dog-sign incident) back at them as a finished fix, not a suggestion."
+  },
+  {
+   "title": "Bakery case freshness date-dot labels (Avery sheet)",
+   "for_complaint": "Stale/dry/hard baked goods \u2014 the most-repeated complaint, 10 mentions over 4 years",
+   "deliverable": "A designed, print-ready PDF sheet of small color-coded 'baked [day]' dot labels sized for standard Avery round labels, pre-populated with Milkfloat's actual case items pulled from their reviews (cruffin, brownie, cheesecake bar, chocolate loaf, cupcakes, Nutella muffin) so staff can date-stamp trays the day they're baked and pull anything a day past its dot \u2014 a physical fix a customer would notice as 'this feels fresher,' printable and usable same day.",
+   "inputs_needed": "None required to use it \u2014 owner just prints and starts dating trays; their own freshness cutoff (e.g. 24h vs 48h) can be written on later.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It answers the single most-repeated complaint in their own reviews with a $0, same-day, physical tool \u2014 not advice, an artifact."
+  },
+  {
+   "title": "\"What Milkfloat actually is\" one-pager: coffee shop, bakery, ice cream \u2014 set right",
+   "for_complaint": "Identity confusion causing let-down expectations: 'more of a coffee shop than dessert shop', surprise that ice cream is Tillamook not house-made, thin non-caffeinated options for kids",
+   "deliverable": "A single web page (and printable insert for the counter) that states plainly, in the order reviewers actually get surprised: scratch bakery + coffee bar + Tillamook ice cream (not house-churned) + rotating seasonal items + a short kid-friendly non-coffee list \u2014 so a visitor's expectation matches what's in the case before they order, cutting the 'disappointed it wasn't X' reviews.",
+   "inputs_needed": "None \u2014 every fact quoted comes from their own site copy and reviews (Tillamook, Onyx coffee, scratch bakery, rotating menu).",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It's built entirely from their own customers' exact confusion, worded back to set expectations before the register \u2014 not a generic 'about us' page."
+  }
+ ],
+ "best": 1
+}

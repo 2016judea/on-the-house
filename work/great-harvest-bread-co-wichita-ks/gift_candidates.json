@@ -1,0 +1,91 @@
+{
+ "complaints": [
+  {
+   "theme": "Rude, cold, or dismissive counter staff",
+   "count": 14,
+   "quotes": [
+    "another older lady was VERY rude. Lost my business for sure and would never recommend.",
+    "I've been coming to this place since 2006... I turned away... because I was so dissatisfied with the cold and unfriendly staff"
+   ],
+   "latest": "2026-02"
+  },
+  {
+   "theme": "Prices feel too high / sticker shock at checkout",
+   "count": 9,
+   "quotes": [
+    "$12 for a round loaf is a bit much... I have also left the bakery only to discover I was charged more than I expected. I suggest you always get a receipt.",
+    "Loaves we took home are tasty but expect them to be $8 or more. We spent over $33 for 3 loaves of bread and three little snack bars"
+   ],
+   "latest": "2025-03"
+  },
+  {
+   "theme": "Baked goods stale, dry, or inconsistent quality",
+   "count": 8,
+   "quotes": [
+    "I bought \"fresh\" bread today that I would swear was old... Bought 2 items and they were neither fresh when I got home and cut into them.",
+    "They leave stuff out on the rack that is dry and tasteless and charge the same as if it was fresh... so hard I might chip a tooth"
+   ],
+   "latest": "2025-01"
+  },
+  {
+   "theme": "No prices posted on baked goods (unmet request)",
+   "count": 1,
+   "quotes": [
+    "Great products. But you need to post your prices with your baked items"
+   ],
+   "latest": "2021-04"
+  },
+  {
+   "theme": "Limited gluten-free options / no ingredient-allergen breakdown (unmet request)",
+   "count": 2,
+   "quotes": [
+    "Not many gluten free options",
+    "you choose not to breakdown complex ingredients such as chocolate chips or list what major allergens a product contains"
+   ],
+   "latest": "2019-03"
+  },
+  {
+   "theme": "Didn't know the back party/meeting room existed until visiting (unmet request)",
+   "count": 1,
+   "quotes": [
+    "I never new about the party room in the back but it was perfect for our occation... i will definately tell friends and family about the availability of this room for future bookings"
+   ],
+   "latest": "2019-01"
+  },
+  {
+   "theme": "Online ordering broken (unmet request)",
+   "count": 1,
+   "quotes": [
+    "the online ordering experience is absolutely terrible. Orders never go through and cause you to get to the store and have to reorder everything."
+   ],
+   "latest": "2023-06"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "Tell customers the back room is bookable",
+   "for_complaint": "Didn't know the back party/meeting room existed until visiting",
+   "deliverable": "One-page printable flyer/table-tent, copy built entirely from their own customers' words (the small-group meetings, baby showers, quiche-and-coffee gatherings, the 'sofa side room') announcing the room is open to book, with a call-to-reserve line.",
+   "inputs_needed": "Store phone number and hours from greatharvest.com/locations/wichitaks (public, reachable) to print on the call-to-book line; no capacity or pricing invented since we don't have it.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It quotes their own regulars back at them \u2014 free promotion for a room that already exists and already gets used, with zero copywriting left for the owner to do."
+  },
+  {
+   "title": "A fill-in-the-blank price sign for the bread case",
+   "for_complaint": "No prices posted on baked goods, and price sticker-shock at checkout",
+   "deliverable": "Printable price-sign template pre-formatted with every product customers name by name in the reviews (Cinnamon Burst, cinnamon rolls, sourdough, Dakota, Swedish rye, challah, stuffing bread, power bars, scones, bierocks, king cake) with blank price lines to write in same-day, sized for the case and register.",
+   "inputs_needed": "None to build the template. Filling in numbers needs only the store's own current prices \u2014 a five-minute in-store task, no outside data.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It answers, almost verbatim, a customer's own written request \u2014 'you need to post your prices with your baked items' \u2014 and heads off the recurring 'charged more than expected, keep your receipt' complaint in one printout."
+  },
+  {
+   "title": "A gluten-free and allergen guide built from their own reviews",
+   "for_complaint": "Limited gluten-free options / no ingredient-allergen breakdown",
+   "deliverable": "One-page printable guide listing the gluten-free items their own customers have praised by name across six years of reviews (GF buckwheat bread, GF almond cookies, GF blueberry muffins, GF pumpkin snickerdoodle), plus blank rows for staff to note allergens per item, for the counter or to hand to anyone who asks.",
+   "inputs_needed": "None \u2014 every item is sourced from the collected reviews. Allergen specifics need staff's own recipe knowledge, filled in once.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "A customer walked out for good in 2018 because nobody could answer an allergen question; this hands the counter staff the exact answer instead of a shrug, using a list of their own best-loved GF items they may not realize is this long."
+  }
+ ],
+ "best": 1
+}

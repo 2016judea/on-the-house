@@ -1,0 +1,13 @@
+{
+  "_source": "Seeded from bricks/reports_out/ai_native_servicing/DEBRIEF.md + playbook/ (2026-06-15): Starter $99/mo, Operator $299/mo, setup $150-$750; GBP card $200 setup, booking card $250, Stripe card $150. Everything here needs the owner's login or a verification, which is why it is paid and the free work is not.",
+  "items": {
+    "domain_hookup": {"title": "Put this new site on your own web address", "price": "$150 one time", "needs": "your domain login", "fits": ["site"]},
+    "review_replies_monthly": {"title": "We answer every new Google review for you, within a day", "price": "$99/mo", "needs": "manager access on your Google profile", "fits": ["replies"]},
+    "gbp_cleanup": {"title": "Fix your Google listing: hours, photos, menu, booking button", "price": "$200 one time", "needs": "manager access on your Google profile", "fits": ["listing", "replies", "site"]},
+    "ai_listings": {"title": "Get listed where ChatGPT and Claude look (Bing, Apple, Foursquare, Yelp)", "price": "$150 one time", "needs": "claiming each listing, which sends a code to you", "fits": ["ai", "listing"]},
+    "online_booking": {"title": "Online booking with text reminders", "price": "$250 setup + $99/mo", "needs": "your calendar and prices", "fits": ["salon"]},
+    "online_ordering": {"title": "Online ordering for pickup, straight to your kitchen", "price": "$350 setup + $99/mo", "needs": "your menu and a payment account", "fits": ["food"]},
+    "review_engine": {"title": "A QR card and a text that asks happy customers for a review", "price": "$150 setup + $99/mo", "needs": "your customer list or register", "fits": ["replies", "ai"]},
+    "missed_call_textback": {"title": "Missed calls get an instant text back, so the customer doesn't call the next place", "price": "$299/mo", "needs": "your phone line", "fits": ["salon", "food"]}
+  }
+}

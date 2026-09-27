@@ -1,0 +1,91 @@
+{
+ "slug": "downtowner-woodfire-grill",
+ "name": "Downtowner Woodfire Grill",
+ "sector": "Restaurant",
+ "work": [
+  "site",
+  "replies",
+  "listing",
+  "schema",
+  "llms",
+  "ai"
+ ],
+ "headline": "site",
+ "reviews_to_answer": [
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUU5qSm1jM05NT1hab2RGQTRPWFExTkVscFYxRRAB",
+   "author_title": "Carrie Buller",
+   "review_rating": 3,
+   "review_text": "We were in town for the Eric Church concert and chose the Downtowner based on the reviews. Based on that, we made a reservation as suggested\u2026when we arrived we expected the place to be packed since we only had two options for times, 3:45 and 7:00. Since the concert started at 7:00 we chose 3:45. The place was nearly empty\u2026which should have gave the impression that good service was coming our way..nope!\nOur party of 4 was indeed seated immediately and then promptly forgotten about for 10 minutes. After being brought water and having our drink order taken, we were again forgotten about for another 10 minutes. After roughly 20 minutes from being seated we were finally brought our drinks and told that he would be back to take our order in just a minute. Well, five minutes later he did indeed get around to taking our order. None of this would have been really that upsetting except, the place was almost empty as it wasn\u2019t even 4:30 PM.\nFinally, dinner arrives roughly 25 minutes after placing our orders. The food was ok, at best. The chicken kabobs I ordered were dry as was the swordfish that my husband ordered. The wood fired pizza my grandson and daughter ordered was undercooked but tasted fine.\nAll in all, I\u2019m just giving this place an \u201cOK\u201d\u2026way over priced for the food quality and service but the atmosphere was good.",
+   "review_datetime_utc": "02/12/2026 02:56:16",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWUU5qSm1jM05NT1hab2RGQTRPWFExTkVscFYxRRAB!2m1!1s0x0:0x97e70f0acb94faf7!3m1!1s2@1:CAIQACodChtycF9oOkVQNjJmc3NMOXZodFA4OXQ1NElpV1E%7C%7C?hl=en",
+   "date": "2026-02-12"
+  },
+  {
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMGYyTDhnRRAB",
+   "author_title": "James Heitz",
+   "review_rating": 2,
+   "review_text": "I went there to eat with a group of managers, food service managers from general Mills world headquarters. I'm an executive chef of over 40 years. I was excited to eat their marbled ribeye and a New York strip steak came to my table. I returned it saying that it was not a ribeye. It was a strip loin steak and the server brought it back to my table and said it was a ribeye. I could almost laugh in his face. I know the difference between a strip line and a ribeye. Apparently their Hispanic Cooks do not know the difference. I was very disappointed.",
+   "review_datetime_utc": "02/01/2025 18:59:15",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNBMGYyTDhnRRAB!2m1!1s0x0:0x97e70f0acb94faf7!3m1!1s2@1:CIHM0ogKEICAgMCA0f2L8gE%7C%7C?hl=en",
+   "date": "2025-02-01"
+  },
+  {
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYeHN1N3pBRRAB",
+   "author_title": "Yauhen Tarbunou",
+   "review_rating": 1,
+   "review_text": "I was looking forward to have dinner at this place, but, unfortunately, the food was absolutely terrible especially for the price they were asking . Not sure where these nice reviews are coming from . Bruschetta we ordered had a cold and old bread.  Buffalo shrimps were ok. The pizza was tasteless . Drinks were pretty poorly done . But the price was crazy high. Never coming back here",
+   "review_datetime_utc": "10/22/2024 09:35:58",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYeHN1N3pBRRAB!2m1!1s0x0:0x97e70f0acb94faf7!3m1!1s2@1:CIHM0ogKEICAgICXxsu7zAE%7C%7C?hl=en",
+   "date": "2024-10-22"
+  },
+  {
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNId2JhY3NRRRAB",
+   "author_title": "Dinesh Mirpuri (D'Gaia)",
+   "review_rating": 3,
+   "review_text": "The bread was perfect. The lamb kebab was a bit tough but tasty.",
+   "review_datetime_utc": "09/05/2024 17:31:17",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNId2JhY3NRRRAB!2m1!1s0x0:0x97e70f0acb94faf7!3m1!1s2@1:CIHM0ogKEICAgICHwbacsQE%7C%7C?hl=en",
+   "date": "2024-09-05"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TFRFRTRMVzkxVlZkd2QxVXdXVmhaZGtsMGExRRAB",
+   "author_title": "AMK T",
+   "review_rating": 5,
+   "review_text": "It was such a nice atmosphere. The servers were amazing and super friendly. The food was great but I'm really sad to hear they are closing. I'm glad I got to try the restaurant before they are closing.",
+   "review_datetime_utc": "05/17/2026 23:55:10",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1TFRFRTRMVzkxVlZkd2QxVXdXVmhaZGtsMGExRRAB!2m1!1s0x0:0x97e70f0acb94faf7!3m1!1s2@1:CAIQACodChtycF9oOk5LTEE4LW91VVdwd1UwWVhZdkl0a1E%7C%7C?hl=en",
+   "date": "2026-05-17"
+  },
+  {
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UlVHczNaSGhaU214cVZGOVJjblpIYm5KSk5WRRAB",
+   "author_title": "A Wolfe",
+   "review_rating": 5,
+   "review_text": "Excellent restaurant found out today it closes for good in 4 days after decades of excellence",
+   "review_datetime_utc": "05/15/2026 19:49:24",
+   "owner_answer": null,
+   "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1UlVHczNaSGhaU214cVZGOVJjblpIYm5KSk5WRRAB!2m1!1s0x0:0x97e70f0acb94faf7!3m1!1s2@1:CAIQACodChtycF9oOk5RUGs3ZHhZSmxqVF9RcnZHbnJJNVE%7C%7C?hl=en",
+   "date": "2026-05-15"
+  }
+ ],
+ "listing_issues": [
+  {
+   "field": "hours",
+   "google": "no hours listed",
+   "fix": "add your hours so Google can show 'Open now'"
+  },
+  {
+   "field": "map listing",
+   "openstreetmap": "missing",
+   "fix": "not on OpenStreetMap, the free map many apps and AI tools read"
+  }
+ ],
+ "unanswered_total": 279,
+ "sample": 500,
+ "low_unanswered_since_2024": 11
+}

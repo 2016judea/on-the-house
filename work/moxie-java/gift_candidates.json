@@ -1,0 +1,98 @@
+{
+ "complaints": [
+  {
+   "theme": "Charged for alt milk, given regular",
+   "count": 2,
+   "quotes": [
+    "Love the drinks and workers Hate the upcharge for blending and getting alternative milk... they keep giving me regular instead of alternative milk, even when I ask and get charged for it... Went from 4 to 1 star.",
+    "Everytime I ask for alternative milk they always give me regular. They always charge me for alternative but never make it with alternative this has happened at least 5 times now"
+   ],
+   "latest": "2023-08"
+  },
+  {
+   "theme": "Sticker-shock pricing on the total",
+   "count": 4,
+   "quotes": [
+    "$9.46 for a medium blended s'mores coffee. Never buying coffee here again, lol.",
+    "Eight bucks for a coffee drink, and it tasted terrible.",
+    "Too expensive, your not starbucks, don't charge like it.",
+    "Typical coffee joint, too expensive but what are you going to do, not drink coffee?"
+   ],
+   "latest": "2025-11"
+  },
+  {
+   "theme": "Crabby or inattentive counter staff",
+   "count": 6,
+   "quotes": [
+    "Grateful coffee crabby cashier.",
+    "the girls could be friendlier...WAY FRIENDLIER...they give off the vibe like your bothering them",
+    "Barista was sort of crabby. But the drinks were good.",
+    "They only want wealthy coffee drinkers. Went there after work in work cloths and was ignored",
+    "babe was in her own outer space zone...big time zoning"
+   ],
+   "latest": "2026-05"
+  },
+  {
+   "theme": "Wrong or slow drinks, inconsistent quality",
+   "count": 3,
+   "quotes": [
+    "Slowwww, made wrong drinks, then instead of remaking, made two orders ahead...Waiting for well over 20 minutes.",
+    "This is probably the worst Moxie in town...so inconsistent.",
+    "The last handful of times I've visited, the drinks were terrible!"
+   ],
+   "latest": "2022-02"
+  },
+  {
+   "theme": "Menu feels limited or basic",
+   "count": 2,
+   "quotes": [
+    "Okay not a whole lot to choose from..",
+    "Eh... it's pretty basic but has good options - Lower quality drinks."
+   ],
+   "latest": "2023-10"
+  },
+  {
+   "theme": "Wants a loyalty punch card",
+   "count": 1,
+   "quotes": [
+    "I love Moxie Java!!! My fave is the Milky Way! I wish the loyalty Punch cards were universally accepted at all locations."
+   ],
+   "latest": "2018-06"
+  },
+  {
+   "theme": "Can't hear over mall fountain/foot traffic",
+   "count": 1,
+   "quotes": [
+    "I feel like I can't hear or be heard because of the fountain and foot traffic. It's just a mess."
+   ],
+   "latest": "2022-02"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "Milk-check ticket so oat milk actually goes in the cup",
+   "for_complaint": "Charged for alt milk, given regular",
+   "deliverable": "A printable half-page order-verification card (PDF/HTML, print at home) listing Moxie's own milk options (whole, skim, oat, almond, coconut) and named specialty drinks as checkboxes. Barista circles the milk before handing off the cup, so the customer sees proof of what they paid for before walking away \u2014 a physical fix for the exact failure ('charged for alt milk, given regular, 5+ times') that turned a 4-star regular into a 1-star 'I can't go back.'",
+   "inputs_needed": "Moxie Java's actual milk/modifier list and named drinks, pulled from their public menu at moxiejava.com.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It quotes their own customer's exact words back at them \u2014 'this has happened at least 5 times' \u2014 and hands over the fix already built, not a suggestion to train staff."
+  },
+  {
+   "title": "The punch card a regular already asked for",
+   "for_complaint": "Wants a loyalty punch card",
+   "deliverable": "A print-ready one-page punch card (10 stamps, buy-9-get-1 default) styled with Moxie Java's name and colors pulled from their own site \u2014 print on cardstock, cut, stack by the register today. No app, no Square account, no signup.",
+   "inputs_needed": "Moxie Java's logo/color palette from moxiejava.com (public page, no login).",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It answers a specific customer who named their favorite drink (Milky Way) and asked for exactly this back in 2018 \u2014 the ask has been sitting unaddressed for eight years."
+  },
+  {
+   "title": "One card that shows every drink your regulars love",
+   "for_complaint": "Menu feels limited or basic",
+   "deliverable": "A single printable counter card/poster compiling every drink customers named by name across their own reviews \u2014 Christmas Lace french vanilla mocha, Milky Way, Raspberry dessert coffee, caramel Frappuccino, s'mores blended, Americano \u2014 proving the menu isn't thin, it's just invisible at the counter.",
+   "inputs_needed": "Confirming current names/availability against moxiejava.com's menu page (public, no login) to make sure nothing listed has been discontinued.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Every drink on it is a real quote from their own customer, not a stock coffee-shop menu \u2014 it can't be handed to a different business."
+  }
+ ],
+ "best": 0
+}

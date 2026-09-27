@@ -1,0 +1,66 @@
+{
+ "complaints": [
+  {
+   "theme": "Three reviews on the Google profile are not about this business at all (mention Goyard handbags, Barneys, a $25,000 purchase, FedEx package delivery \u2014 nothing to do with skin care)",
+   "count": 3,
+   "quotes": [
+    "Barneys high end prices with low end costumer service, ordered a Christmas gift, delivered by FedEx only to never received my package",
+    "I was very pleased with the customer service I received on 5th. Granted, I spent over $25,000... There are very few places to purchase Goyard, so I was happy.",
+    "Overrated!"
+   ],
+   "latest": "2018-12"
+  },
+  {
+   "theme": "Zero owner responses posted on any of the 30 reviews",
+   "count": 30,
+   "quotes": [
+    "(no review in the set is tagged OWNER REPLIED)"
+   ],
+   "latest": "2026-03"
+  },
+  {
+   "theme": "First-time clients name anxiety about sugaring/Brazilian and single out being walked through the process step-by-step as the thing that won them over",
+   "count": 4,
+   "quotes": [
+    "I was a first time sugar-waxer, looking to try a Brazalian... with someone who wouldn't make me feel awkward about it... Jillian talked through everything she was doing the first time I came in so I wasn't surprised with what was happening.",
+    "She walked me through everything and talked with me the entire time! Small talk wasn't awkward, she let me know my options when I started second guessing my bikini wax and was so patient.",
+    "My first time with sugaring and the process was fully explained to me.",
+    "She made me feel comfortable + confident the whole time."
+   ],
+   "latest": "2024-01"
+  },
+  {
+   "theme": "No unmet requests stated in the review text itself \u2014 no complaints about hours, pricing, parking, or booking anywhere in 30 reviews from actual clients",
+   "count": 0,
+   "quotes": [],
+   "latest": "n/a"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "List Bare MN on OpenStreetMap, where Google can't be found",
+   "for_complaint": "Not listed on OpenStreetMap \u2014 invisible to Apple Maps, in-car GPS, and any app that reads OSM instead of Google",
+   "deliverable": "A ready-to-submit OpenStreetMap node for 1720 Livingston Ave, West St Paul MN 55118 (name, category=beauty/spa, address) plus a one-page before/after showing the address is currently a gap on OSM-based map apps",
+   "inputs_needed": "Business hours and phone number \u2014 not present anywhere in the review data or report; both are public on the existing Google Maps listing, reachable without any login",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "A named address gap they can verify in 30 seconds on their own phone (search 'Bare MN' in Apple Maps and watch it fail)"
+  },
+  {
+   "title": "Three of your reviews aren't yours \u2014 here's exactly which",
+   "for_complaint": "Google profile carries 3 reviews (1\u2605, 1\u2605, 5\u2605) describing Goyard handbags, a $25,000 purchase, and a lost FedEx delivery \u2014 none of it skin care, two of them dragging the star average down",
+   "deliverable": "A one-page doc quoting the exact 3 mismatched reviews by date and star rating, with the specific Google 'Flag as inappropriate' click path so Jillian can remove them herself without handing over any login",
+   "inputs_needed": "None \u2014 fully built from the review text already in hand",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Nobody has told her a stranger's Goyard receipt is sitting on her salon's Google page pulling her rating down \u2014 it reads as a surprise, not a suggestion"
+  },
+  {
+   "title": "What actually happens at your first sugaring appointment",
+   "for_complaint": "First-timers name pre-visit anxiety about sugaring/Brazilian as the exact thing Jillian resolves in-room \u2014 but nothing on the public web page tells a nervous new visitor that before they book",
+   "deliverable": "A one-page printable/web guide, written entirely from verbatim client quotes, walking a first-timer through what Jillian actually does (explains every step, no judgment, options offered mid-service) so the reassurance happens before they ever sit down",
+   "inputs_needed": "None \u2014 sourced entirely from the 4 quoted reviews above",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "It's her own clients' exact words about her handed back as the thing that gets a nervous first-timer to actually book"
+  }
+ ],
+ "best": 1
+}

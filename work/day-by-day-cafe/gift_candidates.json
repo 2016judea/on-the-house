@@ -1,0 +1,112 @@
+{
+ "complaints": [
+  {
+   "theme": "Customers ignored after self-seating / slow or rude service",
+   "count": 20,
+   "quotes": [
+    "Walked in and the sign said to seat yourself at a clean table... I waited 5 min and no one served me. A waitress walked by multiple times making eye contact, but just sat playing on phone.",
+    "Seated ourselves, no one came to table. Got up to find a server, both were on their phones.",
+    "Manger with blonde hair was incredibly rude. I will not be back.",
+    "our waitress was wearing an AirPod while serving us",
+    "waited 20 mins to be seated. I got there after they were seated and they hadn't received waters or coffee yet"
+   ],
+   "latest": "2026-05"
+  },
+  {
+   "theme": "Bland / underseasoned food",
+   "count": 7,
+   "quotes": [
+    "Food was expensive and was not impressed with the flavor, very bland.",
+    "the hash as bland as can be",
+    "bland and lacked character in that the first bite says I am special, they are not special",
+    "they really, really need to learn about salt in the kitchen",
+    "Table salt on top of an omelet just doesn't cut it."
+   ],
+   "latest": "2026-03"
+  },
+  {
+   "theme": "Portions too small / prices too high for what you get",
+   "count": 4,
+   "quotes": [
+    "Portions not worth the price",
+    "wish portions were slightly bigger",
+    "Only gripe is the prices have gone way up and they need to season their eggs."
+   ],
+   "latest": "2026-02"
+  },
+  {
+   "theme": "Payment methods outdated / confusing (Visa-only, no tap, cash-vs-card price gap)",
+   "count": 3,
+   "quotes": [
+    "I typically love this place.. but they need to upgrade to tap pay.",
+    "Cute place for breakfast! They only take visa, no other credit cards! But overall decent.",
+    "If you pay with cash, it's a lot cheaper because there's no service fees."
+   ],
+   "latest": "2025-11"
+  },
+  {
+   "theme": "Parking is hard to find near the restaurant",
+   "count": 4,
+   "quotes": [
+    "Parking was a bit of a hassle on the weekend we went, busy area, but we both found spots",
+    "Not much parking so arrive early.",
+    "finding parking can be a little challenging as street p[arking]...",
+    "parking can be hard to find"
+   ],
+   "latest": "2025-12"
+  },
+  {
+   "theme": "No real website / online ordering is broken or doesn't exist",
+   "count": 1,
+   "quotes": [
+    "Placed order at 11:10. Was told at 11:49 that it never got sent through... The manager proceeded to tell me 'where did you order from'... In which she responds 'We don't have a website to order from' which left me super dumbfounded for a second wondering who I just gave my money to"
+   ],
+   "latest": "2024-07"
+  },
+  {
+   "theme": "Closure rumor live and unanswered",
+   "count": 1,
+   "quotes": [
+    "They're closing Friday. Good i won't ever spend another dime at your place."
+   ],
+   "latest": "2026-01"
+  },
+  {
+   "theme": "Wooden booth seating uncomfortable",
+   "count": 3,
+   "quotes": [
+    "Wooden seating not very comfortable. Food good!",
+    "the booth was rather uncomfortable to sit in",
+    "it was difficult to get into booth we were assigned with full table right next to us"
+   ],
+   "latest": "2026-04"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "Build the real Day By Day website \u2014 theirs currently says 'Demo'",
+   "for_complaint": "No real website / online ordering is broken or doesn't exist",
+   "deliverable": "A one-page site (handed over as an HTML file + hosted URL) built from what's actually true about this exact restaurant: real hours pulled from their OSM listing (Mo-Sa 6-3, Su 7-3), phone, address, a plain 'Yes, we are open' line answering the live Jan 2026 closure rumor, a reconstructed menu of their actual named dishes pulled from 500 reviews (biscuits and gravy, buckwheat pancakes, corned beef hash, Cubano, Rachel, patty melt, eggs benedict, salmon scramble), the koi-pond dog-friendly patio, a note that the patio entrance is around back near the kitchen (a repeat point of confusion), and the payment note below.",
+   "inputs_needed": "Current daybydaymn.com site is live at a 'Demo' placeholder \u2014 no login needed to observe it, only to replace it. OSM gives hours/phone/address (public, reachable now). Menu items are reconstructed from review text, not an official price sheet, so prices are omitted; a photo of their real posted menu would sharpen this but isn't required to ship v1.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Their own domain has been showing visitors the word 'Demo' while a live Google review says they're closing and staff themselves told a customer 'we don't have a website to order from' \u2014 three symptoms of one root cause, fixable with one page, no account needed to build it."
+  },
+  {
+   "title": "A 'seat yourself' sign that actually tells people what happens next",
+   "for_complaint": "Customers ignored after self-seating / slow or rude service",
+   "deliverable": "A printable host-stand sign and matching table tent (PDF/PNG, print at home or at any copy shop) with one line: 'Seat yourself anywhere \u2014 a server will greet you within 5 minutes. Waving gets our attention fastest if we're slammed.' Directly answers the two documented failure cases: the seat-yourself sign with no follow-through, and staff distracted on phones near a waiting table.",
+   "inputs_needed": "None beyond their name, already public. No menu, no login, no paid printing service required \u2014 file is print-ready as-is.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "The exact complaint ('the sign said seat yourself... I waited 5 min and no one served me') shows up multiple times across three years; the sign itself is the gap, not the staff."
+  },
+  {
+   "title": "A payment sign so nobody's surprised at checkout",
+   "for_complaint": "Payment methods outdated / confusing (Visa-only, no tap, cash-vs-card price gap)",
+   "deliverable": "A small printable sign for the register/front door: 'We currently accept cash and Visa. No tap/contactless yet. Paying cash saves you our card processing fee.' Removes the guesswork three separate 2025 reviewers hit at the point of paying.",
+   "inputs_needed": "The exact cash-discount percentage isn't public; the sign is written to work without it ('saves you our card processing fee') so it's accurate without needing their POS settings.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Three different customers in one year hit this exact surprise at checkout \u2014 a $0 sign fixes a recurring bad last-impression moment."
+  }
+ ],
+ "best": 0
+}

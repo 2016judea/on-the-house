@@ -1,0 +1,88 @@
+{
+ "complaints": [
+  {
+   "theme": "Botched cut or color with no adequate correction offered",
+   "count": 7,
+   "quotes": [
+    "Bad dye job my hair would always turn out black instead of brown.",
+    "I walked out with two different hair cuts in each side of my head.",
+    "This is how my friends hair turned out versus how she wanted it... offered her to come back a WEEK later.",
+    "I showed the girl a picture and she still screwed it up."
+   ],
+   "latest": "2023-12"
+  },
+  {
+   "theme": "Charged full price (or more) to fix their own mistake",
+   "count": 3,
+   "quotes": [
+    "The out come, they want her to pay them more to fix what they were to do in the first place.",
+    "They also still made me pay full price and only did the front side.",
+    "She did a terrible job the first time and then tried to charge me $65 for the worst wax job ever."
+   ],
+   "latest": "2016-06"
+  },
+  {
+   "theme": "Rude or vulgar staff/owner conduct",
+   "count": 3,
+   "quotes": [
+    "Stylists are nasty and vulgar, also, they reek of cigarettes.",
+    "the owner was rude and said that I don't know my own body should look like after a wax and she does.",
+    "Very bad customer service."
+   ],
+   "latest": "2024-01"
+  },
+  {
+   "theme": "Appointment/staffing change handled with no warning to the client",
+   "count": 1,
+   "quotes": [
+    "I have 3 people... look at me super confused then a huge awkward feeling filled the air right before I was told the girl that was supposed to do my hair was 'fired' and that they supposedly tried contacting me days before... which they never tried."
+   ],
+   "latest": "2026-04"
+  },
+  {
+   "theme": "No way to check if they're actually open / hours unclear",
+   "count": 1,
+   "quotes": [
+    "I pulled in here to check to see you my hair could be done, but it was closed."
+   ],
+   "latest": "2019-06"
+  },
+  {
+   "theme": "Hard to know which stylist to pick without already knowing a name (unmet ask, described repeatedly as a struggle before landing right)",
+   "count": 6,
+   "quotes": [
+    "Finding a stylist after moving to Wichita felt daunting, but I'm happy to report that I got it right the first time!",
+    "Finding a stylist we could trust has been very difficult until we came across J. Gilman Salon!",
+    "I've struggled with finding a permanent salon and stylist the past 2 years since I moved to Wichita."
+   ],
+   "latest": "2026-02"
+  }
+ ],
+ "gifts": [
+  {
+   "title": "A working website, since yours doesn't load at all",
+   "for_complaint": "No way to check if they're actually open / hours unclear + site is dead + not on OpenStreetMap",
+   "deliverable": "A one-page site at a URL: address, phone, real hours, an embedded map, and a 'Find Your Stylist' section naming Justin, Nikki Yates, Danni, Melodie, Molly, Cami with their specialty pulled straight from real reviews \u2014 replacing the URLError page entirely.",
+   "inputs_needed": "Current hours and phone (site is down, so these must come from the public Google Business listing, not the salon's own domain); address is already public (916 E Douglas Ave). No login or contact required \u2014 Google's public listing page is fetchable without authentication.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Right now a customer who Googles J. Gilman Salon hits a dead link \u2014 this is the first thing that's been at that URL in who knows how long, built from their own 171 five-star reviews."
+  },
+  {
+   "title": "Find Your Stylist, so people stop guessing",
+   "for_complaint": "Hard to know which stylist to pick without already knowing a name",
+   "deliverable": "A one-screen stylist directory page: photo-less profile cards for each named stylist (Justin \u2014 color & transformations, Nikki Yates \u2014 color correction & kids, Danni \u2014 major color work & long sessions, Melodie \u2014 communicative multi-visit plans, Molly \u2014 classic cuts), each with 1-2 real client quotes as proof, and a 'call to book with them' line.",
+   "inputs_needed": "Nothing beyond the reviews already supplied \u2014 no menu, hours, or map required for this piece alone. Fully buildable from what's on hand.",
+   "buildable_without_access": true,
+   "why_they_stop_and_read": "Six different reviewers describe the same struggle \u2014 moving to a new city, not knowing who to trust \u2014 right before naming the exact stylist who fixed it. This page is that answer, indexed."
+  },
+  {
+   "title": "Our Fix-It Promise, printed at checkout",
+   "for_complaint": "Charged full price (or more) to fix their own mistake + botched cut/color with no fix",
+   "deliverable": "A single printable card for the front desk/checkout counter: a plain-language service-recovery promise ('If it's not right, we make it right \u2014 free, within 7 days') with a short claim line for the client to fill in, directly answering the three reviews that describe being asked to pay again to fix a mistake.",
+   "inputs_needed": "None \u2014 this is a policy card, not data-dependent. It's a draft for the owner to adopt or edit, not something requiring their systems.",
+   "buildable_without_access": false,
+   "why_they_stop_and_read": "Every 1-star review that mentions money is the same shape: 'they wanted me to pay more to fix it.' This is the one page that could have turned three of those into a 5-star instead."
+  }
+ ],
+ "best": 0
+}
