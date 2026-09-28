@@ -1,0 +1,109 @@
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?__FONTS__&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{__LIGHT__ --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){__DARK__ color-scheme:dark}}
+:root[data-theme="dark"]{__DARK__ color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:16px/1.5 var(--body);margin:0}
+.wrap{max-width:980px;margin:0 auto;padding-inline:16px;padding-block:28px 64px}
+.eyebrow{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+h1{font:var(--h1w) clamp(30px,6vw,50px)/1.05 var(--display);margin:10px 0 12px;text-wrap:balance;letter-spacing:-.01em;max-width:18ch}
+.lede{font-size:18px;max-width:60ch;margin:0;color:var(--ink2)}
+.lede b{color:var(--ink);font-weight:600}
+.stats{display:flex;flex-wrap:wrap;gap:10px 28px;margin:22px 0 6px;font-variant-numeric:tabular-nums}
+.stat b{display:block;font:600 26px/1.1 var(--display);color:var(--accent)}
+.stat span{font-size:13px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:1fr;gap:20px;margin-top:24px}
+@media(min-width:860px){.grid{grid-template-columns:340px 1fr;align-items:start}.mapbox{position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px)}}
+.mapbox{background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:12px}
+.mapbox svg{display:block;width:100%;height:auto}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted);margin-top:8px}
+.legend i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+.controls{display:flex;flex-direction:column;gap:10px;margin-bottom:12px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:500 13px/1 var(--body);border:1px solid var(--rule);background:var(--bg);color:var(--ink2);padding:8px 11px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--onaccent)}
+.chip:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.row2{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
+select,.btn{font:500 13px var(--body);color:var(--ink);background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:8px 10px}
+.btn{cursor:pointer;text-decoration:none;display:inline-block}
+.count{font:12px var(--mono);color:var(--muted)}
+ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+li{padding:14px 2px;border-top:1px solid var(--rule);display:grid;grid-template-columns:1fr auto;gap:2px 12px}
+li .a{font-weight:600;font-size:16px}
+li .m{grid-column:1/-1;font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 12px;font-variant-numeric:tabular-nums}
+li .w{grid-column:1/-1;font-size:14px;color:var(--ink2);margin:2px 0}
+.tag{font:500 11px/1 var(--mono);letter-spacing:.04em;text-transform:uppercase;padding:5px 7px;border-radius:4px;white-space:nowrap;align-self:start;background:var(--tagbg);color:var(--tagfg)}
+.tag.hot{background:var(--hotbg);color:var(--hotfg)}
+.more{margin:14px 0 0}
+.note{font-size:13px;color:var(--muted);max-width:65ch;margin-top:36px;border-top:1px solid var(--rule);padding-top:14px}
+.note p{margin:0 0 8px}
+.toast{font:12px var(--mono);color:var(--accent)}
+</style>
+<div class="wrap">
+  <div class="eyebrow">__EYEBROW__</div>
+  <h1>__H1__</h1>
+  <p class="lede">__LEDE__</p>
+  <div class="stats" id="stats"></div>
+  <div class="grid">
+    <div class="mapbox"><svg id="map" viewBox="0 0 300 400" role="img" aria-label="Map of Minneapolis with each permit as a dot"></svg><div class="legend" id="legend"></div></div>
+    <div>
+      <div class="controls">
+        <div class="chips" id="chips"></div>
+        <div class="row2"><label class="count" for="sort">Sort <select id="sort">__SORTS__</select></label>
+          <span><span class="toast" id="toast" aria-live="polite"></span> <a class="btn" href="__CSV__" download>Download spreadsheet</a> <button class="btn" id="copy" type="button">Copy list</button></span></div>
+        <div class="count" id="count"></div>
+      </div>
+      <ol id="list"></ol>
+      <button class="btn more" id="more" type="button">Show more</button>
+    </div>
+  </div>
+  <div class="note">__NOTE__</div>
+</div>
+<script>
+const CFG=__CFG__;
+const ROWS=__ROWS__;
+const $=id=>document.getElementById(id);
+let sel=null,shown=40;
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=d=>d?new Date(d+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"}):"";
+// stats
+$("stats").innerHTML=CFG.stats.map(s=>`<div class="stat"><b>${s[0]}</b><span>${s[1]}</span></div>`).join("");
+// chips
+const groups=[...new Set(ROWS.map(r=>r[CFG.chipKey]))].sort((a,b)=>CFG.chipOrder.indexOf(a)-CFG.chipOrder.indexOf(b));
+function chips(){$("chips").innerHTML=[["All",ROWS.length],...groups.map(g=>[g,ROWS.filter(r=>r[CFG.chipKey]===g).length])].map(([g,n])=>`<button class="chip" type="button" data-g="${esc(g)}" aria-pressed="${(g==="All"&&!sel)||g===sel}">${esc(g)} · ${n}</button>`).join("")}
+$("chips").onclick=e=>{const b=e.target.closest(".chip");if(!b)return;sel=b.dataset.g==="All"?null:b.dataset.g;shown=40;chips();render()};
+// map
+const lat=ROWS.map(r=>r.lat),lon=ROWS.map(r=>r.lon);
+const B={n:45.052,s:44.889,w:-93.33,e:-93.193};
+const kx=Math.cos(44.97*Math.PI/180);
+const W=300,H=Math.round(W*(B.n-B.s)/((B.e-B.w)*kx));
+$("map").setAttribute("viewBox",`0 0 ${W} ${H}`);
+const px=r=>[(r.lon-B.w)/(B.e-B.w)*W,(B.n-r.lat)/(B.n-B.s)*H];
+function map(rows){
+  let s=`<rect width="${W}" height="${H}" fill="var(--panel)"/>`;
+  // river, hand-traced from the Mississippi's course through the city
+  s+=`<polyline points="${CFG.river.map(p=>px({lat:p[0],lon:p[1]}).map(v=>v.toFixed(1)).join(",")).join(" ")}" fill="none" stroke="var(--water)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>`;
+  s+=ROWS.map(r=>{const [x,y]=px(r);const on=rows.includes(r);return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${on?2.6:1.6}" fill="${on?CFG.color(r):"var(--ghost)"}" opacity="${on?.9:.5}"/>`}).join("");
+  if(CFG.home&&CFG.home.inMap){const [x,y]=px(CFG.home);s+=`<g><rect x="${x-5}" y="${y-5}" width="10" height="10" fill="var(--bg)" stroke="var(--ink)" stroke-width="2"/><text x="${x+9}" y="${y+4}" font-size="11" font-weight="600" fill="var(--ink)" font-family="var(--body)">${esc(CFG.home.label)}</text></g>`}
+  if(CFG.home&&!CFG.home.inMap){s+=`<text x="${W/2}" y="${H-8}" text-anchor="middle" font-size="11" fill="var(--muted)" font-family="var(--body)">${esc(CFG.home.label)}</text>`}
+  $("map").innerHTML=s;
+}
+$("legend").innerHTML=CFG.legend.map(([c,l])=>`<span><i style="background:${c}"></i>${esc(l)}</span>`).join("");
+function filtered(){let r=ROWS.filter(x=>!sel||x[CFG.chipKey]===sel);const k=$("sort").value;return CFG.sorts[k](r.slice())}
+function render(){
+  const rows=filtered();map(rows);
+  $("count").textContent=`Showing ${Math.min(shown,rows.length)} of ${rows.length}`;
+  $("list").innerHTML=rows.slice(0,shown).map(r=>`<li><span class="a">${esc(r.addr)}</span>${CFG.tag(r)}<span class="w">${esc(r.what||"No description on the permit")}</span><span class="m">${CFG.meta(r).filter(Boolean).map(esc).map(x=>`<span>${x}</span>`).join("")}</span></li>`).join("");
+  $("more").hidden=shown>=rows.length;
+}
+$("more").onclick=()=>{shown+=60;render()};
+$("sort").onchange=()=>{shown=40;render()};
+$("copy").onclick=async()=>{
+  const rows=filtered();const t=[CFG.cols.map(c=>c[1]).join("\t"),...rows.map(r=>CFG.cols.map(c=>String(r[c[0]]??"").replace(/\t|\n/g," ")).join("\t"))].join("\n");
+  try{await navigator.clipboard.writeText(t);$("toast").textContent=`Copied ${rows.length} rows`}catch(e){const ta=document.createElement("textarea");ta.value=t;document.body.appendChild(ta);ta.select();try{document.execCommand("copy");$("toast").textContent=`Copied ${rows.length} rows`}catch(_){$("toast").textContent="Copy blocked here"}ta.remove()}
+};
+chips();render();
+</script>
