@@ -1,4 +1,4 @@
-DRAFT 2026-10-05, not sent. Replaces the earlier reply-2 draft. Reply to Joel Oine's second 10/05 email
+SENT 2026-10-05 via Zoho as an in-thread reply (msg 1791240643198155100), on Aidan's "send". Body below is exactly what went.
 (Zoho msg 1791237511553141800, filed in Discovery). Aidan reviews, edits, sends from aidan@brickandmortar.dev.
 Page: https://brickandmortar.dev/for/259af95c/ (built 10/05 from his enrichment list; numbers off the render).
 
