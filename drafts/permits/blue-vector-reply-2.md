@@ -8,7 +8,7 @@ Joel,
 
 Evergreen turning into a meeting is the best thing I've heard all week.
 
-So I built the thing you described. Not who pulled a permit. Which restaurants and bars in Minneapolis are in the middle of a change right now.
+So I built the thing you described. Not just who pulled a permit. Which restaurants and bars in Minneapolis are in the middle of a change right now.
 
 https://brickandmortar.dev/for/259af95c/
 
