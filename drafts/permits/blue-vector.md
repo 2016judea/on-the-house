@@ -1,3 +1,4 @@
+SENT 2026-10-04 19:44 via Zoho.
 To: info@bluevectorbooks.com (Joel Oine; also reachable by reply to his Craigslist post, Minneapolis > services > financial, posted Sep 14)
 From: aidan@brickandmortar.dev
 Subject: 51 Minneapolis restaurants about to open a set of books

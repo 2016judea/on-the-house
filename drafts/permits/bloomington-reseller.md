@@ -1,3 +1,4 @@
+SENT 2026-10-04 19:45 as an SMS from Messages.app (text version below), on Aidan: "go ahead and text him, you have access to my texts here on mac".
 To: the Bloomington reseller behind the Yaskawa HV600 / DESTACO / Siemens breaker / Baldor motor listings. Phone in every listing: (952) 854-5786. No business name anywhere on the web for that number. Channel: text to that number (they chose the phone), or a reply through the HV600 listing (minneapolis.craigslist.org/bfs/d/7959143595) if you'd rather not text.
 From: Aidan (text) or aidan@brickandmortar.dev
 Page: https://brickandmortar.dev/for/f1489cf3/
