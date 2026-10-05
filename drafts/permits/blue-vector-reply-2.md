@@ -18,7 +18,7 @@ It joins three things the city publishes and nobody lines up. A build-out permit
 
 Hiring and press aren't in there yet. Contact info is thinner than I'd like on the small spots, because I only attach it when the city's name and Google's agree.
 
-Same as before, free, downloads as a spreadsheet. Tell me what's wrong with it.
+Same as before, free, downloads as a spreadsheet. Let me know what you think!
 
 Best,
 Aidan.
