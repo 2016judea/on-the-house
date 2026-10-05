@@ -1,14 +1,24 @@
-DRAFT 2026-10-05, not sent. Reply to Joel Oine's second 10/05 email (Zoho msg 1791237511553141800). Aidan reviews, edits, sends.
+DRAFT 2026-10-05, not sent. Replaces the earlier reply-2 draft. Reply to Joel Oine's second 10/05 email
+(Zoho msg 1791237511553141800, filed in Discovery). Aidan reviews, edits, sends from aidan@brickandmortar.dev.
+Page: https://brickandmortar.dev/for/259af95c/ (built 10/05 from his enrichment list; numbers off the render).
 
 Subject: Re: 51 Minneapolis restaurants about to open a set of books
 
 Joel,
 
-Evergreen is the whole point. A list is only worth what it makes you do, and that row made you pick up the phone.
+Evergreen turning into a meeting is the best thing I've heard all week.
 
-The fields you listed are a spec, and most of them sit in records the city and state already publish. Liquor license applications, Secretary of State filings, the permit text itself for new build vs. remodel. I'll take a run at enriching the 10 at final inspection first, since those are the ones choosing a bookkeeper this month.
+So I built the thing you described. Not who pulled a permit. Which restaurants and bars in Minneapolis are in the middle of a change right now.
 
-One question back. Of the fields you named, which one would you act on first? That tells me where to spend the hours.
+https://brickandmortar.dev/for/259af95c/
+
+It joins three things the city publishes and nobody lines up. A build-out permit. A brand-new liquor license. And a kitchen's first-ever health inspection. Then it pulls the website and phone off Google, and the owner off the Secretary of State filing where one is listed.
+
+117 places. 14 are opening soon, 37 just opened, and 44 took out a new license at a place that already existed — which is usually what a new owner looks like on paper.
+
+Hiring and press aren't in there yet. Contact info is thinner than I'd like on the small spots, because I only attach it when the city's name and Google's agree.
+
+Same as before, free, downloads as a spreadsheet. Tell me what's wrong with it.
 
 Best,
 Aidan.
