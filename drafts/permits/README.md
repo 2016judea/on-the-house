@@ -16,6 +16,9 @@ for businesses whose next customer shows up there first. Hosted at unguessable
 | 9/28 | 3 Bears Landscaping | office@3bearslandscaping.com | /for/3265551f/ | 356 finished yards, 110 within 2 mi |
 | 10/04 SENT 19:44 (Zoho, msg 1791161078366138300) | Blue Vector Bookkeeping (Joel Oine, found on Craigslist) | info@bluevectorbooks.com | /for/d9143508/ | 51 Minneapolis restaurant/bar/café build-outs, 10 at final inspection |
 | 10/04 SENT 19:45 (SMS from Messages.app on Aidan's Mac, on his 'go ahead and text him') | Bloomington surplus reseller (952-854-5786, found on Craigslist, no name) | text to 952-854-5786 | /for/f1489cf3/ | 17 open commercial wrecking permits + 13 metro WARN sites |
+| 10/06 DRAFTED, not sent (reply to her pitch) | Survhey (Sarah, cold-pitched us a survey tool) | s@letsglide.org | /for/f29f3317/ | 14 Twin Cities research shops (11 market research, 3 evaluation/policy) |
+| 10/06 DRAFTED, not sent (reply to her pitch) | Treforge (Cecelia, cold-pitched MVP/AI dev) | cecelia@mymygtmops.co | /for/a03643b5/ | 250 independent software + IT shops |
+| 10/06 DRAFTED, not sent (reply to his pitch) | BestlaTech (Ross, cold-pitched offshore engineers) | ross@getbeamtools.co | /for/27903e07/ | 142 independent software developers |
 
 Replies (verbatim):
 
