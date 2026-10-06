@@ -1,4 +1,4 @@
-DRAFTS, 2026-10-06. Not sent. Replies in-thread to vendors who cold-pitched aidan@brickandmortar.dev.
+SENT 2026-10-06 on Aidan's "send", verbatim as below, via Zoho reply in-thread.
 Policy (Aidan 10/06): say no to the pitch, give them a gift when we can.
 Zoho spam folder 5671348000000008013; Sarah's message is in Archive 5671348000000009011.
 
