@@ -1,4 +1,4 @@
-# The essay as the post — DRAFT, not posted
+# The essay as the post — POSTED to Craigslist 10/06
 
 Aidan, 2026-10-06: "some of the distribution [should] be the substack post. Almost verbatim but maybe the last line changed to point it at the reader."
 Source: https://aidanjude.substack.com/p/project-demolition-notice. Only the last line is changed.
@@ -23,3 +23,7 @@ Where it goes (public posts, his call to publish):
 - Craigslist Minneapolis, community > general (account in Keychain `craigslist-card`)
 - r/Minneapolis, r/Scrap, r/Flipping
 - Facebook scrapper / junk-hauler groups (Twin Cities)
+
+## POSTED 2026-10-06
+Craigslist Minneapolis > hennepin co > community > general community, PostingID 7979062383, free (community posts cost nothing), expires in 45 days (~2026-11-20). Map screenshot attached. Replies via CL relay to aidanjude2016@gmail.com.
+https://minneapolis.craigslist.org/hnp/com/d/minneapolis-every-building-being-torn/7979062383.html
