@@ -1,4 +1,8 @@
 import json,statistics,collections
+import pathlib as _pl
+# Persistent PostHog reader id + touch events for bricks /for/ pages (copy of
+# bricks/scripts/outreach/reader_events.js; marker bm-visitor-id is pinned by bricks' tests).
+_READER = "<script>" + (_pl.Path(__file__).resolve().parent.parent / "reader_events.js").read_text().strip() + "</script>"
 T=open("template.html").read()
 RIVER=[[45.052,-93.2885],[45.03,-93.2805],[45.012,-93.2745],[44.998,-93.2685],[44.988,-93.2625],[44.9815,-93.2575],[44.977,-93.2475],[44.972,-93.2385],[44.967,-93.2295],[44.962,-93.2225],[44.953,-93.2065],[44.946,-93.2005],[44.935,-93.2005],[44.917,-93.2035],[44.905,-93.1995],[44.889,-93.1935]]
 def page(out,cfg,rows,subs):
@@ -6,7 +10,7 @@ def page(out,cfg,rows,subs):
     for k,v in subs.items(): h=h.replace(k,v)
     h=h.replace("__CFG__",cfg).replace("__ROWS__",json.dumps(rows,separators=(",",":")))
     head,body=h.split('<div class="wrap">',1)
-    doc=f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><script defer src="/_vercel/insights/script.js"></script>{head}</head><body><div class="wrap">{body}</body></html>'
+    doc=f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><script defer src="/_vercel/insights/script.js"></script>{_READER}{head}</head><body><div class="wrap">{body}</body></html>'
     open(out,"w").write(doc)
 # ---------------- Vineland
 v=json.load(open("vineland.json"))

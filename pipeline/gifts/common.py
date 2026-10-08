@@ -11,6 +11,13 @@ import html
 import json
 from pathlib import Path
 
+# Vercel Web Analytics + a persistent PostHog reader id and touch events, so a gift
+# page says whether its owner came back and what they used. reader_events.js is a
+# copy of bricks/scripts/outreach/reader_events.js; refresh it from there.
+TRACK = ('<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>'
+         '<script defer src="/_vercel/insights/script.js"></script><script>'
+         + (Path(__file__).resolve().parent.parent / "reader_events.js").read_text().strip() + '</script>')
+
 ROOT = Path(__file__).resolve().parents[2]
 SITE = ROOT / "site"
 BASE_URL = "https://on-the-house-bm.vercel.app"  # on-the-house.vercel.app belongs to a stranger (200 on 2026-09-26)
@@ -55,7 +62,7 @@ def page(slug: str, title: str, body: str, *, strip: str, sub: str = "", extra_h
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="robots" content="noindex,nofollow">
 <title>{esc(title)}</title>
-<style>{CSS}{css}</style>{extra_head}</head><body>
+<style>{CSS}{css}</style>{TRACK}{extra_head}</head><body>
 <div class="strip">{strip}</div>
 <div class="wrap">{body}</div>
 </body></html>

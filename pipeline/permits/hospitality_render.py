@@ -1,5 +1,9 @@
 """Render /for/<token>/ from hospitality.json (see hospitality_pull.py)."""
 import json, csv, re, sys
+import pathlib as _pl
+# Persistent PostHog reader id + touch events for bricks /for/ pages (copy of
+# bricks/scripts/outreach/reader_events.js; marker bm-visitor-id is pinned by bricks' tests).
+_READER = "<script>" + (_pl.Path(__file__).resolve().parent.parent / "reader_events.js").read_text().strip() + "</script>"
 exec(open("render.py").read().split("# ---------------- Vineland")[0])
 T=open("template_links.html").read()
 OUT=sys.argv[1]
@@ -80,7 +84,7 @@ for k,v in {"__TITLE__":"Changing Hands, Opening Doors","__CSV__":CSVN,"__FONTS_
   "__LEDE__":LEDE,"__SORTS__":SORTS,"__NOTE__":NOTE}.items(): h=h.replace(k,v)
 h=h.replace("__CFG__",cfg).replace("__ROWS__",json.dumps(rows,separators=(",",":")))
 head,body=h.split('<div class="wrap">',1)
-open(f"{OUT}/index.html","w").write(f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><script defer src="/_vercel/insights/script.js"></script>{head}</head><body><div class="wrap">{body}</body></html>')
+open(f"{OUT}/index.html","w").write(f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><script defer src="/_vercel/insights/script.js"></script>{_READER}{head}</head><body><div class="wrap">{body}</body></html>')
 with open(f"{OUT}/{CSVN}","w",newline="") as fh:
     w=csv.writer(fh); w.writerow([c[1] for c in cols]); [w.writerow([r.get(c[0],"") for c in cols]) for r in rows]
 print("rows",len(rows),{s:cnt(s) for s in ORDER},"owner",own,"web/phone",web)
