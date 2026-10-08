@@ -1,0 +1,5945 @@
+[
+ {
+  "key": "117 LAKE ST W",
+  "addr": "117 Lake St W",
+  "hood": "Lyndale",
+  "lat": 44.94808,
+  "lon": -93.28086,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "New restaurant or bar opening",
+   "what": "Remodel existing first floor spaces in to restaurant. first floor currently m and b occupancy. level 1 change of occupancy to a2. add",
+   "by": "Yb Construction LLC",
+   "issued": "2026-02-23",
+   "done": "",
+   "permit": "BLDG1143708"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "1100 2ND ST S",
+  "addr": "1100 2nd St S",
+  "hood": "Downtown East",
+  "lat": 44.97654,
+  "lon": -93.25186,
+  "names": [
+   [
+    "google",
+    "Jujube"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "New restaurant or bar opening",
+   "what": "Change of use - restaurant",
+   "by": "Building Assets LLC",
+   "issued": "2026-05-01",
+   "done": "",
+   "permit": "BLDG1144154"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Jujube",
+    "web": "https://jujubempls.com/",
+    "phone": "",
+    "status": "CLOSED_TEMPORARILY",
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=10385874209070337652&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": {
+   "name": "Jujube",
+   "web": "https://jujubempls.com/",
+   "phone": "",
+   "status": "CLOSED_TEMPORARILY",
+   "reviews": 0,
+   "maps": "https://maps.google.com/?cid=10385874209070337652&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+  },
+  "sos": {
+   "entity": "Jujube LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "3/3/2026",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=bd01c8db-7217-f111-909e-00155d01c440"
+  }
+ },
+ {
+  "key": "117 14TH AVE NE",
+  "addr": "117 14th Ave NE",
+  "hood": "Sheridan",
+  "lat": 45.00177,
+  "lon": -93.27055,
+  "names": [
+   [
+    "permit",
+    "Diane's Place"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "Expansion",
+   "what": "Restaurant expansion - Diane's Place",
+   "by": "Studio Grey",
+   "issued": "2026-01-26",
+   "done": "",
+   "permit": "BLDG1150368"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Diane's Place",
+    "web": "https://dianesplacemn.com/",
+    "phone": "(612) 489-8012",
+    "status": "OPERATIONAL",
+    "reviews": 1370,
+    "maps": "https://maps.google.com/?cid=5477662484212613561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Diane's Place",
+   "web": "https://dianesplacemn.com/",
+   "phone": "(612) 489-8012",
+   "status": "OPERATIONAL",
+   "reviews": 1370,
+   "maps": "https://maps.google.com/?cid=5477662484212613561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Diane's Place",
+   "type": "Assumed Name",
+   "filed": "6/28/2023",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=a06594ae-cc15-ee11-9073-00155d01c440"
+  }
+ },
+ {
+  "key": "2000 PORTLAND AVE",
+  "addr": "2000 Portland Ave",
+  "hood": "Ventura Village",
+  "lat": 44.96232,
+  "lon": -93.26809,
+  "names": [
+   [
+    "google",
+    "La Mama Restaurant"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "Remodel",
+   "what": "first floor remodel for tea/coffee shop and art studio",
+   "by": "Greiner Construction Inc",
+   "issued": "2026-06-22",
+   "done": "",
+   "permit": "BLDG1170251"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "La Mama Restaurant",
+    "web": "http://lamamamn.com/",
+    "phone": "(612) 238-3602",
+    "status": "OPERATIONAL",
+    "reviews": 960,
+    "maps": "https://maps.google.com/?cid=9527021837100446940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "La Mama Restaurant",
+   "web": "http://lamamamn.com/",
+   "phone": "(612) 238-3602",
+   "status": "OPERATIONAL",
+   "reviews": 960,
+   "maps": "https://maps.google.com/?cid=9527021837100446940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "LA MAMA RESTAURANT LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "8/4/2022",
+   "people": [
+    [
+     "Manager",
+     "ARAFA AHMED"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=fbb289cb-f913-ed11-9061-00155d01c614"
+  }
+ },
+ {
+  "key": "3700 34TH ST E",
+  "addr": "3700 34th St E",
+  "hood": "Longfellow",
+  "lat": 44.94162,
+  "lon": -93.21888,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "Remodel",
+   "what": "Adding one ADA compliant bathroom to commercial space for cafe seating",
+   "by": "Wonderwoman Construction LLC",
+   "issued": "2026-08-05",
+   "done": "",
+   "permit": "BLDG1184688"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "912 24TH ST E",
+  "addr": "912 24th St E",
+  "hood": "Ventura Village",
+  "lat": 44.95968,
+  "lon": -93.26037,
+  "names": [
+   [
+    "google",
+    "derisuroon restaurant"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "New restaurant or bar opening",
+   "what": "New restaurant change of use",
+   "by": "24 Gyro Grill LLC",
+   "issued": "2026-01-26",
+   "done": "",
+   "permit": "BLDG1143352"
+  },
+  "liq": [],
+  "food": [],
+  "inst": true,
+  "g": [
+   {
+    "name": "Deg Deg Grill 24 Mall",
+    "web": "http://www.degdeggrill.com/",
+    "phone": "(612) 259-7933",
+    "status": "OPERATIONAL",
+    "reviews": 241,
+    "maps": "https://maps.google.com/?cid=2373443217026128725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Kaah Restaurant | Somali",
+    "web": "",
+    "phone": "(612) 872-5224",
+    "status": "OPERATIONAL",
+    "reviews": 110,
+    "maps": "https://maps.google.com/?cid=17369286057604736754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Royal Restaurant inside 24 mall",
+    "web": "",
+    "phone": "(612) 354-3449",
+    "status": "OPERATIONAL",
+    "reviews": 14,
+    "maps": "https://maps.google.com/?cid=11692718853075628911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "derisuroon restaurant",
+    "web": "",
+    "phone": "(612) 345-4812",
+    "status": "OPERATIONAL",
+    "reviews": 2,
+    "maps": "https://maps.google.com/?cid=8863107223332792560&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   },
+   {
+    "name": "Sahan Restaurant",
+    "web": "http://www.sahanrestaurant.ca/",
+    "phone": "(612) 870-2992",
+    "status": "OPERATIONAL",
+    "reviews": 7,
+    "maps": "https://maps.google.com/?cid=8993433332862380777&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": {
+   "name": "derisuroon restaurant",
+   "web": "",
+   "phone": "(612) 345-4812",
+   "status": "OPERATIONAL",
+   "reviews": 2,
+   "maps": "https://maps.google.com/?cid=8863107223332792560&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+  }
+ },
+ {
+  "key": "4600 NICOLLET AVE",
+  "addr": "4600 Nicollet Ave",
+  "hood": "Tangletown",
+  "lat": 44.91945,
+  "lon": -93.27835,
+  "names": [
+   [
+    "google",
+    "Evergreen Caf\u00e9"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "New restaurant or bar opening",
+   "what": "Remodel existing bakery for new bakery tenant. no change of occupancy. no structural work",
+   "by": "Intent Built Inc",
+   "issued": "2026-06-30",
+   "done": "",
+   "permit": "BLDG1169796"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Evergreen Caf\u00e9",
+    "web": "https://evergreencafemn.com/",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=10916973323060053433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": {
+   "name": "Evergreen Caf\u00e9",
+   "web": "https://evergreencafemn.com/",
+   "phone": "",
+   "status": "OPERATIONAL",
+   "reviews": 0,
+   "maps": "https://maps.google.com/?cid=10916973323060053433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+  }
+ },
+ {
+  "key": "1 49TH ST W",
+  "addr": "1 49th St W",
+  "hood": "Tangletown",
+  "lat": 44.91328,
+  "lon": -93.27961,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "New hood going in",
+   "what": "Selective GRD replacement, new restroom supply and exhaust ducting, new kitchen ventilation with transfer fan and exhaust fans (2), grease hood ducting, dishwas",
+   "by": "",
+   "issued": "2026-06-11",
+   "done": "",
+   "permit": "BLDG1170651"
+  },
+  "liq": [],
+  "food": [],
+  "inst": true,
+  "gp": null
+ },
+ {
+  "key": "3042 NICOLLET AVE",
+  "addr": "3042 Nicollet Ave",
+  "hood": "Lyndale",
+  "lat": 44.94712,
+  "lon": -93.27881,
+  "names": [
+   [
+    "permit",
+    "Afro Deli"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New restaurant or bar opening",
+   "what": "Tenant improvement of 3000 sft of shell space into a restaurant in a multi-tenant building",
+   "by": "Flannery Construction Inc",
+   "issued": "2026-02-13",
+   "done": "2026-09-16",
+   "permit": "BLDG1144055"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "630 8TH ST SE",
+  "addr": "630 8th St SE",
+  "hood": "Marcy Holmes",
+  "lat": 44.98815,
+  "lon": -93.24277,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Final inspection",
+   "kind": "Remodel",
+   "what": "Remodel portion of existing grocery store, add kitchen",
+   "by": "Merrells Painting And Const LLC",
+   "issued": "2026-02-25",
+   "done": "",
+   "permit": "BLDG1158826"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "6031 PILLSBURY AVE",
+  "addr": "6031 Pillsbury Ave",
+  "hood": "Windom",
+  "lat": 44.89311,
+  "lon": -93.28157,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "Remodel existing brewery to restaurant. full kitchen and bar. panic hardware required. separated occupancies. doors separating building a and b must be 3 hour r",
+   "by": "Modify Construction LLC",
+   "issued": "2026-07-16",
+   "done": "",
+   "permit": "BLDG1162005"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Little Ben Food Truck",
+    "web": "",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=13929320886050929534&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": null
+ },
+ {
+  "key": "90 7TH ST S",
+  "addr": "90 7th St S",
+  "hood": "Downtown West",
+  "lat": 44.97695,
+  "lon": -93.27083,
+  "names": [
+   [
+    "permit",
+    "Bellecour"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "New Restaurant Tenant - 1st Floor - Bellcour",
+   "by": "Gardner Builders",
+   "issued": "2026-08-27",
+   "done": "",
+   "permit": "BLDG1181687"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null,
+  "sos": {
+   "entity": "Bellecour",
+   "type": "Assumed Name",
+   "filed": "6/30/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=df8afdc5-e955-f011-9093-00155d01c440"
+  }
+ },
+ {
+  "key": "1830 GLENWOOD AVE",
+  "addr": "1830 Glenwood Ave",
+  "hood": "Harrison",
+  "lat": 44.98103,
+  "lon": -93.30435,
+  "names": [
+   [
+    "permit",
+    "Kirk's Cafe"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "New Main Level Coffee Shop - Kirk's Cafe",
+   "by": "Intact Building Services",
+   "issued": "2026-02-03",
+   "done": "",
+   "permit": "BLDG1147080"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null,
+  "sos": {
+   "entity": "Kirk's Cafe LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "12/13/2024",
+   "people": [
+    [
+     "Manager",
+     "Denetrick Powers"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=d873e53a-66b9-ef11-908c-00155d32b947"
+  }
+ },
+ {
+  "key": "5400 PENN AVE S",
+  "addr": "5400 Penn Ave S",
+  "hood": "Armatage",
+  "lat": 44.90491,
+  "lon": -93.30905,
+  "names": [
+   [
+    "google",
+    "Colita"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "Remodel",
+   "what": "32'x22' SINGLE LEVEL FRONT ADDTION FOR ADDED DINING TO EXISTING DINING ESTABLISHMENT",
+   "by": "Building Assets LLC",
+   "issued": "2026-09-16",
+   "done": "",
+   "permit": "BLDG1186468"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Colita",
+    "web": "https://www.colitampls.com/",
+    "phone": "(612) 886-1606",
+    "status": "OPERATIONAL",
+    "reviews": 1718,
+    "maps": "https://maps.google.com/?cid=9996496363596504891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Colita",
+   "web": "https://www.colitampls.com/",
+   "phone": "(612) 886-1606",
+   "status": "OPERATIONAL",
+   "reviews": 1718,
+   "maps": "https://maps.google.com/?cid=9996496363596504891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Colita",
+   "type": "Assumed Name",
+   "filed": "3/23/2018",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=37058174-cc2e-e811-9159-00155d0d6f70"
+  }
+ },
+ {
+  "key": "1500 44TH AVE N",
+  "addr": "1500 44th Ave N",
+  "hood": "Webber - Camden",
+  "lat": 45.03568,
+  "lon": -93.29924,
+  "names": [
+   [
+    "google",
+    "The Get Down Coffee Co."
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "Remodel",
+   "what": "Coffee shop remodel",
+   "by": "Flannery Construction Inc",
+   "issued": "2026-01-21",
+   "done": "",
+   "permit": "BLDG1152824"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "The Get Down Coffee Co.",
+    "web": "https://getdowncoffee.com/",
+    "phone": "(612) 702-0407",
+    "status": "CLOSED_TEMPORARILY",
+    "reviews": 361,
+    "maps": "https://maps.google.com/?cid=2751712707037920939&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": {
+   "name": "The Get Down Coffee Co.",
+   "web": "https://getdowncoffee.com/",
+   "phone": "(612) 702-0407",
+   "status": "CLOSED_TEMPORARILY",
+   "reviews": 361,
+   "maps": "https://maps.google.com/?cid=2751712707037920939&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+  }
+ },
+ {
+  "key": "412 CEDAR LAKE RD",
+  "addr": "412 Cedar Lake Rd S",
+  "hood": "Bryn - Mawr",
+  "lat": 44.97377,
+  "lon": -93.30876,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "New restaurant and market. 1st floor only. remodel interior. no structural work",
+   "by": "Davis And Davis Design Build",
+   "issued": "2026-08-04",
+   "done": "",
+   "permit": "BLDG1182430"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "219 MAIN ST SE",
+  "addr": "219 Main St SE",
+  "hood": "Marcy Holmes",
+  "lat": 44.98464,
+  "lon": -93.25398,
+  "names": [
+   [
+    "google",
+    "Jefe Urban Cocina"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "Tenant improvement restaurant remodel",
+   "by": "Gomez Whitney LLC",
+   "issued": "2026-06-15",
+   "done": "",
+   "permit": "BLDG1176966"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Jefe Urban Cocina",
+    "web": "http://www.jefeminneapolis.com/?y_source=1_Njk5NTI1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "phone": "(612) 255-2000",
+    "status": "OPERATIONAL",
+    "reviews": 1148,
+    "maps": "https://maps.google.com/?cid=2965712799241119976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Jefe Urban Cocina",
+   "web": "http://www.jefeminneapolis.com/?y_source=1_Njk5NTI1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+   "phone": "(612) 255-2000",
+   "status": "OPERATIONAL",
+   "reviews": 1148,
+   "maps": "https://maps.google.com/?cid=2965712799241119976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "403 LAKE ST E",
+  "addr": "403 Lake St E",
+  "hood": "Central",
+  "lat": 44.94813,
+  "lon": -93.27,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "Unit a-101. restaurant tenant build out",
+   "by": "Eulex Builders",
+   "issued": "2026-07-27",
+   "done": "",
+   "permit": "BLDG1183581"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "1501 WASHINGTON AVE S",
+  "addr": "1501 Washington Ave S",
+  "hood": "Cedar Riverside",
+  "lat": 44.97274,
+  "lon": -93.24773,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "Remodel restaurant into new restaurant/coffee shop",
+   "by": "Shanecon Inc",
+   "issued": "2026-04-14",
+   "done": "",
+   "permit": "BLDG1159184"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "2600 25TH ST E",
+  "addr": "2600 25th St E",
+  "hood": "Seward",
+  "lat": 44.95778,
+  "lon": -93.23414,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "New HVAC systems for RESTAURANT to include new 2 RTU systems for entire project coverage,1 DOAS, bathroom exhaust and commercial kitchen ventilation . BLDG11679",
+   "by": "Hertz Mechanical LLC",
+   "issued": "2026-05-12",
+   "done": "",
+   "permit": "BLDG1167923"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "2814 43RD ST W",
+  "addr": "2814 43rd St W",
+  "hood": "Linden Hills",
+  "lat": 44.92485,
+  "lon": -93.31534,
+  "names": [
+   [
+    "google",
+    "Jones Coffee - Linden Hills"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "Remodel",
+   "what": "Remodel existing coffee shop",
+   "by": "Gomez Whitney LLC",
+   "issued": "2026-09-08",
+   "done": "",
+   "permit": "BLDG1165249"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Jones Coffee - Linden Hills",
+    "web": "http://jones.coffee/",
+    "phone": "(612) 345-7892",
+    "status": "OPERATIONAL",
+    "reviews": 140,
+    "maps": "https://maps.google.com/?cid=6265272904921128784&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": {
+   "name": "Jones Coffee - Linden Hills",
+   "web": "http://jones.coffee/",
+   "phone": "(612) 345-7892",
+   "status": "OPERATIONAL",
+   "reviews": 140,
+   "maps": "https://maps.google.com/?cid=6265272904921128784&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+  }
+ },
+ {
+  "key": "3751 17TH AVE S",
+  "addr": "3751 17th Ave S",
+  "hood": "Powderhorn Park",
+  "lat": 44.93442,
+  "lon": -93.24948,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New hood going in",
+   "what": "Installing 2 new RTU systems, and commercial kitchen ventilation. Structural engineering report is located in the document folder of projectdox. BLDG1144677",
+   "by": "Pb Services LLC",
+   "issued": "2026-03-04",
+   "done": "",
+   "permit": "BLDG1144677"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "1301 WEST BROADWAY",
+  "addr": "1301 West Broadway",
+  "hood": "Near - North",
+  "lat": 44.99893,
+  "lon": -93.29756,
+  "names": [
+   [
+    "permit",
+    "eliminating a restroom to create a takeout window"
+   ],
+   [
+    "google",
+    "Popeyes Louisiana Kitchen"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "Remodel",
+   "what": "Convert from sit down restaurant to takeout only - eliminating a restroom to create a takeout window",
+   "by": "Apadana LLC",
+   "issued": "2026-07-06",
+   "done": "",
+   "permit": "BLDG1166231"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Popeyes Louisiana Kitchen",
+    "web": "https://www.popeyes.com/store-locator/store/restaurant_84728",
+    "phone": "(612) 584-3175",
+    "status": "OPERATIONAL",
+    "reviews": 1274,
+    "maps": "https://maps.google.com/?cid=5798307796960421930&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": {
+   "name": "Popeyes Louisiana Kitchen",
+   "web": "https://www.popeyes.com/store-locator/store/restaurant_84728",
+   "phone": "(612) 584-3175",
+   "status": "OPERATIONAL",
+   "reviews": 1274,
+   "maps": "https://maps.google.com/?cid=5798307796960421930&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+  },
+  "sos": {
+   "entity": "Popeyes Louisiana Kitchen, Inc.",
+   "type": "Business Corporation (Domestic)",
+   "filed": "07/27/1992",
+   "people": [
+    [
+     "Chief Executive Officer",
+     "Peter Perdue"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=7265eb58-acd4-e011-a886-001ec94ffe7f"
+  }
+ },
+ {
+  "key": "1836 38TH ST E",
+  "addr": "1836 38th St E",
+  "hood": "Standish",
+  "lat": 44.93442,
+  "lon": -93.24642,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New hood going in",
+   "what": "(Food) Installing commercial kitchen ventilation systems and 1 RTU for dinning and general areas, gas piping for M.A. and RTU are included. BLDG1169673",
+   "by": "Comfort Heating And Air Conditioning LLC",
+   "issued": "2026-04-24",
+   "done": "",
+   "permit": "BLDG1169673"
+  },
+  "liq": [],
+  "food": [],
+  "inst": true,
+  "gp": null
+ },
+ {
+  "key": "1816 NICOLLET AVE",
+  "addr": "1816 Nicollet Ave",
+  "hood": "Steven's Square - Loring Heights",
+  "lat": 44.96506,
+  "lon": -93.27828,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New hood going in",
+   "what": "Provide and install 16' commercial kitchen hood to code. This includes upblast exhaust fan, make up air unit, stainless steel back splash under hood only, curbs",
+   "by": "Spi Mechanical LLC",
+   "issued": "2026-08-05",
+   "done": "",
+   "permit": "BLDG1188125"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "901 14TH AVE NE",
+  "addr": "901 14th Ave NE",
+  "hood": "Logan Park",
+  "lat": 45.00252,
+  "lon": -93.24826,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New hood going in",
+   "what": "Install (1) 17.5 ton, (2) 7.5 ton RTU's and gas piping to RTUs. Install 3 new RTU systems. BLDG1162247 Commercial kitchen work is listed under permit BLDG113497",
+   "by": "Hertz Mechanical LLC",
+   "issued": "2026-02-18",
+   "done": "",
+   "permit": "BLDG1162247"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "2113 CHICAGO AVE",
+  "addr": "2113 Chicago Ave",
+  "hood": "Ventura Village",
+  "lat": 44.96118,
+  "lon": -93.26213,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "New restaurant or bar opening",
+   "what": "Remodel existing building for new coffee shop, offices, and storage area",
+   "by": "",
+   "issued": "2026-08-27",
+   "done": "",
+   "permit": "BLDG1180017"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "111 26TH ST E",
+  "addr": "111 26th St E",
+  "hood": "Whittier",
+  "lat": 44.95534,
+  "lon": -93.27606,
+  "names": [
+   [
+    "google",
+    "Eat Street Coffee"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Under construction",
+   "kind": "Remodel",
+   "what": "Remodel portions of existing cafe",
+   "by": "Shanecon Inc",
+   "issued": "2026-09-17",
+   "done": "",
+   "permit": "BLDG1193463"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Eat Street Coffee",
+    "web": "https://www.eatstreetcoffee.com/",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=10653980949710386580&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": {
+   "name": "Eat Street Coffee",
+   "web": "https://www.eatstreetcoffee.com/",
+   "phone": "",
+   "status": "OPERATIONAL",
+   "reviews": 0,
+   "maps": "https://maps.google.com/?cid=10653980949710386580&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+  },
+  "sos": {
+   "entity": "Eat Street Coffee",
+   "type": "Assumed Name",
+   "filed": "6/8/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=e52f2af2-5363-f111-90a4-00155d01c53c"
+  }
+ },
+ {
+  "key": "4461 MINNEHAHA AVE",
+  "addr": "4461 Minnehaha Ave",
+  "hood": "Hiawatha",
+  "lat": 44.92193,
+  "lon": -93.21561,
+  "names": [
+   [
+    "google",
+    "Mixed Culture Brewing Co."
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "Remodel",
+   "what": "Change of occupancy. taproom and brewery (separate buildings). storage is not permitted in large portion of lower level. does not meet habitable requirements. o",
+   "by": "",
+   "issued": "2026-05-21",
+   "done": "2026-09-09",
+   "permit": "BLDG1161079"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Mixed Culture Brewing Co.",
+    "web": "https://mixedculturebrewing.com/",
+    "phone": "(612) 452-6575",
+    "status": "OPERATIONAL",
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=5623083881183707356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Mixed Culture Brewing Co.",
+   "web": "https://mixedculturebrewing.com/",
+   "phone": "(612) 452-6575",
+   "status": "OPERATIONAL",
+   "reviews": 0,
+   "maps": "https://maps.google.com/?cid=5623083881183707356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "324 6TH AVE N",
+  "addr": "324 6th Ave N",
+  "hood": "North Loop",
+  "lat": 44.98576,
+  "lon": -93.27824,
+  "names": [
+   [
+    "liquor",
+    "Killen's Irish Pub"
+   ],
+   [
+    "food",
+    "KILLEN'S IRISH PUB, LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New restaurant or bar opening",
+   "what": "Remodel existing retaurant for new bar tenant",
+   "by": "Cutting Edge Construction Inc",
+   "issued": "2026-01-07",
+   "done": "2026-06-09",
+   "permit": "BLDG1146532"
+  },
+  "liq": [
+   {
+    "name": "Killen's Irish Pub",
+    "num": "LIC430324",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [
+   {
+    "name": "KILLEN'S IRISH PUB, LLC",
+    "date": "2026-08-27"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Killens Irish Pub",
+    "web": "",
+    "phone": "(612) 446-3802",
+    "status": "OPERATIONAL",
+    "reviews": 155,
+    "maps": "https://maps.google.com/?cid=16482590648189885443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Killens Irish Pub",
+   "web": "",
+   "phone": "(612) 446-3802",
+   "status": "OPERATIONAL",
+   "reviews": 155,
+   "maps": "https://maps.google.com/?cid=16482590648189885443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Killen's Irish Pub",
+   "type": "Assumed Name",
+   "filed": "3/2/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=01031ceb-8416-f111-909e-00155d01c440"
+  }
+ },
+ {
+  "key": "3101 42ND ST E",
+  "addr": "3101 42nd St E",
+  "hood": "Ericsson",
+  "lat": 44.92668,
+  "lon": -93.22671,
+  "names": [
+   [
+    "permit",
+    "Bina's 2.0"
+   ],
+   [
+    "liquor",
+    "Bill's Bait Shop"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New restaurant or bar opening",
+   "what": "New Restaurant Tenant - Bina's 2.0",
+   "by": "Lucky Seven LLC",
+   "issued": "2026-02-06",
+   "done": "2026-07-20",
+   "permit": "BLDG1151363"
+  },
+  "liq": [
+   {
+    "name": "Bill's Bait Shop",
+    "num": "LIC430932",
+    "status": "Approved",
+    "date": "2026-07-21",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Bill's Bait Shop",
+    "web": "http://billsbaitshop.com/",
+    "phone": "(612) 688-2052",
+    "status": "OPERATIONAL",
+    "reviews": 108,
+    "maps": "https://maps.google.com/?cid=15205010968607933137&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+   }
+  ],
+  "gp": {
+   "name": "Bill's Bait Shop",
+   "web": "http://billsbaitshop.com/",
+   "phone": "(612) 688-2052",
+   "status": "OPERATIONAL",
+   "reviews": 108,
+   "maps": "https://maps.google.com/?cid=15205010968607933137&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+  },
+  "sos": {
+   "entity": "Bill's Bait Shop, LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "9/9/2025",
+   "people": [
+    [
+     "Manager",
+     "Jami Olson"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=be2665eb-bc8d-f011-9095-00155d01c440"
+  }
+ },
+ {
+  "key": "165 13TH AVE NE",
+  "addr": "165 13th Ave NE",
+  "hood": "Sheridan",
+  "lat": 45.00121,
+  "lon": -93.26666,
+  "names": [
+   [
+    "liquor",
+    "Saffron Restaurant"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "Remodel",
+   "what": "Remodel existing restaurant",
+   "by": "Greiner Construction Inc",
+   "issued": "2026-05-13",
+   "done": "2026-08-19",
+   "permit": "BLDG1166583"
+  },
+  "liq": [
+   {
+    "name": "Saffron Restaurant",
+    "num": "LIC432080",
+    "status": "Approved",
+    "date": "2026-08-20",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Saffron Restaurant",
+    "web": "https://www.saffronmpls.com/",
+    "phone": "(612) 400-8189",
+    "status": "OPERATIONAL",
+    "reviews": 73,
+    "maps": "https://maps.google.com/?cid=14536753683639240331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Saffron Restaurant",
+   "web": "https://www.saffronmpls.com/",
+   "phone": "(612) 400-8189",
+   "status": "OPERATIONAL",
+   "reviews": 73,
+   "maps": "https://maps.google.com/?cid=14536753683639240331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Saffron Restaurant",
+   "type": "Assumed Name",
+   "filed": "3/5/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=6d459053-9d18-f111-909e-00155d01c440"
+  }
+ },
+ {
+  "key": "800 NICOLLET MALL",
+  "addr": "800 Nicollet Mall",
+  "hood": "Downtown West",
+  "lat": 44.97564,
+  "lon": -93.27385,
+  "names": [
+   [
+    "food",
+    "MOTHER DOUGH LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "Remodel",
+   "what": "Restaurant TI",
+   "by": "M Carr And Associates Inc",
+   "issued": "2026-03-27",
+   "done": "2026-07-15",
+   "permit": "BLDG1162753"
+  },
+  "liq": [],
+  "food": [
+   {
+    "name": "MOTHER DOUGH LLC",
+    "date": "2026-07-08"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Mother Dough USBancorp Skyway",
+    "web": "https://www.motherdoughbakery.com/",
+    "phone": "(612) 354-2025",
+    "status": "OPERATIONAL",
+    "reviews": 7,
+    "maps": "https://maps.google.com/?cid=3555099506325341405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Mother Dough USBancorp Skyway",
+   "web": "https://www.motherdoughbakery.com/",
+   "phone": "(612) 354-2025",
+   "status": "OPERATIONAL",
+   "reviews": 7,
+   "maps": "https://maps.google.com/?cid=3555099506325341405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Mother Dough LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "7/21/2022",
+   "people": [
+    [
+     "Manager",
+     "David Fhima"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=ed3900a7-4209-ed11-9061-00155d01c614"
+  }
+ },
+ {
+  "key": "1308 4TH ST SE",
+  "addr": "1308 4th St SE",
+  "hood": "Marcy Holmes",
+  "lat": 44.98057,
+  "lon": -93.23692,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "Remodel",
+   "what": "remodel main bar and entry area. add 2nd bar",
+   "by": "Dering Pierson Group",
+   "issued": "2026-07-22",
+   "done": "2026-08-27",
+   "permit": "BLDG1177898"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "622 WASHINGTON AVE SE",
+  "addr": "622 Washington Ave SE",
+  "hood": "University of Minnesota",
+  "lat": 44.97342,
+  "lon": -93.22914,
+  "names": [
+   [
+    "google",
+    "CAVA"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New hood going in",
+   "what": "HVAC for restaurant build out. Includes commercial cooking ventilation systems, Space HVAC systems, (heating, cooling and bathroom exhaust). Excluding gas work.",
+   "by": "Wencl Services Inc",
+   "issued": "2026-03-31",
+   "done": "2026-08-31",
+   "permit": "BLDG1164995"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "CAVA",
+    "web": "http://cava.com/",
+    "phone": "(507) 954-8695",
+    "status": "OPERATIONAL",
+    "reviews": 44,
+    "maps": "https://maps.google.com/?cid=4256572573891811968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "CAVA",
+   "web": "http://cava.com/",
+   "phone": "(507) 954-8695",
+   "status": "OPERATIONAL",
+   "reviews": 44,
+   "maps": "https://maps.google.com/?cid=4256572573891811968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "220 LOWRY AVE NE",
+  "addr": "220 Lowry Ave NE",
+  "hood": "Bottineau",
+  "lat": 45.013,
+  "lon": -93.26509,
+  "names": [
+   [
+    "google",
+    "Umami Sushi & Chinese Cuisine"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "Remodel",
+   "what": "Remodel restaurant interior",
+   "by": "Wood & Co",
+   "issued": "2026-04-17",
+   "done": "2026-09-11",
+   "permit": "BLDG1166143"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Umami Sushi & Chinese Cuisine",
+    "web": "http://www.umamicuisinemn.com/",
+    "phone": "(612) 208-0057",
+    "status": "OPERATIONAL",
+    "reviews": 41,
+    "maps": "https://maps.google.com/?cid=15964029145742886965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Umami Sushi & Chinese Cuisine",
+   "web": "http://www.umamicuisinemn.com/",
+   "phone": "(612) 208-0057",
+   "status": "OPERATIONAL",
+   "reviews": 41,
+   "maps": "https://maps.google.com/?cid=15964029145742886965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Umami Sushi & Chinese Cuisine",
+   "type": "Assumed Name",
+   "filed": "8/18/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=76f5f1df-1a9b-f111-90aa-00155d01c53c"
+  }
+ },
+ {
+  "key": "1101 HENNEPIN AVE",
+  "addr": "1101 Hennepin Ave",
+  "hood": "Downtown West",
+  "lat": 44.97491,
+  "lon": -93.27912,
+  "names": [
+   [
+    "permit",
+    "Pizza Hut"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "Remodel",
+   "what": "Remodel Pizza Hut and add demising wall",
+   "by": "Sullivan Day Construction",
+   "issued": "2026-07-10",
+   "done": "2026-09-23",
+   "permit": "BLDG1182859"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Pizza Hut",
+    "web": "https://locations.pizzahut.com/mn/minneapolis/1101-hennepin-ave?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=310798",
+    "phone": "(612) 800-0088",
+    "status": "OPERATIONAL",
+    "reviews": 990,
+    "maps": "https://maps.google.com/?cid=1124547079112238453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Pizza Hut",
+   "web": "https://locations.pizzahut.com/mn/minneapolis/1101-hennepin-ave?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=310798",
+   "phone": "(612) 800-0088",
+   "status": "OPERATIONAL",
+   "reviews": 990,
+   "maps": "https://maps.google.com/?cid=1124547079112238453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Pizza Hut",
+   "type": "Assumed Name",
+   "filed": "2/17/2021",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c852a098-4471-eb11-9181-00155d01c40b"
+  }
+ },
+ {
+  "key": "2710 NICOLLET AVE",
+  "addr": "2710 Nicollet Ave",
+  "hood": "Whittier",
+  "lat": 44.95345,
+  "lon": -93.27838,
+  "names": [
+   [
+    "google",
+    "Dumpling Eatery"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New restaurant or bar opening",
+   "what": "Interior Remodel for New Restaurant",
+   "by": "Chan Consulting LLC",
+   "issued": "2026-03-18",
+   "done": "2026-06-09",
+   "permit": "BLDG1166630"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Dumpling Eatery",
+    "web": "https://www.dumplingeaterympls.com/",
+    "phone": "(612) 208-0262",
+    "status": "OPERATIONAL",
+    "reviews": 76,
+    "maps": "https://maps.google.com/?cid=12582191674404722375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Dumpling Eatery",
+   "web": "https://www.dumplingeaterympls.com/",
+   "phone": "(612) 208-0262",
+   "status": "OPERATIONAL",
+   "reviews": 76,
+   "maps": "https://maps.google.com/?cid=12582191674404722375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "DUMPLING EATERY",
+   "type": "Assumed Name",
+   "filed": "12/10/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=fe8f3fef-0ed6-f011-9099-00155d01c440"
+  }
+ },
+ {
+  "key": "3055 CENTRAL AVE NE",
+  "addr": "3055 Central Ave NE",
+  "hood": "Audubon Park",
+  "lat": 45.02378,
+  "lon": -93.24693,
+  "names": [
+   [
+    "google",
+    "The Tana House"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New hood going in",
+   "what": "BLDG1155147 Provide and install commercial kitchen hood to code. Provide and install 10' x 6' commercial kitchen hood to code. This includes stainless steel bac",
+   "by": "Spi Mechanical LLC",
+   "issued": "2026-01-13",
+   "done": "2026-07-14",
+   "permit": "BLDG1155147"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "The Tana House",
+    "web": "",
+    "phone": "(612) 481-3306",
+    "status": "OPERATIONAL",
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=15050568647117477819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "The Tana House",
+   "web": "",
+   "phone": "(612) 481-3306",
+   "status": "OPERATIONAL",
+   "reviews": 1,
+   "maps": "https://maps.google.com/?cid=15050568647117477819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "1301 2ND AVE S",
+  "addr": "1301 2nd Ave S",
+  "hood": "Loring Park",
+  "lat": 44.96871,
+  "lon": -93.2746,
+  "names": [
+   [
+    "google",
+    "Craft Bar and Lounge"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New hood going in",
+   "what": "Modify supply duct and install grease duct from new type 1 hood. (provided by others under their own permit BLDG1166323 ) Make up air is supplied from existing ",
+   "by": "True Mechanical Mn Inc",
+   "issued": "2026-03-04",
+   "done": "2026-06-02",
+   "permit": "BLDG1155779"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Craft Bar and Lounge",
+    "web": "https://www.minneapolis.org/minneapolis-convention-center/craft-bar-and-lounge/",
+    "phone": "(612) 335-6045",
+    "status": "OPERATIONAL",
+    "reviews": 7,
+    "maps": "https://maps.google.com/?cid=11615578555432598870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Craft Bar and Lounge",
+   "web": "https://www.minneapolis.org/minneapolis-convention-center/craft-bar-and-lounge/",
+   "phone": "(612) 335-6045",
+   "status": "OPERATIONAL",
+   "reviews": 7,
+   "maps": "https://maps.google.com/?cid=11615578555432598870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "1433 FRANKLIN AVE E",
+  "addr": "1433 Franklin Ave E",
+  "hood": "Ventura Village",
+  "lat": 44.96244,
+  "lon": -93.25386,
+  "names": [
+   [
+    "food",
+    "ZEYTUN RESTAURANT"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New hood going in",
+   "what": "HVAC installation including a rooftop unit, HRV unit, make-up air unit, Type I hood, exhaust fan, grease duct, GRDs, and all associated ductwork per approved pl",
+   "by": "Spi Mechanical LLC",
+   "issued": "2026-04-07",
+   "done": "2026-07-01",
+   "permit": "BLDG1161932"
+  },
+  "liq": [],
+  "food": [
+   {
+    "name": "ZEYTUN RESTAURANT",
+    "date": "2026-09-02"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "ZEYTUN",
+    "web": "https://www.zeytunmn.com/",
+    "phone": "(612) 552-5218",
+    "status": "OPERATIONAL",
+    "reviews": 45,
+    "maps": "https://maps.google.com/?cid=17943704795942752136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "ZEYTUN",
+   "web": "https://www.zeytunmn.com/",
+   "phone": "(612) 552-5218",
+   "status": "OPERATIONAL",
+   "reviews": 45,
+   "maps": "https://maps.google.com/?cid=17943704795942752136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "200 WEST BROADWAY",
+  "addr": "200 West Broadway",
+  "hood": "Hawthorne",
+  "lat": 44.9994,
+  "lon": -93.28057,
+  "names": [
+   [
+    "liquor",
+    "River City Tavern"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New hood going in",
+   "what": "Install kitchen hood, MUA and Exhaust Fan",
+   "by": "Faircon Service Co",
+   "issued": "2026-01-13",
+   "done": "2026-07-21",
+   "permit": "BLDG1158331"
+  },
+  "liq": [
+   {
+    "name": "River City Tavern",
+    "num": "LIC421826",
+    "status": "Approved",
+    "date": "2026-08-05",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "River City Tavern",
+    "web": "",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 16,
+    "maps": "https://maps.google.com/?cid=5016823126597351978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "River City Tavern",
+   "web": "",
+   "phone": "",
+   "status": "OPERATIONAL",
+   "reviews": 16,
+   "maps": "https://maps.google.com/?cid=5016823126597351978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "River City Tavern",
+   "type": "Assumed Name",
+   "filed": "11/18/2024",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=f829b3f3-f6a5-ef11-908a-00155d32b947"
+  }
+ },
+ {
+  "key": "2635 NICOLLET AVE",
+  "addr": "2635 Nicollet Ave",
+  "hood": "Whittier",
+  "lat": 44.95435,
+  "lon": -93.27748,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "Remodel",
+   "what": "Remodel of grocery store to add meat prep and coffee prep (takeout only)",
+   "by": "",
+   "issued": "2026-03-27",
+   "done": "2026-07-16",
+   "permit": "BLDG1166855"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "4312 UPTON AVE S",
+  "addr": "4312 Upton Ave S",
+  "hood": "Linden Hills",
+  "lat": 44.92421,
+  "lon": -93.31519,
+  "names": [
+   [
+    "google",
+    "Martina"
+   ]
+  ],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New hood going in",
+   "what": "Food/add 18\" extension to existing dish hood",
+   "by": "Legacy Companies Inc",
+   "issued": "2026-06-15",
+   "done": "2026-08-12",
+   "permit": "BLDG1183471"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Martina",
+    "web": "http://www.martinarestaurant.com/",
+    "phone": "(612) 922-9913",
+    "status": "OPERATIONAL",
+    "reviews": 2097,
+    "maps": "https://maps.google.com/?cid=7648539650308424048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Martina",
+   "web": "http://www.martinarestaurant.com/",
+   "phone": "(612) 922-9913",
+   "status": "OPERATIONAL",
+   "reviews": 2097,
+   "maps": "https://maps.google.com/?cid=7648539650308424048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Martina",
+   "type": "Assumed Name",
+   "filed": "8/10/2017",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=8bce2dba-017e-e711-8181-00155d01c6c6"
+  }
+ },
+ {
+  "key": "3231 CENTRAL AVE NE",
+  "addr": "3231 Central Ave NE",
+  "hood": "Waite Park",
+  "lat": 45.02665,
+  "lon": -93.24692,
+  "names": [],
+  "sig": [],
+  "permit": {
+   "stage": "Just opened",
+   "kind": "New hood going in",
+   "what": "Make corrections to code/Kitchen Hood, HRV. New contractor taking over",
+   "by": "Professional Mechanical Services LLC",
+   "issued": "2026-05-11",
+   "done": "2026-06-02",
+   "permit": "BLDG1179237"
+  },
+  "liq": [],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "2405 CENTRAL AVE NE",
+  "addr": "2405 Central Ave NE",
+  "hood": "Windom Park",
+  "lat": 45.01243,
+  "lon": -93.24694,
+  "names": [
+   [
+    "liquor",
+    "Chulla Vida"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Chulla Vida",
+    "num": "LIC421395",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Chulla Vida | Ecuadorian",
+    "web": "https://chullavidamn.com/",
+    "phone": "(612) 315-5345",
+    "status": "OPERATIONAL",
+    "reviews": 207,
+    "maps": "https://maps.google.com/?cid=11311759197439026226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Chulla Vida | Ecuadorian",
+   "web": "https://chullavidamn.com/",
+   "phone": "(612) 315-5345",
+   "status": "OPERATIONAL",
+   "reviews": 207,
+   "maps": "https://maps.google.com/?cid=11311759197439026226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Chulla Vida Restaurant LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "12/23/2024",
+   "people": [
+    [
+     "Manager",
+     "Patricio Cumbe"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=ce8721b1-5cc1-ef11-908c-00155d01c440"
+  }
+ },
+ {
+  "key": "241 FREMONT AVE N",
+  "addr": "241 Fremont Ave N",
+  "hood": "Harrison",
+  "lat": 44.97946,
+  "lon": -93.29602,
+  "names": [
+   [
+    "liquor",
+    "Animales Barbeque Co"
+   ],
+   [
+    "liquor",
+    "La Dona"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Animales Barbeque Co",
+    "num": "LIC422639",
+    "status": "Approved",
+    "date": "2026-08-21",
+    "type": "BLLiquor"
+   },
+   {
+    "name": "La Dona",
+    "num": "LIC422736",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Animales Barbeque Co.",
+    "web": "http://animalesbbq.com/",
+    "phone": "(952) 222-7427",
+    "status": "OPERATIONAL",
+    "reviews": 646,
+    "maps": "https://maps.google.com/?cid=16721536254752406778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Animales Barbeque Co.",
+   "web": "http://animalesbbq.com/",
+   "phone": "(952) 222-7427",
+   "status": "OPERATIONAL",
+   "reviews": 646,
+   "maps": "https://maps.google.com/?cid=16721536254752406778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Animales Barbeque Co.",
+   "type": "Assumed Name",
+   "filed": "7/27/2018",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3c4710ff-bc91-e811-9162-00155d0deff0"
+  }
+ },
+ {
+  "key": "3223 LAKE ST E",
+  "addr": "3223 Lake St E",
+  "hood": "Longfellow",
+  "lat": 44.94809,
+  "lon": -93.22467,
+  "names": [
+   [
+    "liquor",
+    "Habanero Tacos"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Habanero Tacos",
+    "num": "LIC421412",
+    "status": "Approved",
+    "date": "2026-04-17",
+    "type": "BLWine"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Habanero Tacos Grill",
+    "web": "https://habanerotacosgrill.com/",
+    "phone": "(612) 501-6929",
+    "status": "OPERATIONAL",
+    "reviews": 657,
+    "maps": "https://maps.google.com/?cid=2520989760676726431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Habanero Tacos Grill",
+   "web": "https://habanerotacosgrill.com/",
+   "phone": "(612) 501-6929",
+   "status": "OPERATIONAL",
+   "reviews": 657,
+   "maps": "https://maps.google.com/?cid=2520989760676726431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Habanero Tacos LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "7/1/2014",
+   "people": [
+    [
+     "Manager",
+     "Marcos Munoz"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3ad15afc-fb01-e411-ac2f-001ec94ffe7f"
+  }
+ },
+ {
+  "key": "2424 UNIVERSITY AVE NE",
+  "addr": "2424 University Ave NE",
+  "hood": "Bottineau",
+  "lat": 45.01297,
+  "lon": -93.26356,
+  "names": [
+   [
+    "liquor",
+    "Olive & Lamb"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Olive & Lamb",
+    "num": "LIC422271",
+    "status": "Approved",
+    "date": "2026-04-03",
+    "type": "BLWine"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Olive and Lamb",
+    "web": "http://oliveandlamb.com/",
+    "phone": "(612) 353-5196",
+    "status": "OPERATIONAL",
+    "reviews": 1137,
+    "maps": "https://maps.google.com/?cid=5166826240606599489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Olive and Lamb",
+   "web": "http://oliveandlamb.com/",
+   "phone": "(612) 353-5196",
+   "status": "OPERATIONAL",
+   "reviews": 1137,
+   "maps": "https://maps.google.com/?cid=5166826240606599489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Olive and Lamb",
+   "type": "Assumed Name",
+   "filed": "1/16/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=8eb6777c-49d4-ef11-908d-00155d32b947"
+  }
+ },
+ {
+  "key": "227 OAK ST SE",
+  "addr": "227 Oak St SE",
+  "hood": "Prospect Park - East River Road",
+  "lat": 44.97383,
+  "lon": -93.22682,
+  "names": [
+   [
+    "liquor",
+    "Stub & Herb's"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Stub & Herb's",
+    "num": "LIC431115",
+    "status": "Approved",
+    "date": "2026-08-06",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Stub and Herbs",
+    "web": "http://www.stubandherbsbar.com/",
+    "phone": "(612) 208-0409",
+    "status": "OPERATIONAL",
+    "reviews": 966,
+    "maps": "https://maps.google.com/?cid=9294987813621880746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Stub and Herbs",
+   "web": "http://www.stubandherbsbar.com/",
+   "phone": "(612) 208-0409",
+   "status": "OPERATIONAL",
+   "reviews": 966,
+   "maps": "https://maps.google.com/?cid=9294987813621880746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Stub and Herb's",
+   "type": "Assumed Name",
+   "filed": "5/4/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=cd7c4c8f-d447-f111-90a2-00155d01c440"
+  }
+ },
+ {
+  "key": "1629 HENNEPIN AVE",
+  "addr": "1629 Hennepin Ave",
+  "hood": "Loring Park",
+  "lat": 44.97174,
+  "lon": -93.28608,
+  "names": [
+   [
+    "liquor",
+    "Strange Loop Laboratory"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Strange Loop Laboratory",
+    "num": "LIC429907",
+    "status": "Approved",
+    "date": "2026-08-27",
+    "type": "BLWine"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Strange Loop Laboratory",
+    "web": "https://www.strangeloopprojects.com/",
+    "phone": "(612) 567-0888",
+    "status": "OPERATIONAL",
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=4811863064535194079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Strange Loop Laboratory",
+   "web": "https://www.strangeloopprojects.com/",
+   "phone": "(612) 567-0888",
+   "status": "OPERATIONAL",
+   "reviews": 1,
+   "maps": "https://maps.google.com/?cid=4811863064535194079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Strange Loop Laboratory",
+   "type": "Assumed Name",
+   "filed": "9/25/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c32e129c-1d9a-f011-9096-00155d01c440"
+  }
+ },
+ {
+  "key": "700 3RD ST N",
+  "addr": "700 3rd St N",
+  "hood": "North Loop",
+  "lat": 44.98711,
+  "lon": -93.27785,
+  "names": [
+   [
+    "liquor",
+    "Puttshack"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Puttshack",
+    "num": "LIC423925",
+    "status": "Approved",
+    "date": "2026-08-07",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Puttshack - Minneapolis",
+    "web": "https://www.puttshack.com/locations/minneapolis",
+    "phone": "(612) 502-7888",
+    "status": "OPERATIONAL",
+    "reviews": 169,
+    "maps": "https://maps.google.com/?cid=16357796978439193688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Puttshack - Minneapolis",
+   "web": "https://www.puttshack.com/locations/minneapolis",
+   "phone": "(612) 502-7888",
+   "status": "OPERATIONAL",
+   "reviews": 169,
+   "maps": "https://maps.google.com/?cid=16357796978439193688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Puttshack",
+   "type": "Assumed Name",
+   "filed": "2/5/2024",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=2b0a0518-5ec4-ee11-907d-00155d01c440"
+  }
+ },
+ {
+  "key": "806 2ND ST S",
+  "addr": "806 2nd St S",
+  "hood": "Downtown East",
+  "lat": 44.97815,
+  "lon": -93.2553,
+  "names": [
+   [
+    "liquor",
+    "Indigena by Owamni"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Indigena by Owamni",
+    "num": "LIC431018",
+    "status": "Approved",
+    "date": "2026-09-22",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Ind\u00edgena by Owamni",
+    "web": "http://owamni.com/",
+    "phone": "(612) 444-1846",
+    "status": "OPERATIONAL",
+    "reviews": 2985,
+    "maps": "https://maps.google.com/?cid=10535934954393470067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Indigena by Owamni",
+   "type": "Assumed Name",
+   "filed": "4/22/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=51efa110-523e-f111-90a2-00155d01c440"
+  }
+ },
+ {
+  "key": "5401 CHICAGO AVE",
+  "addr": "5401 Chicago Ave",
+  "hood": "Hale",
+  "lat": 44.90497,
+  "lon": -93.26228,
+  "names": [
+   [
+    "liquor",
+    "Nokomis House"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Nokomis House",
+    "num": "LIC432547",
+    "status": "Approved",
+    "date": "2026-08-07",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Nokomis House",
+    "web": "",
+    "phone": "(612) 200-9929",
+    "status": "OPERATIONAL",
+    "reviews": 66,
+    "maps": "https://maps.google.com/?cid=581030378451981993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Nokomis House",
+   "web": "",
+   "phone": "(612) 200-9929",
+   "status": "OPERATIONAL",
+   "reviews": 66,
+   "maps": "https://maps.google.com/?cid=581030378451981993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Nokomis House",
+   "type": "Assumed Name",
+   "filed": "4/13/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=e8bf53b3-7037-f111-90a1-00155d01c440"
+  }
+ },
+ {
+  "key": "3001 HENNEPIN AVE",
+  "addr": "3001 Hennepin Ave",
+  "hood": "South Uptown",
+  "lat": 44.94743,
+  "lon": -93.29732,
+  "names": [
+   [
+    "liquor",
+    "Curioso"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Curioso",
+    "num": "LIC427920",
+    "status": "Approved",
+    "date": "2026-06-04",
+    "type": "BLWine"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Curioso Coffee Bar: Uptown",
+    "web": "http://curiosomn.com/",
+    "phone": "(612) 208-9794",
+    "status": "OPERATIONAL",
+    "reviews": 150,
+    "maps": "https://maps.google.com/?cid=747251194686163735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Curioso Coffee Bar: Uptown",
+   "web": "http://curiosomn.com/",
+   "phone": "(612) 208-9794",
+   "status": "OPERATIONAL",
+   "reviews": 150,
+   "maps": "https://maps.google.com/?cid=747251194686163735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Curioso, LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "11/17/2020",
+   "people": [
+    [
+     "Manager",
+     "Luke Hofland"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=26452650-e128-eb11-91a6-00155d32b905"
+  }
+ },
+ {
+  "key": "107 3RD AVE N",
+  "addr": "107 3rd Ave N",
+  "hood": "North Loop",
+  "lat": 44.98573,
+  "lon": -93.2704,
+  "names": [
+   [
+    "liquor",
+    "Bellecour"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Bellecour",
+    "num": "LIC427051",
+    "status": "Pending",
+    "date": "2026-03-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Bellecour - North Loop",
+    "web": "https://bellecourmn.com/",
+    "phone": "(612) 452-6700",
+    "status": "OPERATIONAL",
+    "reviews": 88,
+    "maps": "https://maps.google.com/?cid=14579710146830347484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Bellecour - North Loop",
+   "web": "https://bellecourmn.com/",
+   "phone": "(612) 452-6700",
+   "status": "OPERATIONAL",
+   "reviews": 88,
+   "maps": "https://maps.google.com/?cid=14579710146830347484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Bellecour",
+   "type": "Assumed Name",
+   "filed": "6/30/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=df8afdc5-e955-f011-9093-00155d01c440"
+  }
+ },
+ {
+  "key": "300 2ND ST SE",
+  "addr": "300 2nd St SE",
+  "hood": "Marcy Holmes",
+  "lat": 44.98434,
+  "lon": -93.25272,
+  "names": [
+   [
+    "liquor",
+    "D'Amico Hospitality at Machine Shop"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "D'Amico Hospitality at Machine Shop",
+    "num": "LIC428541",
+    "status": "Approved",
+    "date": "2026-06-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "gp": null,
+  "sos": {
+   "entity": "D'Amico Hospitality at Machine Shop",
+   "type": "Assumed Name",
+   "filed": "1/2/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=74dbf9e1-ebe7-f011-909a-00155d01c440"
+  }
+ },
+ {
+  "key": "117 MAIN ST SE",
+  "addr": "117 Main St SE",
+  "hood": "Marcy Holmes",
+  "lat": 44.98481,
+  "lon": -93.25537,
+  "names": [
+   [
+    "liquor",
+    "Lonely's Bar"
+   ],
+   [
+    "food",
+    "117 SE MAIN LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Lonely's Bar",
+    "num": "LIC429150",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [
+   {
+    "name": "117 SE MAIN LLC",
+    "date": "2026-08-19"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Lonely's",
+    "web": "",
+    "phone": "(612) 200-9044",
+    "status": "OPERATIONAL",
+    "reviews": 71,
+    "maps": "https://maps.google.com/?cid=12485051114690158602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Lonely's",
+   "web": "",
+   "phone": "(612) 200-9044",
+   "status": "OPERATIONAL",
+   "reviews": 71,
+   "maps": "https://maps.google.com/?cid=12485051114690158602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "117 SE MAIN LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "8/20/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=f2ec629c-c87d-f011-9095-00155d01c440"
+  }
+ },
+ {
+  "key": "115 MAIN ST SE",
+  "addr": "115 Main St SE",
+  "hood": "Marcy Holmes",
+  "lat": 44.98478,
+  "lon": -93.25567,
+  "names": [
+   [
+    "liquor",
+    "The Main Cinema / MSP Film"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "The Main Cinema / MSP Film",
+    "num": "LIC421580",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "The Main Cinema",
+    "web": "http://www.mspfilm.org/",
+    "phone": "(612) 395-4444",
+    "status": "OPERATIONAL",
+    "reviews": 1697,
+    "maps": "https://maps.google.com/?cid=8572612559643498114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "The Main Cinema",
+   "web": "http://www.mspfilm.org/",
+   "phone": "(612) 395-4444",
+   "status": "OPERATIONAL",
+   "reviews": 1697,
+   "maps": "https://maps.google.com/?cid=8572612559643498114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "2901 LYNDALE AVE S",
+  "addr": "2901 Lyndale Ave S",
+  "hood": "Whittier",
+  "lat": 44.95009,
+  "lon": -93.28765,
+  "names": [
+   [
+    "liquor",
+    "Aurelias Mexican Uptown"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Aurelias Mexican Uptown",
+    "num": "LIC425213",
+    "status": "Pending",
+    "date": "2026-03-27",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Aurelias Mexican Uptown",
+    "web": "",
+    "phone": "(612) 477-7026",
+    "status": "OPERATIONAL",
+    "reviews": 83,
+    "maps": "https://maps.google.com/?cid=18269128307763130469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Aurelias Mexican Uptown",
+   "web": "",
+   "phone": "(612) 477-7026",
+   "status": "OPERATIONAL",
+   "reviews": 83,
+   "maps": "https://maps.google.com/?cid=18269128307763130469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Aurelias Mexican Uptown",
+   "type": "Assumed Name",
+   "filed": "5/23/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=d086a7f5-df37-f011-9092-00155d01c440"
+  }
+ },
+ {
+  "key": "3756 GRAND AVE S",
+  "addr": "3756 Grand Ave S",
+  "hood": "King Field",
+  "lat": 44.93423,
+  "lon": -93.28462,
+  "names": [
+   [
+    "liquor",
+    "Victor's 1959 Cafe"
+   ],
+   [
+    "food",
+    "VICTOR'S 1959 CAFE"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Victor's 1959 Cafe",
+    "num": "LIC429332",
+    "status": "Approved",
+    "date": "2026-05-22",
+    "type": "BLWine"
+   }
+  ],
+  "food": [
+   {
+    "name": "VICTOR'S 1959 CAFE",
+    "date": "2026-07-27"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Victor's 1959 Cafe",
+    "web": "https://www.victors1959cafe.com/",
+    "phone": "(612) 827-8948",
+    "status": "OPERATIONAL",
+    "reviews": 2346,
+    "maps": "https://maps.google.com/?cid=12843352625615183584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Victor's 1959 Cafe",
+   "web": "https://www.victors1959cafe.com/",
+   "phone": "(612) 827-8948",
+   "status": "OPERATIONAL",
+   "reviews": 2346,
+   "maps": "https://maps.google.com/?cid=12843352625615183584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "337 13TH AVE NE",
+  "addr": "337 13th Ave NE",
+  "hood": "Sheridan",
+  "lat": 45.00121,
+  "lon": -93.2627,
+  "names": [
+   [
+    "liquor",
+    "Mestiizo"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Mestiizo",
+    "num": "LIC426403",
+    "status": "Pending",
+    "date": "2026-04-14",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Mestiizo",
+    "web": "http://mestiizo.com/",
+    "phone": "(612) 965-4394",
+    "status": "OPERATIONAL",
+    "reviews": 169,
+    "maps": "https://maps.google.com/?cid=13545222223318766262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Mestiizo",
+   "web": "http://mestiizo.com/",
+   "phone": "(612) 965-4394",
+   "status": "OPERATIONAL",
+   "reviews": 169,
+   "maps": "https://maps.google.com/?cid=13545222223318766262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Mestiizo Restaurant Inc.",
+   "type": "Business Corporation (Domestic)",
+   "filed": "2/26/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=5ddcd0b4-71f4-ef11-908e-00155d01c440"
+  }
+ },
+ {
+  "key": "205 LAKE ST E",
+  "addr": "205 Lake St E",
+  "hood": "Central",
+  "lat": 44.94806,
+  "lon": -93.27388,
+  "names": [
+   [
+    "liquor",
+    "Mi Lindo Guanajuato Mexican Restaurant and Bar"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Mi Lindo Guanajuato Mexican Restaurant and Bar",
+    "num": "LIC420674",
+    "status": "Approved",
+    "date": "2026-07-13",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Mi Lindo Guanajuato",
+    "web": "https://milindoguanajuatomn.com/",
+    "phone": "(612) 345-5737",
+    "status": "OPERATIONAL",
+    "reviews": 63,
+    "maps": "https://maps.google.com/?cid=2008388625291463108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Mi Lindo Guanajuato",
+   "web": "https://milindoguanajuatomn.com/",
+   "phone": "(612) 345-5737",
+   "status": "OPERATIONAL",
+   "reviews": 63,
+   "maps": "https://maps.google.com/?cid=2008388625291463108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "3300 5TH ST NE",
+  "addr": "3300 5th St NE",
+  "hood": "Columbia Park",
+  "lat": 45.0288,
+  "lon": -93.26097,
+  "names": [
+   [
+    "liquor",
+    "Lucky Shots Pickleball Club"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Lucky Shots Pickleball Club",
+    "num": "LIC425549",
+    "status": "Approved",
+    "date": "2026-08-21",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Lucky Shots Pickleball",
+    "web": "https://www.luckyshotspickleball.com/",
+    "phone": "(612) 230-9870",
+    "status": "OPERATIONAL",
+    "reviews": 274,
+    "maps": "https://maps.google.com/?cid=6195715691827230860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Lucky Shots Pickleball",
+   "web": "https://www.luckyshotspickleball.com/",
+   "phone": "(612) 230-9870",
+   "status": "OPERATIONAL",
+   "reviews": 274,
+   "maps": "https://maps.google.com/?cid=6195715691827230860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Lucky Shots Pickleball Club",
+   "type": "Assumed Name",
+   "filed": "1/28/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=7bbc01df-b5dd-ef11-908d-00155d32b947"
+  }
+ },
+ {
+  "key": "130 HENNEPIN AVE E",
+  "addr": "130 Hennepin Ave E",
+  "hood": "Nicollet Island - East Bank",
+  "lat": 44.98711,
+  "lon": -93.25803,
+  "names": [
+   [
+    "liquor",
+    "Celio"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Celio",
+    "num": "LIC428090",
+    "status": "Pending",
+    "date": "2026-03-27",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Celio",
+    "web": "https://www.celio-ne.com/",
+    "phone": "(612) 500-9978",
+    "status": "OPERATIONAL",
+    "reviews": 722,
+    "maps": "https://maps.google.com/?cid=13575281569562598366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Celio",
+   "web": "https://www.celio-ne.com/",
+   "phone": "(612) 500-9978",
+   "status": "OPERATIONAL",
+   "reviews": 722,
+   "maps": "https://maps.google.com/?cid=13575281569562598366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Celio",
+   "type": "Assumed Name",
+   "filed": "4/24/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=ea31e6b7-3921-f011-9091-00155d01c440"
+  }
+ },
+ {
+  "key": "2558 LYNDALE AVE S",
+  "addr": "2558 Lyndale Ave S",
+  "hood": "Lowry Hill East",
+  "lat": 44.9557,
+  "lon": -93.28846,
+  "names": [
+   [
+    "liquor",
+    "Dreamstate Cafe"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Dreamstate Cafe",
+    "num": "LIC422451",
+    "status": "Pending",
+    "date": "2026-03-31",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Dreamstate Cafe",
+    "web": "https://www.dreamstatecafe.com/",
+    "phone": "(612) 466-2227",
+    "status": "OPERATIONAL",
+    "reviews": 210,
+    "maps": "https://maps.google.com/?cid=5104730244077680994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Dreamstate Cafe",
+   "web": "https://www.dreamstatecafe.com/",
+   "phone": "(612) 466-2227",
+   "status": "OPERATIONAL",
+   "reviews": 210,
+   "maps": "https://maps.google.com/?cid=5104730244077680994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Dream State Cafe",
+   "type": "Assumed Name",
+   "filed": "5/21/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=4cd82758-a736-f011-9092-00155d01c440"
+  }
+ },
+ {
+  "key": "118 4TH ST N",
+  "addr": "118 4th St N",
+  "hood": "Downtown West",
+  "lat": 44.982,
+  "lon": -93.27295,
+  "names": [
+   [
+    "liquor",
+    "Hometowne Pizza Minneapolis"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Hometowne Pizza Minneapolis",
+    "num": "LIC422129",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Hometowne Pizza Minneapolis Bar and Arcade",
+    "web": "https://www.hometownepizzaminneapolis.com/",
+    "phone": "(612) 224-9860",
+    "status": "OPERATIONAL",
+    "reviews": 374,
+    "maps": "https://maps.google.com/?cid=11444973214712842739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Hometowne Pizza Minneapolis Bar and Arcade",
+   "web": "https://www.hometownepizzaminneapolis.com/",
+   "phone": "(612) 224-9860",
+   "status": "OPERATIONAL",
+   "reviews": 374,
+   "maps": "https://maps.google.com/?cid=11444973214712842739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Hometowne Pizza Minneapolis",
+   "type": "Assumed Name",
+   "filed": "4/3/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=ee3088d3-a710-f011-908f-00155d01c440"
+  }
+ },
+ {
+  "key": "100 22ND ST E",
+  "addr": "100 22nd St E",
+  "hood": "Whittier",
+  "lat": 44.9612,
+  "lon": -93.27617,
+  "names": [
+   [
+    "liquor",
+    "Pillsbury Club"
+   ],
+   [
+    "food",
+    "PILLSBURY CLUB LTD"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Pillsbury Club",
+    "num": "LIC427804",
+    "status": "Approved",
+    "date": "2026-07-02",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [
+   {
+    "name": "PILLSBURY CLUB LTD",
+    "date": "2026-07-21"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Pillsbury Club",
+    "web": "https://pillsburyclub.com/",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 19,
+    "maps": "https://maps.google.com/?cid=6668439609808980153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Sphere Restaurant & Bar",
+    "web": "http://spherempls.com/",
+    "phone": "(612) 552-1509",
+    "status": "OPERATIONAL",
+    "reviews": 173,
+    "maps": "https://maps.google.com/?cid=2088813430251592827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Pillsbury Club",
+   "web": "https://pillsburyclub.com/",
+   "phone": "",
+   "status": "OPERATIONAL",
+   "reviews": 19,
+   "maps": "https://maps.google.com/?cid=6668439609808980153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Pillsbury Club Ltd",
+   "type": "Business Corporation (Domestic)",
+   "filed": "1/21/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=0c163981-20d8-ef11-908d-00155d32b947"
+  }
+ },
+ {
+  "key": "1724 LOWRY AVE N",
+  "addr": "1724 Lowry Ave N",
+  "hood": "Folwell",
+  "lat": 45.01346,
+  "lon": -93.30162,
+  "names": [
+   [
+    "liquor",
+    "AntojitosRyan.S"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "AntojitosRyan.S",
+    "num": "LIC429467",
+    "status": "Approved",
+    "date": "2026-07-24",
+    "type": "BLWine"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Antojitos Ryan.S Restaurant",
+    "web": "http://www.antojitosryansrestaurant.com/",
+    "phone": "(612) 315-5343",
+    "status": "OPERATIONAL",
+    "reviews": 62,
+    "maps": "https://maps.google.com/?cid=13150926256295684048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Antojitos Ryan.S Restaurant",
+   "web": "http://www.antojitosryansrestaurant.com/",
+   "phone": "(612) 315-5343",
+   "status": "OPERATIONAL",
+   "reviews": 62,
+   "maps": "https://maps.google.com/?cid=13150926256295684048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "AntojitosRyan.S LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "8/26/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=9c960df6-b382-f011-9095-00155d01c440"
+  }
+ },
+ {
+  "key": "1434 31ST ST W",
+  "addr": "1434 31st St W",
+  "hood": "East Bde Maka Ska",
+  "lat": 44.94686,
+  "lon": -93.29867,
+  "names": [
+   [
+    "liquor",
+    "The Tasting Room"
+   ],
+   [
+    "food",
+    "BAGUETTES BROTHERS LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "The Tasting Room",
+    "num": "LIC429903",
+    "status": "Approved",
+    "date": "2026-07-24",
+    "type": "BLWine"
+   }
+  ],
+  "food": [
+   {
+    "name": "BAGUETTES BROTHERS LLC",
+    "date": "2026-09-17"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "The Tasting Room",
+    "web": "https://www.thetastingroommpls.com/",
+    "phone": "(612) 409-0277",
+    "status": "OPERATIONAL",
+    "reviews": 150,
+    "maps": "https://maps.google.com/?cid=14913877840492636509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "The Tasting Room",
+   "web": "https://www.thetastingroommpls.com/",
+   "phone": "(612) 409-0277",
+   "status": "OPERATIONAL",
+   "reviews": 150,
+   "maps": "https://maps.google.com/?cid=14913877840492636509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Baguettes Brothers LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "12/26/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=e1dafeee-7ee2-f011-909a-00155d01c440"
+  }
+ },
+ {
+  "key": "4537 NICOLLET AVE",
+  "addr": "4537 Nicollet Ave",
+  "hood": "King Field",
+  "lat": 44.92032,
+  "lon": -93.27755,
+  "names": [
+   [
+    "liquor",
+    "INTI Kitchen & Bar"
+   ],
+   [
+    "food",
+    "INTI MPLS LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "INTI Kitchen & Bar",
+    "num": "LIC430361",
+    "status": "Approved",
+    "date": "2026-07-24",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [
+   {
+    "name": "INTI MPLS LLC",
+    "date": "2026-09-17"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "INTI Kitchen & Bar",
+    "web": "http://www.intimpls.com/",
+    "phone": "(612) 200-8275",
+    "status": "OPERATIONAL",
+    "reviews": 93,
+    "maps": "https://maps.google.com/?cid=7315399872236989984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "INTI Kitchen & Bar",
+   "web": "http://www.intimpls.com/",
+   "phone": "(612) 200-8275",
+   "status": "OPERATIONAL",
+   "reviews": 93,
+   "maps": "https://maps.google.com/?cid=7315399872236989984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "inti mpls LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "9/25/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=db0047cb-359a-f011-9096-00155d01c440"
+  }
+ },
+ {
+  "key": "5748 34TH AVE S",
+  "addr": "5748 34th Ave S",
+  "hood": "Wenonah",
+  "lat": 44.89848,
+  "lon": -93.22333,
+  "names": [
+   [
+    "liquor",
+    "Tacos Tacuba"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Tacos Tacuba",
+    "num": "LIC429250",
+    "status": "Approved",
+    "date": "2026-05-05",
+    "type": "BLWine"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Tacos Tacuba",
+    "web": "",
+    "phone": "(952) 297-7881",
+    "status": "OPERATIONAL",
+    "reviews": 337,
+    "maps": "https://maps.google.com/?cid=17902472584600311162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Tacos Tacuba",
+   "web": "",
+   "phone": "(952) 297-7881",
+   "status": "OPERATIONAL",
+   "reviews": 337,
+   "maps": "https://maps.google.com/?cid=17902472584600311162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "TACOS TACUBA",
+   "type": "Assumed Name",
+   "filed": "3/13/2019",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=357226cc-b845-e911-9171-00155d01b439"
+  }
+ },
+ {
+  "key": "110 KENWOOD PKWY",
+  "addr": "110 Kenwood Pkwy",
+  "hood": "Lowry Hill",
+  "lat": 44.97053,
+  "lon": -93.2894,
+  "names": [
+   [
+    "liquor",
+    "Fro Yo Soul"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Fro Yo Soul",
+    "num": "LIC423636",
+    "status": "Approved",
+    "date": "2026-09-21",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "gp": null,
+  "sos": {
+   "entity": "Fro Yo Soul",
+   "type": "Assumed Name",
+   "filed": "3/24/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=e2189acd-de08-f011-908f-00155d01c440"
+  }
+ },
+ {
+  "key": "333 HENNEPIN AVE E",
+  "addr": "333 Hennepin Ave E",
+  "hood": "Nicollet Island - East Bank",
+  "lat": 44.98872,
+  "lon": -93.25559,
+  "names": [
+   [
+    "liquor",
+    "Rosalia"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Rosalia",
+    "num": "LIC421286",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Rosalia Pizza Northeast",
+    "web": "https://www.rosaliapizza.com/",
+    "phone": "(612) 601-7750",
+    "status": "OPERATIONAL",
+    "reviews": 130,
+    "maps": "https://maps.google.com/?cid=408201430799451766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Rosalia Pizza Northeast",
+   "web": "https://www.rosaliapizza.com/",
+   "phone": "(612) 601-7750",
+   "status": "OPERATIONAL",
+   "reviews": 130,
+   "maps": "https://maps.google.com/?cid=408201430799451766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Rosalia",
+   "type": "Assumed Name",
+   "filed": "9/15/2020",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=505a0243-59f7-ea11-91a2-00155d32b905"
+  }
+ },
+ {
+  "key": "1821 LAKE ST E",
+  "addr": "1821 Lake St E",
+  "hood": "Powderhorn Park",
+  "lat": 44.94814,
+  "lon": -93.24773,
+  "names": [
+   [
+    "liquor",
+    "El Ranchito Taqueria"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "El Ranchito Taqueria",
+    "num": "LIC429061",
+    "status": "Approved",
+    "date": "2026-08-17",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "El Ranchito Taqueria",
+    "web": "https://www.taqueriaelranchitomn.com/",
+    "phone": "(612) 582-8672",
+    "status": "OPERATIONAL",
+    "reviews": 14,
+    "maps": "https://maps.google.com/?cid=18187732230883016320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Taqueria El primo",
+    "web": "https://order.online/business/taqueria-el-primo-2-661106",
+    "phone": "(612) 345-7280",
+    "status": "OPERATIONAL",
+    "reviews": 278,
+    "maps": "https://maps.google.com/?cid=12606493658957983405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "El Ranchito Taqueria",
+   "web": "https://www.taqueriaelranchitomn.com/",
+   "phone": "(612) 582-8672",
+   "status": "OPERATIONAL",
+   "reviews": 14,
+   "maps": "https://maps.google.com/?cid=18187732230883016320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "EL RANCHITO TAQUERIA LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "6/3/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c836cb39-8a40-f011-9092-00155d01c440"
+  }
+ },
+ {
+  "key": "903 WASHINGTON AVE S",
+  "addr": "903 Washington Ave S",
+  "hood": "Downtown East",
+  "lat": 44.97617,
+  "lon": -93.25594,
+  "names": [
+   [
+    "liquor",
+    "Fat Head Bill's"
+   ],
+   [
+    "food",
+    "KKM RESTAURANTS INC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Fat Head Bill's",
+    "num": "LIC429146",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [
+   {
+    "name": "KKM RESTAURANTS INC",
+    "date": "2026-07-09"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Fathead Bill's Sports Pub & Grill",
+    "web": "https://fatheadbills.com/",
+    "phone": "(612) 208-0047",
+    "status": "OPERATIONAL",
+    "reviews": 40,
+    "maps": "https://maps.google.com/?cid=16981329991334225287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Spice & Tonic - Indian Cuisine & Bar",
+    "web": "https://www.clover.com/online-ordering/spice--tonic-indian-minneapolis",
+    "phone": "(612) 333-9020",
+    "status": "OPERATIONAL",
+    "reviews": 1263,
+    "maps": "https://maps.google.com/?cid=14995871829611596358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Fathead Bill's Sports Pub & Grill",
+   "web": "https://fatheadbills.com/",
+   "phone": "(612) 208-0047",
+   "status": "OPERATIONAL",
+   "reviews": 40,
+   "maps": "https://maps.google.com/?cid=16981329991334225287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "KKM Restaurants LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "12/1/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=91b7ec47-e2ce-f011-9099-00155d01c440"
+  }
+ },
+ {
+  "key": "1828 4TH ST NE",
+  "addr": "1828 4th St NE",
+  "hood": "Holland",
+  "lat": 45.0073,
+  "lon": -93.26191,
+  "names": [
+   [
+    "liquor",
+    "Jimmy's Bar & Lounge"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Jimmy's Bar & Lounge",
+    "num": "LIC429862",
+    "status": "Pending",
+    "date": "2026-07-14",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Jimmy's Bar & Lounge",
+    "web": "",
+    "phone": "(612) 788-1383",
+    "status": "OPERATIONAL",
+    "reviews": 625,
+    "maps": "https://maps.google.com/?cid=13809549457732460668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Jimmy's Bar & Lounge",
+   "web": "",
+   "phone": "(612) 788-1383",
+   "status": "OPERATIONAL",
+   "reviews": 625,
+   "maps": "https://maps.google.com/?cid=13809549457732460668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Jimmys Bar & Lounge",
+   "type": "Assumed Name",
+   "filed": "1/26/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c1d5ae0e-aefa-f011-909b-00155d01c440"
+  }
+ },
+ {
+  "key": "2308 50TH ST W",
+  "addr": "2308 50th St W",
+  "hood": "Fulton",
+  "lat": 44.91261,
+  "lon": -93.30907,
+  "names": [
+   [
+    "liquor",
+    "Broders Cucina Italiana"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Broders Cucina Italiana",
+    "num": "LIC426193",
+    "status": "Pending",
+    "date": "2026-07-14",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Broders' Cucina Italiana",
+    "web": "http://www.broders.com/",
+    "phone": "(612) 925-3113",
+    "status": "OPERATIONAL",
+    "reviews": 848,
+    "maps": "https://maps.google.com/?cid=8106417056591802175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Broders' Cucina Italiana",
+   "web": "http://www.broders.com/",
+   "phone": "(612) 925-3113",
+   "status": "OPERATIONAL",
+   "reviews": 848,
+   "maps": "https://maps.google.com/?cid=8106417056591802175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Broders' Cucina Italiana",
+   "type": "Assumed Name",
+   "filed": "8/6/2014",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=fc8e2a7a-9e1d-e411-ac2f-001ec94ffe7f"
+  }
+ },
+ {
+  "key": "615 2ND AVE S",
+  "addr": "615 2nd Ave S",
+  "hood": "Downtown West",
+  "lat": 44.97595,
+  "lon": -93.26882,
+  "names": [
+   [
+    "liquor",
+    "SIX15 Bar and Lounge"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "SIX15 Bar and Lounge",
+    "num": "LIC421827",
+    "status": "Approved",
+    "date": "2026-08-21",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Six15 Bar & Lounge",
+    "web": "https://www.hyatt.com/en-US/hotel/minnesota/hyatt-centric-downtown-minneapolis/mspct/dining",
+    "phone": "(612) 288-8888",
+    "status": "OPERATIONAL",
+    "reviews": 77,
+    "maps": "https://maps.google.com/?cid=14924976832521638211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Six15 Bar & Lounge",
+   "web": "https://www.hyatt.com/en-US/hotel/minnesota/hyatt-centric-downtown-minneapolis/mspct/dining",
+   "phone": "(612) 288-8888",
+   "status": "OPERATIONAL",
+   "reviews": 77,
+   "maps": "https://maps.google.com/?cid=14924976832521638211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "SIX15 Bar and Lounge",
+   "type": "Assumed Name",
+   "filed": "5/14/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=73466031-dd30-f011-9091-00155d01c440"
+  }
+ },
+ {
+  "key": "508 1ST AVE N",
+  "addr": "508 1st Ave N",
+  "hood": "Downtown West",
+  "lat": 44.9804,
+  "lon": -93.27433,
+  "names": [
+   [
+    "liquor",
+    "Smorgie's"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Smorgie's",
+    "num": "LIC422670",
+    "status": "Approved",
+    "date": "2026-08-21",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Smorgie's",
+    "web": "https://www.smorgiesbar.com/",
+    "phone": "(651) 204-3730",
+    "status": "OPERATIONAL",
+    "reviews": 97,
+    "maps": "https://maps.google.com/?cid=18146837086177840064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Smorgie's",
+   "web": "https://www.smorgiesbar.com/",
+   "phone": "(651) 204-3730",
+   "status": "OPERATIONAL",
+   "reviews": 97,
+   "maps": "https://maps.google.com/?cid=18146837086177840064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "300 13TH AVE NE",
+  "addr": "300 13th Ave NE",
+  "hood": "Sheridan",
+  "lat": 45.00058,
+  "lon": -93.26436,
+  "names": [
+   [
+    "liquor",
+    "Cafe Marguerite"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Cafe Marguerite",
+    "num": "LIC423274",
+    "status": "Approved",
+    "date": "2026-06-01",
+    "type": "BLWine"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Caf\u00e9 Marguerite",
+    "web": "https://cafe-marg.com/",
+    "phone": "(612) 315-2919",
+    "status": "OPERATIONAL",
+    "reviews": 252,
+    "maps": "https://maps.google.com/?cid=13772435218825205178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Caf\u00e9 Marguerite",
+   "web": "https://cafe-marg.com/",
+   "phone": "(612) 315-2919",
+   "status": "OPERATIONAL",
+   "reviews": 252,
+   "maps": "https://maps.google.com/?cid=13772435218825205178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "4747 NICOLLET AVE",
+  "addr": "4747 Nicollet Ave",
+  "hood": "Tangletown",
+  "lat": 44.9163,
+  "lon": -93.27759,
+  "names": [
+   [
+    "liquor",
+    "Nokko"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Nokko",
+    "num": "LIC421038",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Nokko",
+    "web": "https://nokko.house/",
+    "phone": "(612) 315-5610",
+    "status": "OPERATIONAL",
+    "reviews": 80,
+    "maps": "https://maps.google.com/?cid=7719790589650563156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Nokko",
+   "web": "https://nokko.house/",
+   "phone": "(612) 315-5610",
+   "status": "OPERATIONAL",
+   "reviews": 80,
+   "maps": "https://maps.google.com/?cid=7719790589650563156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "nokko",
+   "type": "Assumed Name",
+   "filed": "1/1/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=669b4a60-5ec8-ef11-908c-00155d32b947"
+  }
+ },
+ {
+  "key": "1118 LAKE ST W",
+  "addr": "1118 Lake St W",
+  "hood": "Lowry Hill East",
+  "lat": 44.94868,
+  "lon": -93.29394,
+  "names": [
+   [
+    "liquor",
+    "Cheba Hut - Uptown Minneapolis"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Cheba Hut - Uptown Minneapolis",
+    "num": "LIC427200",
+    "status": "Pending",
+    "date": "2026-03-12",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Cheba Hut \"Toasted\" Subs",
+    "web": "https://chebahut.com/locations/minneapolis-uptown/?utm_source=google&utm_medium=GBP&utm_campaign=Minneapolis-Uptown",
+    "phone": "(612) 428-0129",
+    "status": "OPERATIONAL",
+    "reviews": 507,
+    "maps": "https://maps.google.com/?cid=13731275338558996025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Cheba Hut \"Toasted\" Subs",
+   "web": "https://chebahut.com/locations/minneapolis-uptown/?utm_source=google&utm_medium=GBP&utm_campaign=Minneapolis-Uptown",
+   "phone": "(612) 428-0129",
+   "status": "OPERATIONAL",
+   "reviews": 507,
+   "maps": "https://maps.google.com/?cid=13731275338558996025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Cheba Hut - Uptown Minneapolis",
+   "type": "Assumed Name",
+   "filed": "8/13/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=0789b8c7-0578-f011-9094-00155d01c440"
+  }
+ },
+ {
+  "key": "2725 UNIVERSITY AVE SE",
+  "addr": "2725 University Ave SE",
+  "hood": "Prospect Park - East River Road",
+  "lat": 44.97236,
+  "lon": -93.21699,
+  "names": [
+   [
+    "liquor",
+    "JBJ BBQ HOT POT and BAR"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "JBJ BBQ HOT POT and BAR",
+    "num": "LIC427714",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "JBJ BBQ HOT POT and BAR",
+    "web": "https://mnjbj.com/",
+    "phone": "(612) 552-5128",
+    "status": "OPERATIONAL",
+    "reviews": 84,
+    "maps": "https://maps.google.com/?cid=10251531108948980275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "JBJ BBQ HOT POT and BAR",
+   "web": "https://mnjbj.com/",
+   "phone": "(612) 552-5128",
+   "status": "OPERATIONAL",
+   "reviews": 84,
+   "maps": "https://maps.google.com/?cid=10251531108948980275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "JBJ BBQ Hot Pot and Bar",
+   "type": "Assumed Name",
+   "filed": "7/7/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=7beffcf3-487a-f111-90a6-00155d01c53c"
+  }
+ },
+ {
+  "key": "3037 LYNDALE AVE S",
+  "addr": "3037 Lyndale Ave S",
+  "hood": "Lyndale",
+  "lat": 44.94705,
+  "lon": -93.28769,
+  "names": [
+   [
+    "liquor",
+    "Art House Theater and Gallery"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Art House Theater and Gallery",
+    "num": "LIC429898",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "gp": null,
+  "sos": {
+   "entity": "Art House Theater and Gallery Inc",
+   "type": "Nonprofit Corporation (Domestic)",
+   "filed": "7/13/2022",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=ac52fb2f-de02-ed11-9060-00155d01c614"
+  }
+ },
+ {
+  "key": "501 1ST AVE NE",
+  "addr": "501 1st Ave NE",
+  "hood": "Nicollet Island - East Bank",
+  "lat": 44.99036,
+  "lon": -93.25408,
+  "names": [
+   [
+    "liquor",
+    "Cafe Harmony"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Cafe Harmony",
+    "num": "LIC429517",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "861 HENNEPIN AVE E",
+  "addr": "861 Hennepin Ave E",
+  "hood": "Beltrami",
+  "lat": 44.99182,
+  "lon": -93.24348,
+  "names": [
+   [
+    "liquor",
+    "Dangerous Man Brewing Company"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Dangerous Man Brewing Company",
+    "num": "LIC429827",
+    "status": "Approved",
+    "date": "2026-08-18",
+    "type": "BLBrewery"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Dangerous Man Brewing",
+    "web": "https://www.dangerousmanbrewing.com/",
+    "phone": "(612) 439-4383",
+    "status": "OPERATIONAL",
+    "reviews": 83,
+    "maps": "https://maps.google.com/?cid=9568877025379069622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "OG ZAZA - Pizza Trailer",
+    "web": "https://ogzazamn.com/pizza-trailer-east-hennepin?utm_source=google",
+    "phone": "(612) 997-0475",
+    "status": "OPERATIONAL",
+    "reviews": 290,
+    "maps": "https://maps.google.com/?cid=13759602152969946069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Dangerous Man Brewing",
+   "web": "https://www.dangerousmanbrewing.com/",
+   "phone": "(612) 439-4383",
+   "status": "OPERATIONAL",
+   "reviews": 83,
+   "maps": "https://maps.google.com/?cid=9568877025379069622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Dangerous Man Brewing Company",
+   "type": "Assumed Name",
+   "filed": "10/2/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=b7e1de56-8d9f-f011-9096-00155d01c440"
+  }
+ },
+ {
+  "key": "3236 LAKE ST W",
+  "addr": "3236 Lake St W",
+  "hood": "Cedar - Isles - Dean",
+  "lat": 44.94913,
+  "lon": -93.32083,
+  "names": [
+   [
+    "liquor",
+    "Sushi Train"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Sushi Train",
+    "num": "LIC429869",
+    "status": "Approved",
+    "date": "2026-06-22",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Sushi Train - Uptown",
+    "web": "",
+    "phone": "(612) 354-2581",
+    "status": "OPERATIONAL",
+    "reviews": 422,
+    "maps": "https://maps.google.com/?cid=12436240193631497534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Sushi Train - Uptown",
+   "web": "",
+   "phone": "(612) 354-2581",
+   "status": "OPERATIONAL",
+   "reviews": 422,
+   "maps": "https://maps.google.com/?cid=12436240193631497534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Sushi Train",
+   "type": "Assumed Name",
+   "filed": "3/4/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=2e56cf32-0f18-f111-909e-00155d01c440"
+  }
+ },
+ {
+  "key": "355 MONROE ST NE",
+  "addr": "355 Monroe St NE",
+  "hood": "St. Anthony East",
+  "lat": 44.99489,
+  "lon": -93.25206,
+  "names": [
+   [
+    "liquor",
+    "Spring Street Tavern"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Spring Street Tavern",
+    "num": "LIC430444",
+    "status": "Approved",
+    "date": "2026-09-22",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [],
+  "inst": false,
+  "g": [
+   {
+    "name": "Spring Street Tavern",
+    "web": "https://www.springstreettavern.com/",
+    "phone": "(612) 627-9123",
+    "status": "OPERATIONAL",
+    "reviews": 1391,
+    "maps": "https://maps.google.com/?cid=7153421266444526646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Club Underground",
+    "web": "https://clubunderground.net/",
+    "phone": "(612) 627-9123",
+    "status": "OPERATIONAL",
+    "reviews": 38,
+    "maps": "https://maps.google.com/?cid=10137645360746600249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Spring Street Tavern",
+   "web": "https://www.springstreettavern.com/",
+   "phone": "(612) 627-9123",
+   "status": "OPERATIONAL",
+   "reviews": 1391,
+   "maps": "https://maps.google.com/?cid=7153421266444526646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Spring Street Tavern",
+   "type": "Assumed Name",
+   "filed": "3/20/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=562f28cc-9024-f111-909f-00155d01c440"
+  }
+ },
+ {
+  "key": "2937 LYNDALE AVE S",
+  "addr": "2937 Lyndale Ave S",
+  "hood": "Whittier",
+  "lat": 44.94911,
+  "lon": -93.28767,
+  "names": [
+   [
+    "liquor",
+    "Iconos Gastro Cantina/Iconos"
+   ],
+   [
+    "food",
+    "EAK ENTERPRISES LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [
+   {
+    "name": "Iconos Gastro Cantina/Iconos",
+    "num": "LIC430783",
+    "status": "Approved",
+    "date": "2026-06-22",
+    "type": "BLLiquor"
+   }
+  ],
+  "food": [
+   {
+    "name": "EAK ENTERPRISES LLC",
+    "date": "2026-09-09"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Iconos Gastro Cantina",
+    "web": "https://www.iconosgastrocantina.com/",
+    "phone": "(612) 822-2488",
+    "status": "OPERATIONAL",
+    "reviews": 615,
+    "maps": "https://maps.google.com/?cid=17067048863808636843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Iconos Gastro Cantina",
+   "web": "https://www.iconosgastrocantina.com/",
+   "phone": "(612) 822-2488",
+   "status": "OPERATIONAL",
+   "reviews": 615,
+   "maps": "https://maps.google.com/?cid=17067048863808636843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "EAK ENTERPRISES LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "2/14/2025",
+   "people": [
+    [
+     "Manager",
+     "IVAN A CARDENAS CORDERO"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=1130344c-41eb-ef11-908d-00155d01c440"
+  }
+ },
+ {
+  "key": "813 4TH ST SE",
+  "addr": "813 4th St SE",
+  "hood": "Marcy Holmes",
+  "lat": 44.98383,
+  "lon": -93.24321,
+  "names": [
+   [
+    "food",
+    "ABDALLA FOOD INC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "ABDALLA FOOD INC",
+    "date": "2026-07-02"
+   }
+  ],
+  "inst": false,
+  "gp": null,
+  "sos": {
+   "entity": "ABDALLA FOOD INC.",
+   "type": "Business Corporation (Domestic)",
+   "filed": "3/30/2012",
+   "people": [
+    [
+     "Chief Executive Officer",
+     "Ramadan Hussein"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=8a30f838-a47a-e111-b001-001ec94ffe7f"
+  }
+ },
+ {
+  "key": "2833 13TH AVE S",
+  "addr": "2833 13th Ave S",
+  "hood": "Midtown Phillips",
+  "lat": 44.95099,
+  "lon": -93.25592,
+  "names": [
+   [
+    "food",
+    "AMAAL CAFE LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "AMAAL CAFE LLC",
+    "date": "2026-07-06"
+   }
+  ],
+  "inst": false,
+  "gp": null,
+  "sos": {
+   "entity": "AMAAL CAFE",
+   "type": "Assumed Name",
+   "filed": "3/19/2025",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=601e54d9-f404-f011-908f-00155d01c440"
+  }
+ },
+ {
+  "key": "2819 NICOLLET AVE",
+  "addr": "2819 Nicollet Ave",
+  "hood": "Whittier",
+  "lat": 44.95116,
+  "lon": -93.27751,
+  "names": [
+   [
+    "food",
+    "EAT STREET CROSSING"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "EAT STREET CROSSING",
+    "date": "2026-07-09"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Eat Street Crossing",
+    "web": "http://www.eatstreetcrossing.com/",
+    "phone": "(612) 345-4136",
+    "status": "OPERATIONAL",
+    "reviews": 684,
+    "maps": "https://maps.google.com/?cid=17732439616991081767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Eat Street Crossing",
+   "web": "http://www.eatstreetcrossing.com/",
+   "phone": "(612) 345-4136",
+   "status": "OPERATIONAL",
+   "reviews": 684,
+   "maps": "https://maps.google.com/?cid=17732439616991081767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Eat Street Crossing",
+   "type": "Assumed Name",
+   "filed": "6/29/2019",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=56a87cfb-ac9a-e911-9176-00155d01b32c"
+  }
+ },
+ {
+  "key": "1024 WASHINGTON AVE S",
+  "addr": "1024 Washington Ave S",
+  "hood": "",
+  "lat": 44.97624,
+  "lon": -93.2538,
+  "names": [
+   [
+    "food",
+    "BANH MI HOUSE"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "BANH MI HOUSE",
+    "date": "2026-07-09"
+   }
+  ],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "818 LAKE ST W",
+  "addr": "818 Lake St W",
+  "hood": "Lowry Hill East",
+  "lat": 44.94866,
+  "lon": -93.29028,
+  "names": [
+   [
+    "food",
+    "INSOMNIA COOKIES OPERATORS LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "INSOMNIA COOKIES OPERATORS LLC",
+    "date": "2026-07-13"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Insomnia Cookies",
+    "web": "https://insomniacookies.com/",
+    "phone": "(612) 254-8847",
+    "status": "OPERATIONAL",
+    "reviews": 24,
+    "maps": "https://maps.google.com/?cid=2442627511839799380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Hamdi Restaurant",
+    "web": "https://hamdirestaurantmn.com/",
+    "phone": "(612) 823-9660",
+    "status": "OPERATIONAL",
+    "reviews": 279,
+    "maps": "https://maps.google.com/?cid=10455564659306380174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Insomnia Cookies",
+   "web": "https://insomniacookies.com/",
+   "phone": "(612) 254-8847",
+   "status": "OPERATIONAL",
+   "reviews": 24,
+   "maps": "https://maps.google.com/?cid=2442627511839799380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Insomnia Cookies Operators, LLC",
+   "type": "Limited Liability Company (Foreign)",
+   "filed": "8/23/2023",
+   "people": [
+    [
+     "Manager",
+     "Louis Smookler"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=46669a5e-f741-ee11-9076-00155d01c440"
+  }
+ },
+ {
+  "key": "3100 EXCELSIOR BLVD",
+  "addr": "3100 Excelsior Blvd",
+  "hood": "West Maka Ska",
+  "lat": 44.9466,
+  "lon": -93.32231,
+  "names": [
+   [
+    "food",
+    "BUSSIN BIRRIA TACOS"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "BUSSIN BIRRIA TACOS",
+    "date": "2026-07-14"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Bussin Birria Tacos - Uptown",
+    "web": "https://www.bussinbirriatacos.com/",
+    "phone": "(763) 264-6777",
+    "status": "OPERATIONAL",
+    "reviews": 58,
+    "maps": "https://maps.google.com/?cid=8381935957188810727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "My Burger - Uptown",
+    "web": "https://myburgerusa.com/",
+    "phone": "(952) 500-9118",
+    "status": "OPERATIONAL",
+    "reviews": 1294,
+    "maps": "https://maps.google.com/?cid=17416388132158311262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Bussin Birria Tacos - Uptown",
+   "web": "https://www.bussinbirriatacos.com/",
+   "phone": "(763) 264-6777",
+   "status": "OPERATIONAL",
+   "reviews": 58,
+   "maps": "https://maps.google.com/?cid=8381935957188810727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Bussin Birria Tacos",
+   "type": "Assumed Name",
+   "filed": "4/19/2022",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=538202aa-2cc0-ec11-91ba-00155d32b93a"
+  }
+ },
+ {
+  "key": "800 LASALLE AVE",
+  "addr": "800 Lasalle Ave",
+  "hood": "Downtown West",
+  "lat": 44.97641,
+  "lon": -93.27513,
+  "names": [
+   [
+    "food",
+    "CONFETTI BLOSSOM LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "CONFETTI BLOSSOM LLC",
+    "date": "2026-07-21"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "BEP Eatery",
+    "web": "",
+    "phone": "(612) 472-7433",
+    "status": "OPERATIONAL",
+    "reviews": 125,
+    "maps": "https://maps.google.com/?cid=8578393279044303509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Confetti Blossom LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "8/20/2025",
+   "people": [
+    [
+     "Manager",
+     "Aaron Hanauer"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=5bec9e18-0a7e-f011-9095-00155d01c440"
+  }
+ },
+ {
+  "key": "250 2ND AVE S",
+  "addr": "250 2nd Ave S",
+  "hood": "Downtown West",
+  "lat": 44.98025,
+  "lon": -93.26627,
+  "names": [
+   [
+    "food",
+    "SKYWAY PHO INC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "SKYWAY PHO INC",
+    "date": "2026-07-22"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Skyway Wok",
+    "web": "http://www.facebook.com/Skyway-Wok-120366707974987/",
+    "phone": "(612) 673-9669",
+    "status": "OPERATIONAL",
+    "reviews": 438,
+    "maps": "https://maps.google.com/?cid=15788056065083253234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Skyway Wok",
+   "web": "http://www.facebook.com/Skyway-Wok-120366707974987/",
+   "phone": "(612) 673-9669",
+   "status": "OPERATIONAL",
+   "reviews": 438,
+   "maps": "https://maps.google.com/?cid=15788056065083253234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "30 7TH ST S",
+  "addr": "30 7th St S",
+  "hood": "Downtown West",
+  "lat": 44.97761,
+  "lon": -93.27306,
+  "names": [
+   [
+    "food",
+    "EVENT NETWORK LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "EVENT NETWORK LLC",
+    "date": "2026-07-23"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Aurora Restaurant & Bar",
+    "web": "https://www.marriott.com/en-us/hotels/mspcc-minneapolis-marriott-city-center/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 13,
+    "maps": "https://maps.google.com/?cid=9371148426939392318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Event Network, LLC",
+   "type": "Limited Liability Company (Foreign)",
+   "filed": "6/11/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=29bc06f6-0647-f011-9092-00155d01c440"
+  }
+ },
+ {
+  "key": "515 WASHINGTON AVE N",
+  "addr": "515 Washington Ave N",
+  "hood": "Downtown West",
+  "lat": 44.97834,
+  "lon": -93.26086,
+  "names": [
+   [
+    "food",
+    "J. KUMARI CHOCOLATE LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "J. KUMARI CHOCOLATE LLC",
+    "date": "2026-07-21"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "J. Kumari Chocolate",
+    "web": "",
+    "phone": "(612) 750-9343",
+    "status": "OPERATIONAL",
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=1392260290136924857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "NOLO's Kitchen & Bar",
+    "web": "http://noloskitchen.com/",
+    "phone": "(612) 800-6033",
+    "status": "OPERATIONAL",
+    "reviews": 1583,
+    "maps": "https://maps.google.com/?cid=8559209030804988447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "The Rooftop Bar",
+    "web": "http://www.rooftopbarmpls.com/",
+    "phone": "(612) 800-6033",
+    "status": "OPERATIONAL",
+    "reviews": 40,
+    "maps": "https://maps.google.com/?cid=1687577952487274887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "The Basement Bar",
+    "web": "https://www.basementbarmpls.com/",
+    "phone": "(612) 800-6033",
+    "status": "OPERATIONAL",
+    "reviews": 506,
+    "maps": "https://maps.google.com/?cid=16302283946338161136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "J. Kumari Chocolate",
+   "web": "",
+   "phone": "(612) 750-9343",
+   "status": "OPERATIONAL",
+   "reviews": 0,
+   "maps": "https://maps.google.com/?cid=1392260290136924857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "J. Kumari Chocolate, LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "3/2/2016",
+   "people": [
+    [
+     "Manager",
+     "JANEL SHARMA"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c69f9544-b7e0-e511-8166-00155d01c56d"
+  }
+ },
+ {
+  "key": "404 CEDAR AVE S",
+  "addr": "404 Cedar Ave S",
+  "hood": "Cedar Riverside",
+  "lat": 44.97001,
+  "lon": -93.24757,
+  "names": [
+   [
+    "food",
+    "PIZZA PLUS LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "PIZZA PLUS LLC",
+    "date": "2026-08-03"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Pizza Plus",
+    "web": "http://www.pizzaplusmpls.com/",
+    "phone": "(612) 200-8630",
+    "status": "OPERATIONAL",
+    "reviews": 13,
+    "maps": "https://maps.google.com/?cid=12217220472919218565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Pizza Plus",
+   "web": "http://www.pizzaplusmpls.com/",
+   "phone": "(612) 200-8630",
+   "status": "OPERATIONAL",
+   "reviews": 13,
+   "maps": "https://maps.google.com/?cid=12217220472919218565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Pizza Plus",
+   "type": "Assumed Name",
+   "filed": "9/3/2024",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3e7f259c-1c6a-ef11-9086-00155d32b947"
+  }
+ },
+ {
+  "key": "2103 WEST BROADWAY",
+  "addr": "2103 West Broadway",
+  "hood": "Willard - Hay",
+  "lat": 45.00302,
+  "lon": -93.30749,
+  "names": [
+   [
+    "food",
+    "MAGGIE'S FOOD FOR THE SOUL"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "MAGGIE'S FOOD FOR THE SOUL",
+    "date": "2026-08-06"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "K-Express",
+    "web": "",
+    "phone": "(612) 408-3083",
+    "status": "OPERATIONAL",
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=9484279405340388535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null
+ },
+ {
+  "key": "2937 PLEASANT AVE",
+  "addr": "2937 Pleasant Ave",
+  "hood": "Whittier",
+  "lat": 44.94933,
+  "lon": -93.28255,
+  "names": [
+   [
+    "food",
+    "KARMEL MARKET - CREMA"
+   ],
+   [
+    "food",
+    "KARMEL MARKET- FIESTA MEXICAN GRILL"
+   ],
+   [
+    "food",
+    "KARMEL MARKET - BOLO AROSTO"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "KARMEL MARKET - CREMA",
+    "date": "2026-08-10"
+   },
+   {
+    "name": "KARMEL MARKET- FIESTA MEXICAN GRILL",
+    "date": "2026-08-10"
+   },
+   {
+    "name": "KARMEL MARKET - BOLO AROSTO",
+    "date": "2026-09-11"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Iconos Gastro Cantina",
+    "web": "https://www.iconosgastrocantina.com/",
+    "phone": "(612) 822-2488",
+    "status": "OPERATIONAL",
+    "reviews": 615,
+    "maps": "https://maps.google.com/?cid=17067048863808636843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null
+ },
+ {
+  "key": "3722 CHICAGO AVE",
+  "addr": "3722 Chicago Ave",
+  "hood": "Central",
+  "lat": 44.93505,
+  "lon": -93.26289,
+  "names": [
+   [
+    "food",
+    "Y & A MEALS LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "Y & A MEALS LLC",
+    "date": "2026-08-11"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "City Food Studio",
+    "web": "http://cityfoodstudio.com/",
+    "phone": "(612) 299-1841",
+    "status": "OPERATIONAL",
+    "reviews": 11,
+    "maps": "https://maps.google.com/?cid=15653719497150563440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Wholesoul a Lavender & Sage Eatery",
+    "web": "http://www.wholesouleatery.com/",
+    "phone": "(952) 220-4491",
+    "status": "OPERATIONAL",
+    "reviews": 2,
+    "maps": "https://maps.google.com/?cid=5840064617950992391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Y&A Meals LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "3/4/2026",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=8ba478eb-2418-f111-909e-00155d01c440"
+  }
+ },
+ {
+  "key": "730 8TH ST S",
+  "addr": "730 8th St S",
+  "hood": "Elliot Park",
+  "lat": 44.97208,
+  "lon": -93.26244,
+  "names": [
+   [
+    "food",
+    "SUPERIOR QUALITY EXPERTISE LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "SUPERIOR QUALITY EXPERTISE LLC",
+    "date": "2026-08-11"
+   }
+  ],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "615 WASHINGTON AVE SE",
+  "addr": "615 Washington Ave SE",
+  "hood": "University Of Minnesota",
+  "lat": 44.97419,
+  "lon": -93.22952,
+  "names": [
+   [
+    "food",
+    "FOOSE FOODS LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "FOOSE FOODS LLC",
+    "date": "2026-08-13"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "The Beacon Public House",
+    "web": "https://www.hilton.com/en/hotels/mspgmgu-graduate-minneapolis/dining/",
+    "phone": "(612) 379-8888",
+    "status": "OPERATIONAL",
+    "reviews": 163,
+    "maps": "https://maps.google.com/?cid=15053874421063917365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "FOOSE FOODS LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "2/5/2026",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=d308f2b5-f502-f111-909c-00155d01c440"
+  }
+ },
+ {
+  "key": "337 WASHINGTON AVE N",
+  "addr": "337 Washington Ave N",
+  "hood": "North Loop",
+  "lat": 44.98431,
+  "lon": -93.27401,
+  "names": [
+   [
+    "food",
+    "MUSUBI CORP"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "MUSUBI CORP",
+    "date": "2026-07-21"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Ono Hawaiian Plates North Loop",
+    "web": "https://onohawaiianplates.com/",
+    "phone": "(612) 249-9316",
+    "status": "OPERATIONAL",
+    "reviews": 475,
+    "maps": "https://maps.google.com/?cid=10207132579316899327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Musubi Corp",
+   "type": "Business Corporation (Domestic)",
+   "filed": "6/23/2025",
+   "people": [
+    [
+     "Chief Executive Officer",
+     "Jessie Kelley"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=4b3d58c7-5850-f011-9093-00155d01c440"
+  }
+ },
+ {
+  "key": "1819 NICOLLET AVE",
+  "addr": "1819 Nicollet Ave",
+  "hood": "Steven'S Square - Loring Heights",
+  "lat": 44.96459,
+  "lon": -93.27744,
+  "names": [
+   [
+    "food",
+    "AROMA BAKERY & CATERING LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "AROMA BAKERY & CATERING LLC",
+    "date": "2026-08-18"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Kifway Eats",
+    "web": "http://kifwayeats.com/",
+    "phone": "(612) 584-3215",
+    "status": "CLOSED_TEMPORARILY",
+    "reviews": 42,
+    "maps": "https://maps.google.com/?cid=11448297969444485726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Aroma Bakery & Catering LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "3/26/2026",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=52f5ea1b-3329-f111-909f-00155d01c440"
+  }
+ },
+ {
+  "key": "1025 CURRIE AVE W",
+  "addr": "1025 Currie Ave W",
+  "hood": "Downtown West",
+  "lat": 44.97771,
+  "lon": -93.27997,
+  "names": [
+   [
+    "food",
+    "BOLE ETHIOPIAN CUISINE LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "BOLE ETHIOPIAN CUISINE LLC",
+    "date": "2026-08-24"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Currie Food Hall",
+    "web": "http://curriefoodhall.com/",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 90,
+    "maps": "https://maps.google.com/?cid=15823046924480213197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Bien Dorados",
+    "web": "https://biendorados.com/",
+    "phone": "(612) 655-4192",
+    "status": "OPERATIONAL",
+    "reviews": 71,
+    "maps": "https://maps.google.com/?cid=12702021097468208991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Crazy Potato",
+    "web": "http://www.namastebiryanimn.com/",
+    "phone": "(612) 688-7779",
+    "status": "OPERATIONAL",
+    "reviews": 19,
+    "maps": "https://maps.google.com/?cid=11240142607766347770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Los Larados",
+    "web": "https://loslaradostamales.org/",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 5,
+    "maps": "https://maps.google.com/?cid=9052303185785777331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "BOSS Burger N\u2019 Gyro",
+    "web": "https://www.bossburgerandgyro.com/",
+    "phone": "(612) 322-5130",
+    "status": "OPERATIONAL",
+    "reviews": 194,
+    "maps": "https://maps.google.com/?cid=9625008894435778485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null
+ },
+ {
+  "key": "3005 LYNDALE AVE S",
+  "addr": "3005 Lyndale Ave S",
+  "hood": "Lyndale",
+  "lat": 44.94812,
+  "lon": -93.28775,
+  "names": [
+   [
+    "food",
+    "HARAZ COFFEE HOUSE"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "HARAZ COFFEE HOUSE",
+    "date": "2026-08-25"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Haraz Coffee House",
+    "web": "https://harazcoffeehouse.com/",
+    "phone": "(612) 200-8476",
+    "status": "OPERATIONAL",
+    "reviews": 395,
+    "maps": "https://maps.google.com/?cid=17825764232396656659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Haraz Coffee House",
+   "web": "https://harazcoffeehouse.com/",
+   "phone": "(612) 200-8476",
+   "status": "OPERATIONAL",
+   "reviews": 395,
+   "maps": "https://maps.google.com/?cid=17825764232396656659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "HARAZ COFFEE HOUSE",
+   "type": "Assumed Name",
+   "filed": "4/28/2026",
+   "people": [
+    [
+     "Applicant",
+     "Applicant"
+    ],
+    [
+     "Applicant",
+     "Address"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=bc0900cc-3043-f111-90a2-00155d01c440"
+  }
+ },
+ {
+  "key": "322 LAKE ST W",
+  "addr": "322 Lake St W",
+  "hood": "Whittier",
+  "lat": null,
+  "lon": null,
+  "names": [
+   [
+    "food",
+    "FRESCHEZ DULCE ANTOJITOS LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "FRESCHEZ DULCE ANTOJITOS LLC",
+    "date": "2026-08-27"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Freschez",
+    "web": "",
+    "phone": "(815) 693-9320",
+    "status": "OPERATIONAL",
+    "reviews": 6,
+    "maps": "https://maps.google.com/?cid=2858060033167433401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Freschez",
+   "web": "",
+   "phone": "(815) 693-9320",
+   "status": "OPERATIONAL",
+   "reviews": 6,
+   "maps": "https://maps.google.com/?cid=2858060033167433401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Freschez dulce antojitos LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "3/17/2026",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=42f2c603-2022-f111-909f-00155d01c440"
+  }
+ },
+ {
+  "key": "3822 LAKE ST E",
+  "addr": "3822 Lake St E",
+  "hood": "Cooper",
+  "lat": 44.94859,
+  "lon": -93.21681,
+  "names": [
+   [
+    "food",
+    "DUCK DUCK - MPLS LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "DUCK DUCK - MPLS LLC",
+    "date": "2026-08-18"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Ducks on Lake Coffee Shop",
+    "web": "",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 14,
+    "maps": "https://maps.google.com/?cid=12290981302697467842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Duck Duck - MPLS, LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "8/27/2019",
+   "people": [
+    [
+     "Manager",
+     "Kathryn J Naden"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=cc395661-cbc8-e911-9162-00155d01c400"
+  }
+ },
+ {
+  "key": "330 2ND AVE S",
+  "addr": "330 2nd Ave S",
+  "hood": "Downtown West",
+  "lat": 44.97927,
+  "lon": -93.26702,
+  "names": [
+   [
+    "food",
+    "KONBU NORI LLC"
+   ],
+   [
+    "food",
+    "SUNDO FOODS USA LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "KONBU NORI LLC",
+    "date": "2026-07-22"
+   },
+   {
+    "name": "SUNDO FOODS USA LLC",
+    "date": "2026-09-15"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Konbu Nori",
+    "web": "https://www.instagram.com/konbu_nori/",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 16,
+    "maps": "https://maps.google.com/?cid=5676660906298853793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Savoure",
+    "web": "https://www.savourecafe.com/",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=1792637621862312148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Jalape\u00f1o Mexican Grill",
+    "web": "https://jalapenomn.com/",
+    "phone": "(612) 900-9211",
+    "status": "OPERATIONAL",
+    "reviews": 21,
+    "maps": "https://maps.google.com/?cid=3610684592707871626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Konbu Nori",
+   "web": "https://www.instagram.com/konbu_nori/",
+   "phone": "",
+   "status": "OPERATIONAL",
+   "reviews": 16,
+   "maps": "https://maps.google.com/?cid=5676660906298853793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Konbu Nori LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "11/6/2022",
+   "people": [
+    [
+     "Manager",
+     "Tuan Hoang"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=a326797c-165e-ed11-906b-00155d32b947"
+  }
+ },
+ {
+  "key": "3300 CHICAGO AVE",
+  "addr": "3300 Chicago Ave",
+  "hood": "Central",
+  "lat": 44.94301,
+  "lon": -93.263,
+  "names": [
+   [
+    "food",
+    "SOUTHSIDE HALAL MARKET LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "SOUTHSIDE HALAL MARKET LLC",
+    "date": "2026-09-03"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Southside Market and Deli",
+    "web": "",
+    "phone": "(612) 263-6102",
+    "status": "OPERATIONAL",
+    "reviews": 194,
+    "maps": "https://maps.google.com/?cid=5447837769244364839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Southside Market and Deli",
+   "web": "",
+   "phone": "(612) 263-6102",
+   "status": "OPERATIONAL",
+   "reviews": 194,
+   "maps": "https://maps.google.com/?cid=5447837769244364839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  }
+ },
+ {
+  "key": "501 30TH AVE SE",
+  "addr": "501 30th Ave SE",
+  "hood": "Prospect Park - East River Road",
+  "lat": 44.97277,
+  "lon": -93.2134,
+  "names": [
+   [
+    "food",
+    "TWIN CITIES PASTA CO"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "TWIN CITIES PASTA CO",
+    "date": "2026-09-03"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "The Market At Malcolm Yards",
+    "web": "https://www.malcolmyards.market/",
+    "phone": "(612) 886-1022",
+    "status": "OPERATIONAL",
+    "reviews": 2502,
+    "maps": "https://maps.google.com/?cid=11741434576171011703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Twin Cities Pasta Co.",
+   "type": "Business Corporation (Domestic)",
+   "filed": "5/16/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=16ea4113-7532-f011-9091-00155d01c440"
+  }
+ },
+ {
+  "key": "1316 4TH ST SE",
+  "addr": "1316 4th St SE",
+  "hood": "Marcy Holmes",
+  "lat": 44.98044,
+  "lon": -93.23657,
+  "names": [
+   [
+    "food",
+    "NORI & CO SUSHI LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "NORI & CO SUSHI LLC",
+    "date": "2026-08-13"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Nori & Co Sushi",
+    "web": "",
+    "phone": "(612) 886-5576",
+    "status": "OPERATIONAL",
+    "reviews": 31,
+    "maps": "https://maps.google.com/?cid=15489904187833699245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Nori & Co Sushi",
+   "web": "",
+   "phone": "(612) 886-5576",
+   "status": "OPERATIONAL",
+   "reviews": 31,
+   "maps": "https://maps.google.com/?cid=15489904187833699245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Nori & Co. Sushi LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "5/4/2026",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=f80a25e4-3048-f111-90a2-00155d01c440"
+  }
+ },
+ {
+  "key": "10 5TH ST S",
+  "addr": "10 5th St S",
+  "hood": "Downtown West",
+  "lat": 44.97969,
+  "lon": -93.27171,
+  "names": [
+   [
+    "food",
+    "TROPICO COLOMBIAN STREET FOOD LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "TROPICO COLOMBIAN STREET FOOD LLC",
+    "date": "2026-09-10"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Trieste Cafe",
+    "web": "https://www.facebook.com/Trieste-Cafe-261341535104/",
+    "phone": "(612) 333-4658",
+    "status": "OPERATIONAL",
+    "reviews": 439,
+    "maps": "https://maps.google.com/?cid=4807809421079146610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Tropico Colombian Street food LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "10/3/2023",
+   "people": [
+    [
+     "Manager",
+     "Tropico"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3f973502-0862-ee11-9077-00155d01c440"
+  }
+ },
+ {
+  "key": "2610 LYNDALE AVE S",
+  "addr": "2610 Lyndale Ave S",
+  "hood": "Lowry Hill East",
+  "lat": 44.9551,
+  "lon": -93.28847,
+  "names": [
+   [
+    "food",
+    "LA VIVANTE"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "LA VIVANTE",
+    "date": "2026-09-14"
+   }
+  ],
+  "inst": false,
+  "gp": null
+ },
+ {
+  "key": "1601 LAKE ST W",
+  "addr": "1601 Lake St W",
+  "hood": "East Bde Maka Ska",
+  "lat": 44.94807,
+  "lon": -93.30246,
+  "names": [
+   [
+    "food",
+    "NEISEN'S SPORTS BAR TWIN CITIES"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "NEISEN'S SPORTS BAR TWIN CITIES",
+    "date": "2026-09-21"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Tom\u2019s Thai",
+    "web": "https://www.tomsthaiusa.com/",
+    "phone": "(612) 446-3051",
+    "status": "OPERATIONAL",
+    "reviews": 43,
+    "maps": "https://maps.google.com/?cid=16744472408964652793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": null,
+  "sos": {
+   "entity": "Neisen's Sports Bar Twin Cities INC.",
+   "type": "Business Corporation (Domestic)",
+   "filed": "7/2/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3526e371-5557-f011-9093-00155d01c440"
+  }
+ },
+ {
+  "key": "920 LAKE ST E",
+  "addr": "920 Lake St E",
+  "hood": "Midtown Phillips",
+  "lat": 44.95029,
+  "lon": -93.26188,
+  "names": [
+   [
+    "food",
+    "TRIO PLANT-BASED CO"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "TRIO PLANT-BASED CO",
+    "date": "2026-09-23"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "Trio Plant- Based",
+    "web": "",
+    "phone": "(612) 446-3832",
+    "status": "OPERATIONAL",
+    "reviews": 924,
+    "maps": "https://maps.google.com/?cid=14389868254962826959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "The Kitchen by Baked Brand",
+    "web": "https://thekitchenmpls.wixsite.com/thekitchen",
+    "phone": "(612) 964-6932",
+    "status": "OPERATIONAL",
+    "reviews": 105,
+    "maps": "https://maps.google.com/?cid=6436901842507770376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Pham's Rice Bowl",
+    "web": "https://phamsricebowl.co/",
+    "phone": "(952) 698-1509",
+    "status": "OPERATIONAL",
+    "reviews": 133,
+    "maps": "https://maps.google.com/?cid=742677441818704223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Manny's Tortas",
+    "web": "http://www.mannystortas.com/",
+    "phone": "(612) 870-3930",
+    "status": "OPERATIONAL",
+    "reviews": 193,
+    "maps": "https://maps.google.com/?cid=8504748636592488387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   },
+   {
+    "name": "Savoro Deli Midtown | Mediterranean",
+    "web": "http://savorodelimn.com/",
+    "phone": "(612) 293-9756",
+    "status": "OPERATIONAL",
+    "reviews": 28,
+    "maps": "https://maps.google.com/?cid=6052174188062822764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "Trio Plant- Based",
+   "web": "",
+   "phone": "(612) 446-3832",
+   "status": "OPERATIONAL",
+   "reviews": 924,
+   "maps": "https://maps.google.com/?cid=14389868254962826959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Trio Plant - Based CO.",
+   "type": "Business Corporation (Domestic)",
+   "filed": "4/16/2024",
+   "people": [
+    [
+     "Chief Executive Officer",
+     "Louis B Hunter"
+    ]
+   ],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=bcc97689-01fc-ee11-9081-00155d01c440"
+  }
+ },
+ {
+  "key": "2304 PARK AVE",
+  "addr": "2304 Park Ave",
+  "hood": "Phillips West",
+  "lat": 44.95983,
+  "lon": -93.26581,
+  "names": [
+   [
+    "food",
+    "SOMA CAFE LLC"
+   ]
+  ],
+  "sig": [],
+  "permit": null,
+  "liq": [],
+  "food": [
+   {
+    "name": "SOMA CAFE LLC",
+    "date": "2026-09-23"
+   }
+  ],
+  "inst": false,
+  "g": [
+   {
+    "name": "SOMA Cafe",
+    "web": "",
+    "phone": "",
+    "status": "OPERATIONAL",
+    "reviews": 10,
+    "maps": "https://maps.google.com/?cid=17301526600632392117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+   }
+  ],
+  "gp": {
+   "name": "SOMA Cafe",
+   "web": "",
+   "phone": "",
+   "status": "OPERATIONAL",
+   "reviews": 10,
+   "maps": "https://maps.google.com/?cid=17301526600632392117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  "sos": {
+   "entity": "Soma Cafe LLC",
+   "type": "Limited Liability Company (Domestic)",
+   "filed": "8/21/2025",
+   "people": [],
+   "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=1f06d631-cd7e-f011-9095-00155d01c440"
+  }
+ }
+]

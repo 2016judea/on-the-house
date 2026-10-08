@@ -1,0 +1,116 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><script defer src="/_vercel/insights/script.js"></script><title>Small Research Teams, Twin Cities</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Inter+Tight:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{--bg:#f4f3ef;--panel:#e9e7e1;--ink:#1b1a17;--ink2:#3b3934;--muted:#6a675f;--rule:#d5d2ca;--accent:#2f5d50;--onaccent:#f4f3ef;--hot:#b4662a;--done:#8f8c84;--ghost:#c9c6bd;--water:#93aebb;--tagbg:#e4e1d9;--tagfg:#4b4842;--hotbg:#f1dfcd;--hotfg:#7e4416;--display:"Fraunces",Georgia,serif;--body:"Inter Tight",system-ui,sans-serif;--h1w:600; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#151513;--panel:#1d1d1a;--ink:#ebe9e3;--ink2:#c7c4bc;--muted:#928f86;--rule:#302f2b;--accent:#7cc2ae;--onaccent:#151513;--hot:#e39a5e;--done:#6c6a63;--ghost:#33322e;--water:#3e6170;--tagbg:#262622;--tagfg:#b5b2a9;--hotbg:#432b17;--hotfg:#f2c49a; color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#151513;--panel:#1d1d1a;--ink:#ebe9e3;--ink2:#c7c4bc;--muted:#928f86;--rule:#302f2b;--accent:#7cc2ae;--onaccent:#151513;--hot:#e39a5e;--done:#6c6a63;--ghost:#33322e;--water:#3e6170;--tagbg:#262622;--tagfg:#b5b2a9;--hotbg:#432b17;--hotfg:#f2c49a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:16px/1.5 var(--body);margin:0}
+.wrap{max-width:980px;margin:0 auto;padding-inline:16px;padding-block:28px 64px}
+.eyebrow{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+h1{font:var(--h1w) clamp(30px,6vw,50px)/1.05 var(--display);margin:10px 0 12px;text-wrap:balance;letter-spacing:-.01em;max-width:18ch}
+.lede{font-size:18px;max-width:60ch;margin:0;color:var(--ink2)}
+.lede b{color:var(--ink);font-weight:600}
+.stats{display:flex;flex-wrap:wrap;gap:10px 28px;margin:22px 0 6px;font-variant-numeric:tabular-nums}
+.stat b{display:block;font:600 26px/1.1 var(--display);color:var(--accent)}
+.stat span{font-size:13px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:1fr;gap:20px;margin-top:24px}
+@media(min-width:860px){.grid{grid-template-columns:340px 1fr;align-items:start}.mapbox{position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px)}}
+.mapbox{background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:12px}
+.mapbox svg{display:block;width:100%;height:auto}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted);margin-top:8px}
+.legend i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+.controls{display:flex;flex-direction:column;gap:10px;margin-bottom:12px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:500 13px/1 var(--body);border:1px solid var(--rule);background:var(--bg);color:var(--ink2);padding:8px 11px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--onaccent)}
+.chip:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.row2{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
+select,.btn{font:500 13px var(--body);color:var(--ink);background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:8px 10px}
+.btn{cursor:pointer;text-decoration:none;display:inline-block}
+.count{font:12px var(--mono);color:var(--muted)}
+ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+li{padding:14px 2px;border-top:1px solid var(--rule);display:grid;grid-template-columns:1fr auto;gap:2px 12px}
+li .a{font-weight:600;font-size:16px}
+li .m{grid-column:1/-1;font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 12px;font-variant-numeric:tabular-nums}
+li .w{grid-column:1/-1;font-size:14px;color:var(--ink2);margin:2px 0}
+.tag{font:500 11px/1 var(--mono);letter-spacing:.04em;text-transform:uppercase;padding:5px 7px;border-radius:4px;white-space:nowrap;align-self:start;background:var(--tagbg);color:var(--tagfg)}
+.tag.hot{background:var(--hotbg);color:var(--hotfg)}
+.more{margin:14px 0 0}
+.note{font-size:13px;color:var(--muted);max-width:65ch;margin-top:36px;border-top:1px solid var(--rule);padding-top:14px}
+.note p{margin:0 0 8px}
+.toast{font:12px var(--mono);color:var(--accent)}
+</style>
+</head><body><div class="wrap">
+  <div class="eyebrow">Made for Survhey · Twin Cities business listings · Oct 6, 2026</div>
+  <h1>14 small research shops in the Twin Cities</h1>
+  <p class="lede">You build questionnaires for small research teams. These are the independent research firms we can find in the Minneapolis–Saint Paul metro: <b>11 market research shops</b> and 3 evaluation and policy research groups, the kind that field surveys for clients and have to defend the numbers.</p>
+  <div class="stats" id="stats"></div>
+  <div class="grid">
+    <div class="mapbox"><svg id="map" viewBox="0 0 300 400" role="img" aria-label="Map of Minneapolis with each permit as a dot"></svg><div class="legend" id="legend"></div></div>
+    <div>
+      <div class="controls">
+        <div class="chips" id="chips"></div>
+        <div class="row2"><label class="count" for="sort">Sort <select id="sort"><option value="name">A to Z</option><option value="area">By area</option></select></label>
+          <span><span class="toast" id="toast" aria-live="polite"></span> <a class="btn" href="research-teams.csv" download>Download spreadsheet</a> <button class="btn" id="copy" type="button">Copy list</button></span></div>
+        <div class="count" id="count"></div>
+      </div>
+      <ol id="list"></ol>
+      <button class="btn more" id="more" type="button">Show more</button>
+    </div>
+  </div>
+  <div class="note"><p>Source: Overture Maps places (release 2026-08-19, CDLA-Permissive-2.0), joined to county parcels across the seven-county Twin Cities metro by Brick &amp; Mortar. Picked by hand from listings whose name and website say they do research for clients; medical and lab research is left out. We loaded every website on Oct 6, 2026 and kept only the ones that answered.</p><p>A listing says a business exists at that address. It does not say how big the team is or whether they are buying, so read their site before you write.</p><p>Free, from Aidan Jude at Brick &amp; Mortar (aidan@brickandmortar.dev). Nothing to sign up for. The rest of the data is at brickandmortar.dev.</p></div>
+</div>
+<script>
+const CFG={chipKey:"kind",chipOrder:["Market research", "Evaluation and policy research"],river:[[45.052, -93.2885], [45.03, -93.2805], [45.012, -93.2745], [44.998, -93.2685], [44.988, -93.2625], [44.9815, -93.2575], [44.977, -93.2475], [44.972, -93.2385], [44.967, -93.2295], [44.962, -93.2225], [44.953, -93.2065], [44.946, -93.2005], [44.935, -93.2005], [44.917, -93.2035], [44.905, -93.1995], [44.889, -93.1935]],home:null,stats:[["14", "research shops"], ["11", "market research"], ["3", "evaluation and policy"]],
+ legend:[["var(--accent)", "Market research"], ["var(--hot)", "Evaluation and policy research"]],
+ color:r=>r.kind==="Market research"?"var(--accent)":"var(--hot)",
+ tag:r=>`<span class="tag">${r.area}</span>`,
+ meta:r=>[r.kind,r.web.replace(/^https?:\/\/(www\.)?/i,"").replace(/\/$/,""),r.phone],
+ sorts:{name:r=>r.sort((a,b)=>a.addr.localeCompare(b.addr)),area:r=>r.sort((a,b)=>a.area.localeCompare(b.area)||a.addr.localeCompare(b.addr))},
+ cols:[["addr", "Business"], ["kind", "Kind"], ["what", "Address"], ["area", "Area"], ["web", "Website"], ["phone", "Phone"]]};
+const ROWS=[{"addr":"Modern Survey","what":"1209 Tyler St NE, Minneapolis","web":"http://www.modernsurvey.com","phone":"(866) 876-8242","city":"Minneapolis","area":"Minneapolis","kind":"Market research","lat":45.000336,"lon":-93.245544,"cat":"corporate_office","live":true},{"addr":"Ascendancy Research","what":"5775 Wayzata Blvd, St Louis Park","web":"http://www.ascendresearch.com/","phone":"+19525446334","city":"St Louis Park","area":"Suburbs","kind":"Market research","lat":44.968746,"lon":-93.354019,"cat":"marketing_consultant","live":true},{"addr":"Rainbow Research Inc","what":"621 W Lake St  Ste 300, Minneapolis","web":"https://www.rainbowresearch.org","phone":"16129983545","city":"Minneapolis","area":"Minneapolis","kind":"Evaluation and policy research","lat":44.948238,"lon":-93.287895,"cat":"charity_organization","live":true},{"addr":"SMS Research Advisors","what":"1101 W River Pkwy Ste 400, Minneapolis","web":"http://smsresearch.com","phone":"(612) 455-1784","city":"Minneapolis","area":"Minneapolis","kind":"Market research","lat":44.977196,"lon":-93.250938,"cat":"advertising_agency","live":true},{"addr":"Deft Research","what":"333 7th St S, Minneapolis","web":"http://www.deftresearch.com/","phone":"+16124368310","city":"Minneapolis","area":"Minneapolis","kind":"Market research","lat":44.974136,"lon":-93.267426,"cat":"marketing_consultant","live":true},{"addr":"Insightformation","what":"10700 Hwy 55 #135, Plymouth","web":"http://WWW.INSIGHTFORMATION.COM/","phone":"+17635214599","city":"Plymouth","area":"Suburbs","kind":"Market research","lat":44.987415,"lon":-93.416321,"cat":"professional_services","live":true},{"addr":"Comprehensive Research Group","what":"2520 Broadway St NE, Minneapolis","web":"http://crginc.org/","phone":"+16127813400","city":"Minneapolis","area":"Minneapolis","kind":"Market research","lat":44.998081,"lon":-93.224609,"cat":"marketing_consultant","live":true},{"addr":"Applied Policy Research Inc","what":"10 2nd St NE, Minneapolis","web":"http://www.apr-net.com/","phone":"6126170094","city":"Minneapolis","area":"Minneapolis","kind":"Evaluation and policy research","lat":44.987499,"lon":-93.258713,"cat":"educational_services","live":true},{"addr":"REAL Insight","what":"807 Broadway St NE Suite 130, Minneapolis","web":"http://real-insight.us/","phone":"+16127677616","city":"Minneapolis","area":"Minneapolis","kind":"Market research","lat":44.999584,"lon":-93.250282,"cat":"marketing_consultant","live":true},{"addr":"Leede Research-MN","what":"5353 Gamble Dr #150, St Louis Park","web":"https://leedemn.com/","phone":"+16123144400","city":"St Louis Park","area":"Suburbs","kind":"Market research","lat":44.964745,"lon":-93.347809,"cat":"marketing_consultant","live":true},{"addr":"Watson Research","what":"2925 Dean Pkwy Ste 300, Minneapolis","web":"http://watsonresearch.com","phone":"(612) 925-8367","city":"Minneapolis","area":"Minneapolis","kind":"Market research","lat":44.949783,"lon":-93.315331,"cat":"advertising_agency","live":true},{"addr":"Minnesota Justice Research Center","what":"2355 Fairview Ave N PMB 262, Roseville","web":"http://mnjrc.org","phone":"6513379255","city":"Roseville","area":"Suburbs","kind":"Evaluation and policy research","lat":45.011875,"lon":-93.177666,"cat":"research_institute","live":true},{"addr":"ANA Research / Anderson, Niebuhr & Associates, Inc.","what":"5155 E River Rd, Fridley","web":"http://www.ana-inc.com/","phone":"+18006785577","city":"Fridley","area":"Suburbs","kind":"Market research","lat":45.06181,"lon":-93.280098,"cat":"marketing_consultant","live":true},{"addr":"Mcneff Research Consultants","what":"617 Pierce St, Anoka","web":"http://mcneffresearchconsultants.com","phone":"17634322743","city":"Anoka","area":"Suburbs","kind":"Market research","lat":45.205906,"lon":-93.379776,"cat":"research_institute","live":true}];
+const $=id=>document.getElementById(id);
+let sel=null,shown=40;
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=d=>d?new Date(d+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"}):"";
+// stats
+$("stats").innerHTML=CFG.stats.map(s=>`<div class="stat"><b>${s[0]}</b><span>${s[1]}</span></div>`).join("");
+// chips
+const groups=[...new Set(ROWS.map(r=>r[CFG.chipKey]))].sort((a,b)=>CFG.chipOrder.indexOf(a)-CFG.chipOrder.indexOf(b));
+function chips(){$("chips").innerHTML=[["All",ROWS.length],...groups.map(g=>[g,ROWS.filter(r=>r[CFG.chipKey]===g).length])].map(([g,n])=>`<button class="chip" type="button" data-g="${esc(g)}" aria-pressed="${(g==="All"&&!sel)||g===sel}">${esc(g)} · ${n}</button>`).join("")}
+$("chips").onclick=e=>{const b=e.target.closest(".chip");if(!b)return;sel=b.dataset.g==="All"?null:b.dataset.g;shown=40;chips();render()};
+// map
+const lat=ROWS.map(r=>r.lat),lon=ROWS.map(r=>r.lon);
+const B={n:45.052,s:44.889,w:-93.33,e:-93.193};
+const kx=Math.cos(44.97*Math.PI/180);
+const W=300,H=Math.round(W*(B.n-B.s)/((B.e-B.w)*kx));
+$("map").setAttribute("viewBox",`0 0 ${W} ${H}`);
+const px=r=>[(r.lon-B.w)/(B.e-B.w)*W,(B.n-r.lat)/(B.n-B.s)*H];
+function map(rows){
+  let s=`<rect width="${W}" height="${H}" fill="var(--panel)"/>`;
+  // river, hand-traced from the Mississippi's course through the city
+  s+=`<polyline points="${CFG.river.map(p=>px({lat:p[0],lon:p[1]}).map(v=>v.toFixed(1)).join(",")).join(" ")}" fill="none" stroke="var(--water)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>`;
+  s+=ROWS.map(r=>{const [x,y]=px(r);const on=rows.includes(r);return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${on?2.6:1.6}" fill="${on?CFG.color(r):"var(--ghost)"}" opacity="${on?.9:.5}"/>`}).join("");
+  if(CFG.home&&CFG.home.inMap){const [x,y]=px(CFG.home);s+=`<g><rect x="${x-5}" y="${y-5}" width="10" height="10" fill="var(--bg)" stroke="var(--ink)" stroke-width="2"/><text x="${x+9}" y="${y+4}" font-size="11" font-weight="600" fill="var(--ink)" font-family="var(--body)">${esc(CFG.home.label)}</text></g>`}
+  if(CFG.home&&!CFG.home.inMap){s+=`<text x="${W/2}" y="${H-8}" text-anchor="middle" font-size="11" fill="var(--muted)" font-family="var(--body)">${esc(CFG.home.label)}</text>`}
+  $("map").innerHTML=s;
+}
+$("legend").innerHTML=CFG.legend.map(([c,l])=>`<span><i style="background:${c}"></i>${esc(l)}</span>`).join("");
+function filtered(){let r=ROWS.filter(x=>!sel||x[CFG.chipKey]===sel);const k=$("sort").value;return CFG.sorts[k](r.slice())}
+function render(){
+  const rows=filtered();map(rows);
+  $("count").textContent=`Showing ${Math.min(shown,rows.length)} of ${rows.length}`;
+  $("list").innerHTML=rows.slice(0,shown).map(r=>`<li><span class="a">${esc(r.addr)}</span>${CFG.tag(r)}<span class="w">${esc(r.what||"No description on the permit")}</span><span class="m">${CFG.meta(r).filter(Boolean).map(esc).map(x=>`<span>${x}</span>`).join("")}</span></li>`).join("");
+  $("more").hidden=shown>=rows.length;
+}
+$("more").onclick=()=>{shown+=60;render()};
+$("sort").onchange=()=>{shown=40;render()};
+$("copy").onclick=async()=>{
+  const rows=filtered();const t=[CFG.cols.map(c=>c[1]).join("\t"),...rows.map(r=>CFG.cols.map(c=>String(r[c[0]]??"").replace(/\t|\n/g," ")).join("\t"))].join("\n");
+  try{await navigator.clipboard.writeText(t);$("toast").textContent=`Copied ${rows.length} rows`}catch(e){const ta=document.createElement("textarea");ta.value=t;document.body.appendChild(ta);ta.select();try{document.execCommand("copy");$("toast").textContent=`Copied ${rows.length} rows`}catch(_){$("toast").textContent="Copy blocked here"}ta.remove()}
+};
+chips();render();
+</script>
+</body></html>

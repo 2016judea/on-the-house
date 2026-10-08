@@ -1,0 +1,649 @@
+{
+ "1 49TH ST W": [],
+ "1100 2ND ST S": [
+  {
+   "formattedAddress": "1100 S 2nd St, Minneapolis, MN 55415, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=10385874209070337652&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://jujubempls.com/",
+   "businessStatus": "CLOSED_TEMPORARILY",
+   "displayName": {
+    "text": "Jujube",
+    "languageCode": "en"
+   },
+   "primaryType": "barbecue_restaurant"
+  }
+ ],
+ "1101 HENNEPIN AVE": [
+  {
+   "nationalPhoneNumber": "(612) 338-3030",
+   "formattedAddress": "1113 Hennepin Ave, Minneapolis, MN 55403, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=14232862510871949700&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 1190,
+   "displayName": {
+    "text": "Domino's Pizza",
+    "languageCode": "en"
+   },
+   "primaryType": "pizza_delivery"
+  },
+  {
+   "nationalPhoneNumber": "(612) 800-0088",
+   "formattedAddress": "1101 Hennepin Ave, Minneapolis, MN 55403, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=1124547079112238453&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://locations.pizzahut.com/mn/minneapolis/1101-hennepin-ave?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=310798",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 990,
+   "displayName": {
+    "text": "Pizza Hut",
+    "languageCode": "en"
+   },
+   "primaryType": "pizza_delivery"
+  },
+  {
+   "nationalPhoneNumber": "(612) 339-0638",
+   "formattedAddress": "1111 Hennepin Ave, Minneapolis, MN 55403, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=1955021643853201443&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://thebulldogdowntown.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 573,
+   "displayName": {
+    "text": "The Bulldog Downtown",
+    "languageCode": "en"
+   },
+   "primaryType": "bar_and_grill"
+  }
+ ],
+ "111 26TH ST E": [
+  {
+   "formattedAddress": "111 E 26th St, Minneapolis, MN 55404, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=10653980949710386580&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.eatstreetcoffee.com/",
+   "businessStatus": "OPERATIONAL",
+   "displayName": {
+    "text": "Eat Street Coffee",
+    "languageCode": "en"
+   },
+   "primaryType": "coffee_shop"
+  }
+ ],
+ "117 14TH AVE NE": [
+  {
+   "nationalPhoneNumber": "(612) 489-8012",
+   "formattedAddress": "117 14th Ave NE, Minneapolis, MN 55413, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=5477662484212613561&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://dianesplacemn.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 1370,
+   "displayName": {
+    "text": "Diane's Place",
+    "languageCode": "en"
+   },
+   "primaryType": "asian_restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 314-9167",
+   "formattedAddress": "1401 Marshall St NE Suite 120, Minneapolis, MN 55413, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=2959306264952439804&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://bakersfieldflour.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 34,
+   "displayName": {
+    "text": "Baker's Field Flour & Bread",
+    "languageCode": "en"
+   },
+   "primaryType": "manufacturer"
+  }
+ ],
+ "117 LAKE ST W": [
+  {
+   "formattedAddress": "123 W Lake St, Minneapolis, MN 55408, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=16247875314707303799&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "displayName": {
+    "text": "ARWA RESTAURANT & CAFE CO.",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  }
+ ],
+ "1301 2ND AVE S": [],
+ "1301 WEST BROADWAY": [
+  {
+   "nationalPhoneNumber": "(612) 584-3175",
+   "formattedAddress": "1301 W Broadway, Minneapolis, MN 55411, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=5798307796960421930&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.popeyes.com/store-locator/store/restaurant_84728",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 1274,
+   "displayName": {
+    "text": "Popeyes Louisiana Kitchen",
+    "languageCode": "en"
+   },
+   "primaryType": "chicken_restaurant"
+  }
+ ],
+ "1308 4TH ST SE": [
+  {
+   "nationalPhoneNumber": "(612) 886-5576",
+   "formattedAddress": "1316 4th St SE Ste 7, Minneapolis, MN 55414, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=15489904187833699245&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 31,
+   "displayName": {
+    "text": "Nori & Co Sushi",
+    "languageCode": "en"
+   },
+   "primaryType": "sushi_restaurant"
+  }
+ ],
+ "1500 44TH AVE N": [
+  {
+   "nationalPhoneNumber": "(612) 702-0407",
+   "formattedAddress": "1500 N 44th Ave, Minneapolis, MN 55412, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=2751712707037920939&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://getdowncoffee.com/",
+   "businessStatus": "CLOSED_TEMPORARILY",
+   "userRatingCount": 361,
+   "displayName": {
+    "text": "The Get Down Coffee Co.",
+    "languageCode": "en"
+   },
+   "primaryType": "coffee_shop"
+  }
+ ],
+ "165 13TH AVE NE": [
+  {
+   "nationalPhoneNumber": "(612) 749-6051",
+   "formattedAddress": "1300 NE 2nd St, Minneapolis, MN 55413, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=2201805630606529683&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.vinaimn.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 536,
+   "displayName": {
+    "text": "Vinai",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 248-8902",
+   "formattedAddress": "1304 NE 2nd St, Minneapolis, MN 55413, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=5221869352942532935&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.stargazermpls.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 208,
+   "displayName": {
+    "text": "Stargazer",
+    "languageCode": "en"
+   },
+   "primaryType": "cocktail_bar"
+  },
+  {
+   "nationalPhoneNumber": "(763) 313-1688",
+   "formattedAddress": "1306 NE 2nd St, Minneapolis, MN 55413, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=12448617458706570546&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.facebook.com/Matchbox-Coffeeshop-10150129865445346/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 279,
+   "displayName": {
+    "text": "Matchbox Coffee Shop",
+    "languageCode": "en"
+   },
+   "primaryType": "coffee_shop"
+  },
+  {
+   "nationalPhoneNumber": "(612) 400-8189",
+   "formattedAddress": "165 13th Ave NE, Minneapolis, MN 55413, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=14536753683639240331&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.saffronmpls.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 73,
+   "displayName": {
+    "text": "Saffron Restaurant",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 248-8902",
+   "formattedAddress": "1304 NE 2nd St, Minneapolis, MN 55413, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=15977088838015907654&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.stellineitaliankitchen.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 5,
+   "displayName": {
+    "text": "Stelline Italian Kitchen",
+    "languageCode": "en"
+   },
+   "primaryType": "italian_restaurant"
+  }
+ ],
+ "1433 FRANKLIN AVE E": [
+  {
+   "nationalPhoneNumber": "(612) 552-5218",
+   "formattedAddress": "1433 E Franklin Ave #25A, Minneapolis, MN 55404, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=17943704795942752136&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.zeytunmn.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 45,
+   "displayName": {
+    "text": "ZEYTUN",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  }
+ ],
+ "1501 WASHINGTON AVE S": [],
+ "1816 NICOLLET AVE": [
+  {
+   "nationalPhoneNumber": "(612) 236-4576",
+   "formattedAddress": "1812 Nicollet Ave, Minneapolis, MN 55403, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=1085230409279656948&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 156,
+   "displayName": {
+    "text": "Olive Kitchen",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 236-4576",
+   "formattedAddress": "1812 Nicollet Ave, Minneapolis, MN 55403, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=2248931776327977166&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 7,
+   "displayName": {
+    "text": "Paradise Restaurant and Cafe",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  }
+ ],
+ "1830 GLENWOOD AVE": [],
+ "1836 38TH ST E": [],
+ "2113 CHICAGO AVE": [],
+ "2000 PORTLAND AVE": [],
+ "200 WEST BROADWAY": [
+  {
+   "formattedAddress": "200 W Broadway, Minneapolis, MN 55411, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=5016823126597351978&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 16,
+   "displayName": {
+    "text": "River City Tavern",
+    "languageCode": "en"
+   },
+   "primaryType": "bar"
+  }
+ ],
+ "2635 NICOLLET AVE": [],
+ "2710 NICOLLET AVE": [
+  {
+   "nationalPhoneNumber": "(612) 208-0262",
+   "formattedAddress": "2710 Nicollet Ave, Minneapolis, MN 55408, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=12582191674404722375&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.dumplingeaterympls.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 76,
+   "displayName": {
+    "text": "Dumpling Eatery",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  }
+ ],
+ "2600 25TH ST E": [],
+ "3042 NICOLLET AVE": [
+  {
+   "nationalPhoneNumber": "(507) 613-8913",
+   "formattedAddress": "3030 Nicollet Ave, Minneapolis, MN 55408, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=17432320781908283329&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "CLOSED_TEMPORARILY",
+   "userRatingCount": 7,
+   "displayName": {
+    "text": "Abu bilal halal food truck",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  }
+ ],
+ "3101 42ND ST E": [
+  {
+   "nationalPhoneNumber": "(612) 688-2052",
+   "formattedAddress": "3101 E 42nd St, Minneapolis, MN 55406, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=15205010968607933137&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://billsbaitshop.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 108,
+   "displayName": {
+    "text": "Bill's Bait Shop",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  }
+ ],
+ "2814 43RD ST W": [
+  {
+   "nationalPhoneNumber": "(612) 345-7892",
+   "formattedAddress": "2814 W 43rd St, Minneapolis, MN 55410, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=6265272904921128784&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://jones.coffee/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 140,
+   "displayName": {
+    "text": "Jones Coffee - Linden Hills",
+    "languageCode": "en"
+   },
+   "primaryType": "coffee_shop"
+  },
+  {
+   "nationalPhoneNumber": "(612) 276-5061",
+   "formattedAddress": "2812 W 43rd St, Minneapolis, MN 55410, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=6980474478879286042&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://naviyas.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 673,
+   "displayName": {
+    "text": "Naviya's Thai Kitchen",
+    "languageCode": "en"
+   },
+   "primaryType": "thai_restaurant"
+  }
+ ],
+ "3055 CENTRAL AVE NE": [
+  {
+   "nationalPhoneNumber": "(612) 481-3306",
+   "formattedAddress": "3055 Central Ave NE, Minneapolis, MN 55418, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=15050568647117477819&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 1,
+   "displayName": {
+    "text": "The Tana House",
+    "languageCode": "en"
+   },
+   "primaryType": "western_restaurant"
+  }
+ ],
+ "3231 CENTRAL AVE NE": [],
+ "324 6TH AVE N": [
+  {
+   "nationalPhoneNumber": "(612) 446-3802",
+   "formattedAddress": "324 N 6th Ave, Minneapolis, MN 55401, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=16482590648189885443&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 155,
+   "displayName": {
+    "text": "Killens Irish Pub",
+    "languageCode": "en"
+   },
+   "primaryType": "irish_pub"
+  }
+ ],
+ "3700 34TH ST E": [
+  {
+   "formattedAddress": "3708 E 34th St, Minneapolis, MN 55406, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=1627786028897435336&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.shepherdstablemn.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 84,
+   "displayName": {
+    "text": "Shepherds Table MN",
+    "languageCode": "en"
+   },
+   "primaryType": "cafe"
+  }
+ ],
+ "3751 17TH AVE S": [],
+ "403 LAKE ST E": [],
+ "412 CEDAR LAKE RD S": [
+  {
+   "nationalPhoneNumber": "(612) 377-5501",
+   "formattedAddress": "404 Cedar Lake Rd S, Minneapolis, MN 55405, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=12990918615927600212&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://www.thebmpd.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 294,
+   "displayName": {
+    "text": "Bryn Mawr Pizza & Deli",
+    "languageCode": "en"
+   },
+   "primaryType": "pizza_restaurant"
+  }
+ ],
+ "4312 UPTON AVE S": [
+  {
+   "nationalPhoneNumber": "(612) 922-9913",
+   "formattedAddress": "4312 Upton Ave S, Minneapolis, MN 55410, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=7648539650308424048&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://www.martinarestaurant.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 2097,
+   "displayName": {
+    "text": "Martina",
+    "languageCode": "en"
+   },
+   "primaryType": "argentinian_restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 345-5494",
+   "formattedAddress": "2811 W 43rd St, Minneapolis, MN 55410, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=4722536781117343676&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.rosaliapizza.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 745,
+   "displayName": {
+    "text": "Rosalia Pizza Linden Hills",
+    "languageCode": "en"
+   },
+   "primaryType": "pizza_restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 328-9267",
+   "formattedAddress": "4304 Upton Ave S, Minneapolis, MN 55410, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=6097746823982251568&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://www.leburger4304.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 567,
+   "displayName": {
+    "text": "Le Burger 4304",
+    "languageCode": "en"
+   },
+   "primaryType": "hamburger_restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 929-2899",
+   "formattedAddress": "4314 Upton Ave S, Minneapolis, MN 55410, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=2122813231835282961&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://www.greatharvestminneapolis.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 222,
+   "displayName": {
+    "text": "Great Harvest Bread Co.",
+    "languageCode": "en"
+   },
+   "primaryType": "bakery"
+  }
+ ],
+ "4461 MINNEHAHA AVE": [
+  {
+   "nationalPhoneNumber": "(612) 452-6575",
+   "formattedAddress": "4461 Minnehaha Ave, Minneapolis, MN 55406, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=5623083881183707356&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://mixedculturebrewing.com/",
+   "businessStatus": "OPERATIONAL",
+   "displayName": {
+    "text": "Mixed Culture Brewing Co.",
+    "languageCode": "en"
+   },
+   "primaryType": "brewery"
+  }
+ ],
+ "5400 PENN AVE S": [
+  {
+   "nationalPhoneNumber": "(612) 886-1606",
+   "formattedAddress": "5400 Penn Ave S, Minneapolis, MN 55419, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=9996496363596504891&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.colitampls.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 1718,
+   "displayName": {
+    "text": "Colita",
+    "languageCode": "en"
+   },
+   "primaryType": "mexican_restaurant"
+  }
+ ],
+ "6031 PILLSBURY AVE": [
+  {
+   "formattedAddress": "6031 Pillsbury Ave, Minneapolis, MN 55419, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=13929320886050929534&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "displayName": {
+    "text": "Little Ben Food Truck",
+    "languageCode": "en"
+   },
+   "primaryType": "brewery"
+  }
+ ],
+ "800 NICOLLET MALL #240": [],
+ "912 24TH ST E": [
+  {
+   "nationalPhoneNumber": "(612) 345-4812",
+   "formattedAddress": "912 E 24th St Unit A121, Minneapolis, MN 55404, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=8863107223332792560&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 2,
+   "displayName": {
+    "text": "derisuroon restaurant",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 870-2992",
+   "formattedAddress": "912 E 24th St, Minneapolis, MN 55404, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=8993433332862380777&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://www.sahanrestaurant.ca/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 7,
+   "displayName": {
+    "text": "Sahan Restaurant",
+    "languageCode": "en"
+   },
+   "primaryType": "fast_food_restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(612) 354-3449",
+   "formattedAddress": "912 E 24th St # B131, Minneapolis, MN 55404, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=11692718853075628911&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 14,
+   "displayName": {
+    "text": "Royal Restaurant inside 24 mall",
+    "languageCode": "en"
+   },
+   "primaryType": "restaurant"
+  }
+ ],
+ "630 8TH ST SE": [],
+ "90 7TH ST S": [],
+ "901 14TH AVE NE": [],
+ "219 MAIN ST SE": [],
+ "220 LOWRY AVE NE": [
+  {
+   "nationalPhoneNumber": "(612) 208-0057",
+   "formattedAddress": "220 NE Lowry Ave, Minneapolis, MN 55418, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=15964029145742886965&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://www.umamicuisinemn.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 41,
+   "displayName": {
+    "text": "Umami Sushi & Chinese Cuisine",
+    "languageCode": "en"
+   },
+   "primaryType": "chinese_restaurant"
+  }
+ ],
+ "4600 NICOLLET AVE": [
+  {
+   "nationalPhoneNumber": "(763) 298-9195",
+   "formattedAddress": "4606 Nicollet Ave, Minneapolis, MN 55419, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=14518838983444158673&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://locations.cariboucoffee.com/us/mn/minneapolis/4606-nicollet-avenue-south",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 466,
+   "displayName": {
+    "text": "Caribou Coffee",
+    "languageCode": "en"
+   },
+   "primaryType": "coffee_shop"
+  },
+  {
+   "nationalPhoneNumber": "(612) 827-0505",
+   "formattedAddress": "4610 Nicollet Ave, Minneapolis, MN 55419, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=6828886400572029626&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.freshwokchinese.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 585,
+   "displayName": {
+    "text": "Fresh Wok",
+    "languageCode": "en"
+   },
+   "primaryType": "chinese_restaurant"
+  },
+  {
+   "formattedAddress": "4600 Nicollet Ave, Minneapolis, MN 55419, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=10916973323060053433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://evergreencafemn.com/",
+   "businessStatus": "OPERATIONAL",
+   "displayName": {
+    "text": "Evergreen Caf\u00e9",
+    "languageCode": "en"
+   },
+   "primaryType": "bakery"
+  }
+ ],
+ "622 WASHINGTON AVE SE": [
+  {
+   "nationalPhoneNumber": "(612) 254-8404",
+   "formattedAddress": "620 Washington Ave SE, Minneapolis, MN 55414, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=5422188981268156015&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://www.dunkindonuts.com/locations/us/mn/minneapolis/620-washington-ave-se/store-365066/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=365066&y_source=1_MTA3Nzk5OTI4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 66,
+   "displayName": {
+    "text": "Dunkin'",
+    "languageCode": "en"
+   },
+   "primaryType": "coffee_shop"
+  },
+  {
+   "nationalPhoneNumber": "(612) 337-1960",
+   "formattedAddress": "614 Washington Ave SE, Minneapolis, MN 55414, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=4830718294193686443&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "https://roti.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 320,
+   "displayName": {
+    "text": "Roti Mediterranean Bowls. Salads. Wraps",
+    "languageCode": "en"
+   },
+   "primaryType": "mediterranean_restaurant"
+  },
+  {
+   "nationalPhoneNumber": "(507) 954-8695",
+   "formattedAddress": "622 Washington Ave SE, Minneapolis, MN 55414, USA",
+   "googleMapsUri": "https://maps.google.com/?cid=4256572573891811968&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+   "websiteUri": "http://cava.com/",
+   "businessStatus": "OPERATIONAL",
+   "userRatingCount": 44,
+   "displayName": {
+    "text": "CAVA",
+    "languageCode": "en"
+   },
+   "primaryType": "mediterranean_restaurant"
+  }
+ ]
+}
