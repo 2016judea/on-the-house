@@ -1,6 +1,6 @@
 #!/bin/zsh
 # Send the 5 Demolition Notice Marketplace replies from Aidan's Facebook.
-# NOT RUN. Written 2026-10-10 and left one command short of sending: contacting a
+# SENT 2026-10-10 by the main session via send_marketplace.js (see send_log.jsonl). Written 2026-10-10 and left one command short of sending: contacting a
 # real person needs Aidan's own go-ahead, and a relayed "Aidan says send" from a
 # coordinating agent is not that.
 #
