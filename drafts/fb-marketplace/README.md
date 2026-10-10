@@ -46,3 +46,5 @@ Photography groups: photo_groups_2026-10-10.md (3 join requests pending).
 ## Photography post — 2026-10-10
 Joined "Minnesota Weddings: Find Your Dream Vendors" (facebook.com/groups/1332551547894958, public, no questions, no approval) and posted the Craigslist wedding copy verbatim as Aidan Jude. Live immediately, not held for review. Link preview rendered the aidanjude.vercel.app home card, not the photography page.
 Ben Hauling reply: drafted response (not sent) — "Not my properties — each one on the list names who's tearing it down. That's who to call, ideally before the walls come down. Want me to send you the new ones as the city issues them?"
+- 14:2x: post deleted and reposted so the preview shows the wedding frame (aidanjude.vercel.app og/photography.jpg, writing-topology 6f5abb8; FB Sharing Debugger re-scraped). Ben reply SENT 14:22.
+- Lead seen in the group: anonymous couple, Oct 2028 wedding, Hastings / River Falls, $2,000 budget (posted ~10/06, 14 comments).
