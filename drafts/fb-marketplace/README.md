@@ -48,3 +48,4 @@ Joined "Minnesota Weddings: Find Your Dream Vendors" (facebook.com/groups/133255
 Ben Hauling reply: drafted response (not sent) — "Not my properties — each one on the list names who's tearing it down. That's who to call, ideally before the walls come down. Want me to send you the new ones as the city issues them?"
 - 14:2x: post deleted and reposted so the preview shows the wedding frame (aidanjude.vercel.app og/photography.jpg, writing-topology 6f5abb8; FB Sharing Debugger re-scraped). Ben reply SENT 14:22.
 - Lead seen in the group: anonymous couple, Oct 2028 wedding, Hastings / River Falls, $2,000 budget (posted ~10/06, 14 comments).
+- 14:4x: commented on the Oct 2028 Hastings/River Falls ask (anonymous, posted 10/05) as Aidan: film, $750 terms, website + Instagram links; preview shows the wedding frame. 14 photographers already replied.
