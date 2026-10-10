@@ -33,3 +33,6 @@ Groups that take service posts (all public unless noted, members · posts/day):
 
 ## Demolition Notice gifts, 2026-10-10
 5 pages, one per salvage seller, cut by trade from the Minneapolis wrecking-permit feed: demolition-notice.vercel.app/for/{5735d7d6 Jeff, 798faff6 Ben, 978feaee Matt, 778cec14 Marcia, ca8ff007 Sarah}/ (scrapwatch `scripts/build_gifts.mjs`). Messages drafted in `tokens_demolition.csv`, **NOT SENT**: run `zsh send_demolition.sh` (headless, port 9491, ~60s pacing, writes sent_at) once Aidan says send himself. Follow-up 10/17 in ~/.claude/pending.json.
+
+## 2026-10-10 kitchen-trade gifts (8 pages, drafts only)
+8 pages at brickandmortar.dev/for/<token>/ (tokens.csv), each framed for the seller's trade, rendered by pipeline/permits/fbm_render.py from permits + the city's new truck/caterer/grocery licences (fbm_pull.py). D&B: one message, sent via Steve DeRuyck's listing; Joel Hops skipped as the same business. Messages are in messages_restaurant.json. The coordinator session sends them; sent_at stays blank until it does.

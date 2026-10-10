@@ -1,0 +1,986 @@
+{
+ "latest": "2026-09-29",
+ "rows": [
+  {
+   "name": "EQUALITY-PATHWAYS TO POTENTIAL",
+   "cat": "CATERER",
+   "first": "2026-03-03",
+   "addr": "4901 CHOWEN AVE S",
+   "hood": "Fulton",
+   "lat": 44.91376,
+   "lon": -93.32459,
+   "sos": {
+    "entity": "eQuality - Pathways to Potential",
+    "type": "Nonprofit Corporation (Domestic)",
+    "filed": "04/28/1998",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=cd9b7894-b2d4-e011-a886-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "POOTER'S",
+   "cat": "FOOD TRUCK",
+   "first": "2026-03-26",
+   "addr": "1825 GLENWOOD AVE",
+   "hood": "Harrison",
+   "lat": 44.9805,
+   "lon": -93.30423,
+   "sos": null
+  },
+  {
+   "name": "EAST COAST FOODS MANAGEMENT CORP",
+   "cat": "CATERER",
+   "first": "2026-03-31",
+   "addr": "1200 WEST BROADWAY",
+   "hood": "Jordan",
+   "lat": 44.9994,
+   "lon": -93.29608,
+   "sos": null
+  },
+  {
+   "name": "CORNER MARKET & DELI INC",
+   "cat": "MEAT MARKET",
+   "first": "2026-04-03",
+   "addr": "628 LOWRY AVE N",
+   "hood": "Mckinley",
+   "lat": 45.01331,
+   "lon": -93.28772,
+   "sos": {
+    "entity": "Corner Market & Deli INC",
+    "type": "Business Corporation (Domestic)",
+    "filed": "2/8/2025",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=bbfe2d07-5ee6-ef11-908d-00155d32b947"
+   }
+  },
+  {
+   "name": "CITYGIRL CATERING LLC",
+   "cat": "CATERER",
+   "first": "2026-04-08",
+   "addr": "3722 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.93505,
+   "lon": -93.26289,
+   "sos": {
+    "entity": "City Girl Catering LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "5/12/2025",
+    "people": [
+     [
+      "Manager",
+      "Angela Ward"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=29e5b5c8-8a2f-f011-9091-00155d01c440"
+   }
+  },
+  {
+   "name": "SNACK IT VENDING LLC",
+   "cat": "GROCERY",
+   "first": "2026-04-09",
+   "addr": "533 3RD ST S",
+   "hood": "",
+   "lat": 0,
+   "lon": 0,
+   "sos": {
+    "entity": "Snackit Vending LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "4/8/2025",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=09c13762-8f14-f011-9090-00155d01c440"
+   }
+  },
+  {
+   "name": "E & R PETROLEUM INC",
+   "cat": "GROCERY",
+   "first": "2026-04-23",
+   "addr": "626 WEST BROADWAY",
+   "hood": "Hawthorne",
+   "lat": 44.99944,
+   "lon": -93.28755,
+   "sos": {
+    "entity": "E & R Petroleum LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "12/19/2025",
+    "people": [
+     [
+      "Manager",
+      "Edward Antoine Elias"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=cdb7ce4a-02dd-f011-909a-00155d01c440"
+   }
+  },
+  {
+   "name": "KHP IV MINNEAPOLIS TRS LLC",
+   "cat": "FOOD CART",
+   "first": "2026-04-20",
+   "addr": "215 4TH ST S",
+   "hood": "Downtown West",
+   "lat": 44.97817,
+   "lon": -93.26685,
+   "sos": {
+    "entity": "KHP IV Minneapolis TRS LLC",
+    "type": "Limited Liability Company (Foreign)",
+    "filed": "9/26/2017",
+    "people": [
+     [
+      "Manager",
+      "Judith C. Miles"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=9718bfd9-f7a2-e711-8184-00155d01c6c6"
+   }
+  },
+  {
+   "name": "HUNGRY WOLVES LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-05-03",
+   "addr": "208 29TH AVE N",
+   "hood": "Hawthorne",
+   "lat": 45.00971,
+   "lon": -93.28095,
+   "sos": {
+    "entity": "Hungry Wolves LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "1/29/2025",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=cb42977d-7cde-ef11-908d-00155d32b947"
+   }
+  },
+  {
+   "name": "QUATRO CARNES LLC CHILEAN CUSI",
+   "cat": "FOOD TRUCK",
+   "first": "2026-05-03",
+   "addr": "208 29TH AVE N",
+   "hood": "Hawthorne",
+   "lat": 45.00971,
+   "lon": -93.28095,
+   "sos": null
+  },
+  {
+   "name": "TACO TAXI",
+   "cat": "FOOD TRUCK",
+   "first": "2026-05-03",
+   "addr": "1511 LAKE ST E",
+   "hood": "Powderhorn Park",
+   "lat": 44.9481,
+   "lon": -93.25326,
+   "sos": {
+    "entity": "TACO TAXI INC.",
+    "type": "Business Corporation (Domestic)",
+    "filed": "04/24/2009",
+    "people": [
+     [
+      "Chief Executive Officer",
+      "HECTOR LOPEZ"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3088ead9-93d4-e011-a886-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "MODAXI MEATS & EATERY",
+   "cat": "MEAT MARKET",
+   "first": "2026-05-07",
+   "addr": "3747 NICOLLET AVE",
+   "hood": "King Field",
+   "lat": 44.93438,
+   "lon": -93.27748,
+   "sos": null
+  },
+  {
+   "name": "MODAXI MEATS & EATERY",
+   "cat": "GROCERY",
+   "first": "2026-05-07",
+   "addr": "3747 NICOLLET AVE",
+   "hood": "King Field",
+   "lat": 44.93438,
+   "lon": -93.27748,
+   "sos": null
+  },
+  {
+   "name": "BIG BELL ICE CREAM #348",
+   "cat": "LIMITED MOBILE",
+   "first": "2026-04-21",
+   "addr": "3218 SNELLING AVE",
+   "hood": "Longfellow",
+   "lat": 44.94383,
+   "lon": -93.23345,
+   "sos": null
+  },
+  {
+   "name": "CANTEEN-UPSCATWALKPICO",
+   "cat": "GROCERY",
+   "first": "2026-04-30",
+   "addr": "3312 BROADWAY ST NE",
+   "hood": "Mid - City Industrial",
+   "lat": 44.99805,
+   "lon": -93.21574,
+   "sos": null
+  },
+  {
+   "name": "BIG BELL BIKE CARTS",
+   "cat": "LIMITED MOBILE",
+   "first": "2026-04-21",
+   "addr": "3218 SNELLING AVE",
+   "hood": "Longfellow",
+   "lat": 44.94383,
+   "lon": -93.23345,
+   "sos": null
+  },
+  {
+   "name": "EL TACO RIENDO",
+   "cat": "FOOD TRUCK",
+   "first": "2026-05-16",
+   "addr": "2412 CENTRAL AVE NE",
+   "hood": "Holland",
+   "lat": 45.01267,
+   "lon": -93.24788,
+   "sos": {
+    "entity": "El Taco Riendo LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "05/05/2009",
+    "people": [
+     [
+      "Manager",
+      "MIGUEL GOMEZ"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=2a51d0f1-93d4-e011-a886-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "NORTHERN TIER RETAIL LLC",
+   "cat": "GROCERY",
+   "first": "2026-05-18",
+   "addr": "4001 LYNDALE AVE S",
+   "hood": "King Field",
+   "lat": 44.9302,
+   "lon": -93.28784,
+   "sos": {
+    "entity": "Northern Tier Retail LLC",
+    "type": "Limited Liability Company (Foreign)",
+    "filed": "07/07/2010",
+    "people": [
+     [
+      "Manager",
+      "Not Available"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=56b6612a-96d4-e011-a886-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "CANTEEN AT KEMPS SHIPPING",
+   "cat": "GROCERY",
+   "first": "2026-05-19",
+   "addr": "420 WEST BROADWAY",
+   "hood": "Hawthorne",
+   "lat": 44.99968,
+   "lon": -93.28645,
+   "sos": null
+  },
+  {
+   "name": "GARFIELD HOLDINGS LLC",
+   "cat": "LIMITED MOBILE",
+   "first": "2026-05-13",
+   "addr": "350 5TH ST S",
+   "hood": "Downtown West",
+   "lat": 44.97717,
+   "lon": -93.26517,
+   "sos": {
+    "entity": "Garfield Holdings, LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "04/15/2002",
+    "people": [
+     [
+      "Manager",
+      "John Kevin Bunkers"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=e18aa8ba-bad4-e011-a886-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "SUPERMARKET LATINO",
+   "cat": "GROCERY",
+   "first": "2026-05-21",
+   "addr": "624 LAKE ST E",
+   "hood": "Phillips West",
+   "lat": 44.94857,
+   "lon": -93.26603,
+   "sos": {
+    "entity": "Supermarket Latino LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "9/12/2025",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=38dc0925-0490-f011-9096-00155d01c440"
+   }
+  },
+  {
+   "name": "JB'S ITALIAN ICE LLC",
+   "cat": "LIMITED MOBILE",
+   "first": "2026-05-06",
+   "addr": null,
+   "hood": "",
+   "lat": 0,
+   "lon": 0,
+   "sos": {
+    "entity": "JB\u2019s Italian Ice LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "11/2/2020",
+    "people": [
+     [
+      "Manager",
+      "John B Licciardi, Jr"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=76cdf93c-711d-eb11-91a4-00155d32b905"
+   }
+  },
+  {
+   "name": "SADIE MAE'S COMFORT KITCHEN LLC",
+   "cat": "CATERER",
+   "first": "2026-05-27",
+   "addr": "2103 WEST BROADWAY",
+   "hood": "Willard - Hay",
+   "lat": 45.00302,
+   "lon": -93.30749,
+   "sos": {
+    "entity": "Sadie Mae's Comfort Kitchen LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "6/18/2021",
+    "people": [
+     [
+      "Manager",
+      "Mercedes Stevenson"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3dd595a4-60d0-eb11-9189-00155d01c40e"
+   }
+  },
+  {
+   "name": "SAKALLAH INC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-05-29",
+   "addr": "417 14TH AVE SE",
+   "hood": "Marcy Holmes",
+   "lat": 44.98119,
+   "lon": -93.2356,
+   "sos": {
+    "entity": "SAKALLAH Inc",
+    "type": "Business Corporation (Domestic)",
+    "filed": "02/12/2009",
+    "people": [
+     [
+      "Chief Executive Officer",
+      "Wael Sakallah"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=2204ab43-93d4-e011-a886-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "JIMMIE'S OLD SOUTHERN BBQ SMOKEHOUSE LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-06-18",
+   "addr": "4501 FRANCE AVE S",
+   "hood": "Linden Hills",
+   "lat": 44.92112,
+   "lon": -93.32874,
+   "sos": {
+    "entity": "Jimmie's Old Southern BBQ Smokehouse LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "4/22/2014",
+    "people": [
+     [
+      "Manager",
+      "Colleen E Anderson"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=df63c9f9-43ca-e311-a9cc-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "SIX12 ELITE EATS LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-06-18",
+   "addr": "528 HENNEPIN AVE",
+   "hood": "Downtown West",
+   "lat": 44.9794,
+   "lon": -93.27351,
+   "sos": {
+    "entity": "Six12 Elite EATS LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "7/30/2025",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=f94faa37-966d-f011-9094-00155d01c440"
+   }
+  },
+  {
+   "name": "CHILI LIME TRUCK LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-06-23",
+   "addr": "3722 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.93505,
+   "lon": -93.26289,
+   "sos": null
+  },
+  {
+   "name": "M SISTERS ICE CREAM LLC",
+   "cat": "LIMITED MOBILE",
+   "first": "2026-06-02",
+   "addr": "3218 SNELLING AVE",
+   "hood": "Longfellow",
+   "lat": 44.94383,
+   "lon": -93.23345,
+   "sos": {
+    "entity": "M Sisters Ice Cream LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "4/1/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=20931cf4-f42d-f111-909f-00155d01c440"
+   }
+  },
+  {
+   "name": "JAIME MICHAY",
+   "cat": "LIMITED MOBILE",
+   "first": "2026-06-10",
+   "addr": null,
+   "hood": "",
+   "lat": 0,
+   "lon": 0,
+   "sos": null
+  },
+  {
+   "name": "NY SQS LLC",
+   "cat": "GROCERY",
+   "first": "2026-06-26",
+   "addr": "331 11TH ST S",
+   "hood": "Downtown West",
+   "lat": 44.97049,
+   "lon": -93.27102,
+   "sos": {
+    "entity": "NY SQS LLC",
+    "type": "Limited Liability Company (Foreign)",
+    "filed": "1/9/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=eecf967e-6aed-f011-909a-00155d01c440"
+   }
+  },
+  {
+   "name": "ATUVAVA, LLC",
+   "cat": "GROCERY",
+   "first": "2026-06-18",
+   "addr": "3800 28TH AVE S",
+   "hood": "Standish",
+   "lat": 44.93395,
+   "lon": -93.23234,
+   "sos": {
+    "entity": "Atuvava LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "9/19/2022",
+    "people": [
+     [
+      "Manager",
+      "Alexandra Elisabeth Ellison"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=21907d29-4038-ed11-9063-00155d01c614"
+   }
+  },
+  {
+   "name": "NOPALLI REBELDE LLC",
+   "cat": "CATERER",
+   "first": "2026-06-30",
+   "addr": "3722 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.93505,
+   "lon": -93.26289,
+   "sos": null
+  },
+  {
+   "name": "9 YUM YUM, LLC",
+   "cat": "LIMITED MOBILE",
+   "first": "2026-06-15",
+   "addr": "3218 SNELLING AVE",
+   "hood": "Longfellow",
+   "lat": 44.94383,
+   "lon": -93.23345,
+   "sos": {
+    "entity": "9 Yum Yum LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "1/16/2019",
+    "people": [
+     [
+      "Manager",
+      "Scott Spizman"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=bb77a32c-bd19-e911-916a-00155d0deff0"
+   }
+  },
+  {
+   "name": "FANNI'S MINI MARKET 2 LLC",
+   "cat": "GROCERY",
+   "first": "2026-07-02",
+   "addr": "2223 CENTRAL AVE NE #2",
+   "hood": "Windom Park",
+   "lat": 45.01067,
+   "lon": -93.24683,
+   "sos": {
+    "entity": "Fanni's Mini Market 2 LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "3/9/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=a9ebf45d-d31b-f111-909e-00155d01c440"
+   }
+  },
+  {
+   "name": "COMPASS GROUP USA INC",
+   "cat": "GROCERY",
+   "first": "2026-06-23",
+   "addr": "3100 HENNEPIN AVE E",
+   "hood": "Como",
+   "lat": 44.99095,
+   "lon": -93.21006,
+   "sos": {
+    "entity": "COMPASS GROUP USA, INC.",
+    "type": "Business Corporation (Foreign)",
+    "filed": "01/04/1995",
+    "people": [
+     [
+      "Chief Executive Officer",
+      "Adrian Meredith"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3884c471-add4-e011-a886-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "EGGROLL QUEEN INC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-06-27",
+   "addr": "208 29TH AVE N",
+   "hood": "Hawthorne",
+   "lat": 45.00971,
+   "lon": -93.28095,
+   "sos": {
+    "entity": "Eggroll Queen, Inc.",
+    "type": "Business Corporation (Domestic)",
+    "filed": "11/12/2015",
+    "people": [
+     [
+      "Chief Executive Officer",
+      "Chai Xiong"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=197fd298-7689-e511-adff-001ec94ffe7f"
+   }
+  },
+  {
+   "name": "ABUNDANT CUISINE LLC",
+   "cat": "CATERER",
+   "first": "2026-07-13",
+   "addr": "1425 28TH ST W",
+   "hood": "East Isles",
+   "lat": 44.95117,
+   "lon": -93.30002,
+   "sos": {
+    "entity": "Abundant Cuisine LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "1/6/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=5721c87c-3ceb-f011-909a-00155d01c440"
+   }
+  },
+  {
+   "name": "QUE CHULA ES PUEBLA",
+   "cat": "FOOD TRUCK",
+   "first": "2026-07-22",
+   "addr": "1700 LAKE ST E",
+   "hood": "East Phillips",
+   "lat": 44.94865,
+   "lon": -93.2493,
+   "sos": {
+    "entity": "QUE CHULA ES PUEBLA, LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "5/16/2016",
+    "people": [
+     [
+      "Manager",
+      "Lorena Fernandez Gomez"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=500f6400-731b-e611-816a-00155d01c56d"
+   }
+  },
+  {
+   "name": "WEST LAKE GROCERY",
+   "cat": "GROCERY",
+   "first": "2026-07-30",
+   "addr": "120 LAKE ST W",
+   "hood": "Whittier",
+   "lat": 44.94864,
+   "lon": -93.28073,
+   "sos": {
+    "entity": "WEST LAKE GROCERY LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "2/5/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=9a93b935-ab02-f111-909c-00155d01c440"
+   }
+  },
+  {
+   "name": "WEST LAKE GROCERY",
+   "cat": "MEAT MARKET",
+   "first": "2026-07-30",
+   "addr": "120 LAKE ST W",
+   "hood": "Whittier",
+   "lat": 44.94864,
+   "lon": -93.28073,
+   "sos": {
+    "entity": "WEST LAKE GROCERY LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "2/5/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=9a93b935-ab02-f111-909c-00155d01c440"
+   }
+  },
+  {
+   "name": "THE SOTA FOUNTAIN LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-08-01",
+   "addr": "2608 BLAISDELL AVE",
+   "hood": "Whittier",
+   "lat": 44.95522,
+   "lon": -93.28013,
+   "sos": {
+    "entity": "The Sota Fountain LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "8/22/2024",
+    "people": [
+     [
+      "Manager",
+      "Laura Van Hofwegen"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=113f943c-9a60-ef11-9086-00155d01c440"
+   }
+  },
+  {
+   "name": "K EXPRESS KOREAN FOOD",
+   "cat": "FOOD TRUCK",
+   "first": "2026-08-08",
+   "addr": "2103 WEST BROADWAY",
+   "hood": "Willard - Hay",
+   "lat": 45.00302,
+   "lon": -93.30749,
+   "sos": {
+    "entity": "K-EXPRESS KOREAN FOOD LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "3/2/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=039024b7-5816-f111-909e-00155d01c440"
+   }
+  },
+  {
+   "name": "GOUDA'S SPOT LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-08-10",
+   "addr": "3731 CHICAGO AVE",
+   "hood": "Powderhorn Park",
+   "lat": 44.93506,
+   "lon": -93.26211,
+   "sos": {
+    "entity": "Gouda\u2019s Spot LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "5/28/2023",
+    "people": [
+     [
+      "Manager",
+      "Codarius Ratcliff"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=00a9ec85-29fd-ed11-9072-00155d01c440"
+   }
+  },
+  {
+   "name": "KARMEL MARKET - GROCERY",
+   "cat": "GROCERY",
+   "first": "2026-08-10",
+   "addr": "2937 PLEASANT AVE #100",
+   "hood": "Whittier",
+   "lat": 44.94933,
+   "lon": -93.28255,
+   "sos": null
+  },
+  {
+   "name": "KARMEL MARKET - MEAT MARKET",
+   "cat": "MEAT MARKET",
+   "first": "2026-08-10",
+   "addr": "2937 PLEASANT AVE #100",
+   "hood": "Whittier",
+   "lat": 44.94933,
+   "lon": -93.28255,
+   "sos": null
+  },
+  {
+   "name": "TOO COLD ICE CREAM AND MORE INC",
+   "cat": "LIMITED MOBILE",
+   "first": "2026-04-08",
+   "addr": "3218 SNELLING AVE",
+   "hood": "Longfellow",
+   "lat": 44.94383,
+   "lon": -93.23345,
+   "sos": {
+    "entity": "Too Cold Ice Cream & More Inc.",
+    "type": "Business Corporation (Domestic)",
+    "filed": "7/25/2024",
+    "people": [
+     [
+      "Chief Executive Officer",
+      "Jerome Jackson"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c83d23a9-9b4a-ef11-9085-00155d01c440"
+   }
+  },
+  {
+   "name": "HOUSE OF GRISTLE LLC",
+   "cat": "CATERER",
+   "first": "2026-08-13",
+   "addr": "2103 WEST BROADWAY",
+   "hood": "Willard - Hay",
+   "lat": 45.00302,
+   "lon": -93.30749,
+   "sos": {
+    "entity": "House of gristle LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "1/16/2019",
+    "people": [
+     [
+      "Manager",
+      "Jametta Raspberry"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=3d28cf05-d619-e911-916a-00155d0deff0"
+   }
+  },
+  {
+   "name": "PEOPLE'S CHOYCE BY SUGAR FREE LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-08-16",
+   "addr": "2041 WEST BROADWAY",
+   "hood": "Willard - Hay",
+   "lat": 45.00259,
+   "lon": -93.30721,
+   "sos": {
+    "entity": "Peoples Choyce by Sugar Free LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "3/11/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=426cf12b-901d-f111-909e-00155d01c440"
+   }
+  },
+  {
+   "name": "DREZ'S KITCHEN LLC.",
+   "cat": "CATERER",
+   "first": "2026-08-17",
+   "addr": "3722 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.93505,
+   "lon": -93.26289,
+   "sos": {
+    "entity": "Drez's Kitchen LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "11/18/2024",
+    "people": [
+     [
+      "Manager",
+      "Andrez Rush"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=5c924112-d2a5-ef11-908a-00155d32b947"
+   }
+  },
+  {
+   "name": "ANTOJITOS DONA LETY LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-08-27",
+   "addr": "3722 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.93505,
+   "lon": -93.26289,
+   "sos": null
+  },
+  {
+   "name": "MINNEAPOLIS TOBACCO AND VAPOR",
+   "cat": "GROCERY",
+   "first": "2026-09-03",
+   "addr": "4616 NICOLLET AVE",
+   "hood": "Tangletown",
+   "lat": 44.91883,
+   "lon": -93.27836,
+   "sos": {
+    "entity": "Minneapolis Tobacco and Vapor Inc.",
+    "type": "Business Corporation (Domestic)",
+    "filed": "9/26/2018",
+    "people": [
+     [
+      "Chief Executive Officer",
+      "Khader Safi"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=e2d33aa3-acc1-e811-9166-00155d0deff0"
+   }
+  },
+  {
+   "name": "FARE GAME 2",
+   "cat": "FOOD TRUCK",
+   "first": "2026-09-03",
+   "addr": "2900 JOHNSON ST NE",
+   "hood": "Audubon Park",
+   "lat": 45.02063,
+   "lon": -93.2374,
+   "sos": null
+  },
+  {
+   "name": "SOUTHSIDE HALAL MARKET LLC",
+   "cat": "GROCERY",
+   "first": "2026-09-03",
+   "addr": "3300 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.94301,
+   "lon": -93.263,
+   "sos": null
+  },
+  {
+   "name": "SOUTHSIDE HALAL MARKET LLC",
+   "cat": "MEAT MARKET",
+   "first": "2026-09-03",
+   "addr": "3300 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.94301,
+   "lon": -93.263,
+   "sos": null
+  },
+  {
+   "name": "EL RINCON ECUATORIANO",
+   "cat": "FOOD TRUCK",
+   "first": "2026-09-05",
+   "addr": "3722 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.93505,
+   "lon": -93.26289,
+   "sos": {
+    "entity": "El Rincon Ecuatoriano LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "10/14/2025",
+    "people": [
+     [
+      "Manager",
+      "Veronica E. Pinto Cunaluiza"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=880c40c0-23a9-f011-9096-00155d01c440"
+   }
+  },
+  {
+   "name": "ASADA DE MAMA LUCHA",
+   "cat": "FOOD TRUCK",
+   "first": "2026-09-05",
+   "addr": "3722 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.93505,
+   "lon": -93.26289,
+   "sos": {
+    "entity": "ASADA DE MAMA LUCHA LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "11/18/2025",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=faefdf17-a2c4-f011-9099-00155d01c440"
+   }
+  },
+  {
+   "name": "CAMDEN LIQUORS",
+   "cat": "GROCERY",
+   "first": "2026-09-09",
+   "addr": "4155 LYNDALE AVE N",
+   "hood": "Webber - Camden",
+   "lat": 45.03105,
+   "lon": -93.28847,
+   "sos": null
+  },
+  {
+   "name": "JESTER CONCESSIONS LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-09-10",
+   "addr": "730 WASHINGTON AVE N",
+   "hood": "North Loop",
+   "lat": 44.98875,
+   "lon": -93.2777,
+   "sos": {
+    "entity": "Jester Concessions LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "10/9/2017",
+    "people": [
+     [
+      "Manager",
+      "730 Washington LLC"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=5fdc9c82-05ad-e711-8187-00155d01c6c6"
+   }
+  },
+  {
+   "name": "HOT BOX BBQ LLC",
+   "cat": "FOOD TRUCK",
+   "first": "2026-09-12",
+   "addr": "1914 WASHINGTON AVE N",
+   "hood": "Near - North",
+   "lat": 44.99867,
+   "lon": -93.28137,
+   "sos": {
+    "entity": "HOT BOX BBQ LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "7/15/2024",
+    "people": [
+     [
+      "Manager",
+      "John Schmitz"
+     ]
+    ],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=81f55f24-b842-ef11-9085-00155d01c440"
+   }
+  },
+  {
+   "name": "HAND 2 MOUTH KITCHEN LLC",
+   "cat": "CATERER",
+   "first": "2026-09-17",
+   "addr": "3722 CHICAGO AVE",
+   "hood": "Central",
+   "lat": 44.93505,
+   "lon": -93.26289,
+   "sos": null
+  },
+  {
+   "name": "RTT EVENTS CATERING",
+   "cat": "CATERER",
+   "first": "2026-09-23",
+   "addr": "2041 WEST BROADWAY",
+   "hood": "Willard - Hay",
+   "lat": 45.00259,
+   "lon": -93.30721,
+   "sos": {
+    "entity": "RTT EVENTS Catering LLC",
+    "type": "Limited Liability Company (Domestic)",
+    "filed": "6/24/2026",
+    "people": [],
+    "url": "https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=033745e4-f16f-f111-90a6-00155d01c53c"
+   }
+  }
+ ]
+}
