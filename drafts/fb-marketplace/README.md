@@ -36,3 +36,9 @@ Groups that take service posts (all public unless noted, members · posts/day):
 
 ## 2026-10-10 kitchen-trade gifts (8 pages, drafts only)
 8 pages at brickandmortar.dev/for/<token>/ (tokens.csv), each framed for the seller's trade, rendered by pipeline/permits/fbm_render.py from permits + the city's new truck/caterer/grocery licences (fbm_pull.py). D&B: one message, sent via Steve DeRuyck's listing; Joel Hops skipped as the same business. Messages are in messages_restaurant.json. The coordinator session sends them; sent_at stays blank until it does.
+
+## Sent 2026-10-10 (main session, send_marketplace.js)
+13 of 13 delivered and visible in Marketplace inbox → Buying: 5 demolition (13:16–13:21), 8 restaurant (13:29–13:39; Joel Hops skipped as same business as D&B/Steve).
+Moises logged clicked_unverified by the script but the thread shows the full message at 13:29.
+**Replies:** Ben Hauling, 13:19 — "I I can definitely remove items out of each property".
+Photography groups: photo_groups_2026-10-10.md (3 join requests pending).
