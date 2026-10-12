@@ -17,6 +17,8 @@ from pathlib import Path
 TRACK = ('<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>'
          '<script defer src="/_vercel/insights/script.js"></script><script>'
          + (Path(__file__).resolve().parent.parent / "reader_events.js").read_text().strip() + '</script>')
+# The shared PostHog block (?me=1 opt-out, no headless capture): ~/.claude/skills/site-analytics/posthog_inject.py --print.
+TRACK = (Path(__file__).resolve().parent.parent / "posthog.html").read_text() + TRACK
 
 ROOT = Path(__file__).resolve().parents[2]
 SITE = ROOT / "site"

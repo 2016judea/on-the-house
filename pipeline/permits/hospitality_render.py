@@ -4,6 +4,8 @@ import pathlib as _pl
 # Persistent PostHog reader id + touch events for bricks /for/ pages (copy of
 # bricks/scripts/outreach/reader_events.js; marker bm-visitor-id is pinned by bricks' tests).
 _READER = "<script>" + (_pl.Path(__file__).resolve().parent.parent / "reader_events.js").read_text().strip() + "</script>"
+# The shared PostHog block (?me=1 opt-out, no headless capture): ~/.claude/skills/site-analytics/posthog_inject.py --print.
+_READER = (_pl.Path(__file__).resolve().parent.parent / "posthog.html").read_text() + _READER
 exec(open("render.py").read().split("# ---------------- Vineland")[0])
 T=open("template_links.html").read()
 OUT=sys.argv[1]
