@@ -21,6 +21,11 @@ for businesses whose next customer shows up there first. Hosted at unguessable
 | 10/06 SENT (Zoho msg 1791322417892138300, reply to his pitch) | BestlaTech (Ross, cold-pitched offshore engineers) | ross@getbeamtools.co | /for/27903e07/ | 142 independent software developers |
 | 10/17 DRAFT — NOT SENT | St. Paul dental lab (Craigslist, no name found; 651-370-6277) | text to 651-370-6277 | new-dentists.vercel.app/for/d9d852d7/ ($5 product, repo ~/Desktop/new-dentists) | 32 new Twin Cities dental practices + 68 dentists new to practice (NPPES, 12 mo to 10/11) |
 | 10/17 HELD — no product | MRD Consulting (Matt Daly, CPA, Delano; Craigslist) | mdalycpa@gmail.com | none | new-businesses list stopped at the SoS licence/price gate: ~/Desktop/new-mn-businesses/DATA_MODEL.md |
+| 10/17 DRAFT — NOT SENT (text) | Precision Painting Solutions (Tom Harer, Craigslist) | text 612-810-6064 | unit-turns-mpls.vercel.app/for/1e07fad5/ ($5 product) | 886 Mpls rental managers by units, 201 run 100+; 336 multifamily sales · `precision-painting-unit-turns.md` |
+| 10/17 DRAFT — HOLD (no contact) | St. Paul turnover crew (Craigslist, unnamed) | — (relay only) | unit-turns-mpls.vercel.app/for/801d2dd6/ ($5 product) | 766 St. Paul owners 10+ units, 61 St. Paul sales · `stpaul-turnover-crew.md` |
+| 10/17 DRAFT — NOT SENT | Summit Pro Cleaning LLC (Tara, Craigslist) | eckman0@gmail.com (her booking form's inbox) | opening-cleans.vercel.app/for/5c003de2/ ($5 product) | 149 commercial build-outs, 45 at final inspection, 30 offices/clinics/gyms/daycares/shops · `summit-pro-cleaning.md` |
+| 10/17 DRAFT — HOLD (no contact) | Connect3 Cleaning Co. (Brooklyn Park, Craigslist) | — (relay only) | opening-cleans.vercel.app/for/08688901/ ($5 product) | same list, sorted from Brooklyn Park · `connect3-cleaning.md` |
+| 10/17 DRAFT — NOT SENT (text) | Barton Led LLC (Craigslist) | text 651-508-6417 | busy-contractors.vercel.app/for/adef5102/ ($5 product) | 524 contractors, 2,776 open job addresses, DLI phone/email · `barton-led.md` |
 
 Replies (verbatim):
 
