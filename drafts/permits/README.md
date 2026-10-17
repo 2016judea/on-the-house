@@ -26,6 +26,9 @@ for businesses whose next customer shows up there first. Hosted at unguessable
 | 10/17 DRAFT — NOT SENT | Summit Pro Cleaning LLC (Tara, Craigslist) | eckman0@gmail.com (her booking form's inbox) | opening-cleans.vercel.app/for/5c003de2/ ($5 product) | 149 commercial build-outs, 45 at final inspection, 30 offices/clinics/gyms/daycares/shops · `summit-pro-cleaning.md` |
 | 10/17 DRAFT — HOLD (no contact) | Connect3 Cleaning Co. (Brooklyn Park, Craigslist) | — (relay only) | opening-cleans.vercel.app/for/08688901/ ($5 product) | same list, sorted from Brooklyn Park · `connect3-cleaning.md` |
 | 10/17 DRAFT — NOT SENT (text) | Barton Led LLC (Craigslist) | text 651-508-6417 | busy-contractors.vercel.app/for/adef5102/ ($5 product) | 524 contractors, 2,776 open job addresses, DLI phone/email · `barton-led.md` |
+| 10/17 DRAFT, not sent | Travis Glanzer Heating and Air (Craigslist 10/05; no email on his domain) | Craigslist reply or (612) 384-9087 | mpls-new-rentals.vercel.app/for/7b9cc2bf/ ($5 product) | 980 rentals licensed since Apr 1 or lapsed, 669 with no heating permit since 2016 |
+| 10/17 DRAFT, not sent | The Shortlist recruiting (Craigslist 9/23) | brad@connect5development.com | mpls-opening-soon.vercel.app/for/6dbf069b/ ($5 product) | 201 businesses about to open, 43 at final inspection or pending liquor |
+| 10/17 DRAFT, not sent | Limitless Protection Services (Craigslist 10/03; phone only) | (612) 267-2984 / Facebook message | mn-cannabis-openings.vercel.app/for/038b1acf/ ($5 product) | 211 metro cannabis businesses, 19 opening soon, 41 licensed in 90 days |
 
 Replies (verbatim):
 
