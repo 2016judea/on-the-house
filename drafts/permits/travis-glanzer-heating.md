@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+SENT 2026-10-17 15:21 SMS to +16123849087 (delivered; shortened SMS version of this draft)
 To: Travis Glanzer Heating and Air. No email on his own domain (travisglanzerheatingandair.net is an unfinished Wix template whose only address is the placeholder info@mysite.com). Routes: reply through his Craigslist post (https://www.craigslist.org/view/d/minneapolis-furnace-safety-check/u5NZ4rbpbz5buRP2243VDv), or phone (612) 384-9087 (his site, Yelp, a 2024 parish bulletin ad).
 From: aidan@brickandmortar.dev
 Subject: 669 Minneapolis rentals with no heating permit since 2016

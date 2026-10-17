@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+SENT 2026-10-17 15:20 SMS from Messages.app to +16128106064
 To: text 612-810-6064 (Tom Harer, Precision Painting Solutions; his post says "by phone or text". No email published.)
 Channel note: SMS from Aidan's phone. Hold for Aidan.
 Product: Unit Turns — https://unit-turns-mpls.vercel.app/for/1e07fad5/

@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+SENT 2026-10-17 15:20 SMS to +16515086417 (delivered)
 To: text 651-508-6417 (Barton Led LLC; number on its Nextdoor listing, found by search 2026-10-17. No email or website published; Facebook page facebook.com/p/Barton-Led-61573916038581/.)
 Channel note: SMS from Aidan's phone. Hold for Aidan.
 Product: Busy Contractors — https://busy-contractors.vercel.app/for/adef5102/

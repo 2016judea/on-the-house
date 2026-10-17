@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+SENT 2026-10-17 15:19 via Zoho (msg 1792268396719138400)
 To: brad@connect5development.com (the only address on theshortlist-recruiting.netlify.app, as its mailto link; phone 954-780-6264 on the same page and the Craigslist post)
 From: aidan@brickandmortar.dev
 Subject: 43 Minneapolis businesses at the last step before opening

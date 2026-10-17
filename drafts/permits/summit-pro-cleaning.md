@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+SENT 2026-10-17 15:23 via Zoho (msg 1792268518176155100)
 To: eckman0@gmail.com (the inbox the booking form on summit-pro-cleaning.com/contact posts to, read 2026-10-17; Tara also lists call/text 651-313-1135)
 Subject: 30 Minneapolis offices, clinics and gyms at final inspection
 Product: Opening Cleans — https://opening-cleans.vercel.app/for/5c003de2/

@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+SENT 2026-10-17 15:21 SMS to +16122672984 (delivered; shortened SMS version of this draft)
 To: Limitless Protection Services, LLC (owner Tarik H. per LinkedIn). No email found: no website; Facebook (facebook.com/LimitlessProtectionServices), Yelp, Alignable and Yellow Pages list only the phone (612) 267-2984 and PO Box 581435, Minneapolis 55458. Routes: text or call 612-267-2984, Facebook page message, or reply through the Craigslist post (https://www.craigslist.org/view/d/minneapolis-private-licensed-armed-or/qcu9wpLaqwGEjkPTG6RWZS).
 From: aidan@brickandmortar.dev
 Subject: 19 Twin Cities dispensaries about to open their doors

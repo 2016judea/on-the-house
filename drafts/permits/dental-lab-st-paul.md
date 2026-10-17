@@ -1,4 +1,4 @@
-# DRAFT — NOT SENT
+SENT 2026-10-17 15:20 SMS to +16513706277 (delivered)
 
 To: text to 651-370-6277 (the only contact the post prints; no name, no email, no business name found — the number appears nowhere else on the web or in NPPES)
 Channel: SMS. The post says "Text with a brief message and we will respond with in minutes."
