@@ -42,3 +42,5 @@ Traps hit: Minneapolis publishes no project value (fees only); `permitType='Comm
 includes condo units (filter occupancyType Comm/Mixed, dedupe per unit); business names
 parsed from permit text were wrong ("Levels", "ACW") so they were dropped; the MN cannabis
 office's license list sits behind a bot wall; Saint Paul's register stopped mid-2025.
+
+- **10/17 15:23 St. Paul dental lab (651-370-6277), SMS reply, 2 min after our text:** "Who are you and what are you looking for?" A question, not a no. It landed on Aidan's personal number, so Aidan answers it himself (distribution-channel rule 16).
