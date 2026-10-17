@@ -44,3 +44,4 @@ parsed from permit text were wrong ("Levels", "ACW") so they were dropped; the M
 office's license list sits behind a bot wall; Saint Paul's register stopped mid-2025.
 
 - **10/17 15:23 St. Paul dental lab (651-370-6277), SMS reply, 2 min after our text:** "Who are you and what are you looking for?" A question, not a no. It landed on Aidan's personal number, so Aidan answers it himself (distribution-channel rule 16).
+- **10/17 reply SENT by SMS on Aidan's explicit 'respond to them':** intro (who we are, not asking for anything, $5 if useful).
