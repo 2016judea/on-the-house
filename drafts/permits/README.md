@@ -19,6 +19,8 @@ for businesses whose next customer shows up there first. Hosted at unguessable
 | 10/06 SENT (Zoho msg 1791322413035138400, reply to her pitch) | Survhey (Sarah, cold-pitched us a survey tool) | s@letsglide.org | /for/f29f3317/ | 14 Twin Cities research shops (11 market research, 3 evaluation/policy) |
 | 10/06 SENT (Zoho msg 1791322415619155000, reply to her pitch) | Treforge (Cecelia, cold-pitched MVP/AI dev) | cecelia@mymygtmops.co | /for/a03643b5/ | 250 independent software + IT shops |
 | 10/06 SENT (Zoho msg 1791322417892138300, reply to his pitch) | BestlaTech (Ross, cold-pitched offshore engineers) | ross@getbeamtools.co | /for/27903e07/ | 142 independent software developers |
+| 10/17 DRAFT — NOT SENT | St. Paul dental lab (Craigslist, no name found; 651-370-6277) | text to 651-370-6277 | new-dentists.vercel.app/for/d9d852d7/ ($5 product, repo ~/Desktop/new-dentists) | 32 new Twin Cities dental practices + 68 dentists new to practice (NPPES, 12 mo to 10/11) |
+| 10/17 HELD — no product | MRD Consulting (Matt Daly, CPA, Delano; Craigslist) | mdalycpa@gmail.com | none | new-businesses list stopped at the SoS licence/price gate: ~/Desktop/new-mn-businesses/DATA_MODEL.md |
 
 Replies (verbatim):
 
