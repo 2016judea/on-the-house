@@ -25,6 +25,8 @@ name, it fails.
 | 4 | `pipeline/draft_email.py` | writes `drafts/<slug>.md` and the review page | $0 |
 | 5 | `pipeline/send.py` | Mailgun, `--dry-run` by default. Aidan reads and fires. | — |
 
+Tests: `.venv/bin/python -m pytest tests` (offline; the permit page renderer's script embed).
+
 `menu.json` is the priced list, seeded from the June 2026 servicing debrief.
 Anything that needs the owner's login is on the menu, never in the free work.
 

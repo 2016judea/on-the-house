@@ -84,7 +84,7 @@ h=T
 for k,v in {"__TITLE__":"Changing Hands, Opening Doors","__CSV__":CSVN,"__FONTS__":"family=Fraunces:opsz,wght@9..144,600&family=Inter+Tight:wght@400;500;600","__LIGHT__":LIGHT,"__DARK__":DARK,
   "__EYEBROW__":"Made for Blue Vector Bookkeeping · Minneapolis public records · updated Oct 5, 2026","__H1__":f"{len(rows)} Minneapolis restaurants and bars in the middle of a change",
   "__LEDE__":LEDE,"__SORTS__":SORTS,"__NOTE__":NOTE}.items(): h=h.replace(k,v)
-h=h.replace("__CFG__",cfg).replace("__ROWS__",json.dumps(rows,separators=(",",":")))
+h=h.replace("__CFG__",cfg).replace("__ROWS__",js_json(rows))
 head,body=h.split('<div class="wrap">',1)
 open(f"{OUT}/index.html","w").write(f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><script defer src="/_vercel/insights/script.js"></script>{_READER}{head}</head><body><div class="wrap">{body}</body></html>')
 with open(f"{OUT}/{CSVN}","w",newline="") as fh:

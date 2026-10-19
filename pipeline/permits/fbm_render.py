@@ -138,7 +138,7 @@ def build(slug, cfg):
         h = h.replace(k, v)
     h = h.replace('aria-label="Map of Minneapolis with each permit as a dot"', 'aria-label="Map of Minneapolis with each business as a dot"')
     keep = ["kind", "stage", "name", "street", "addr", "hood", "lat", "lon", "what", "latest", "by", "owner", "entity", "sosurl", "web", "phone", "maps", "permit", "mi", "src"]
-    h = h.replace("__CFG__", js).replace("__ROWS__", json.dumps([{k: r.get(k, "") for k in keep} for r in R], separators=(",", ":")))
+    h = h.replace("__CFG__", js).replace("__ROWS__", js_json([{k: r.get(k, "") for k in keep} for r in R]))
     head, body = h.split('<div class="wrap">', 1)
     tok = TOK.setdefault(slug, secrets.token_hex(4))
     out = f"{FOR}/{tok}"; os.makedirs(out, exist_ok=True)

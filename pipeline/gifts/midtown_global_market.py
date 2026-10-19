@@ -86,7 +86,7 @@ def main() -> None:
     page(SLUG, "Midtown Global Market — open now", body, strip=strip, css=CSS,
          extra_head="")
     out = ROOT / "site" / SLUG / "index.html"
-    out.write_text(out.read_text().replace("</body>", JS.replace("__DATA__", json.dumps(data)) + "</body>"))
+    out.write_text(out.read_text().replace("</body>", JS.replace("__DATA__", json.dumps(data).replace("</", "<\\/")) + "</body>"))
     save_plan(SLUG, {
         "slug": SLUG, "headline": "Visitors keep finding the vendors closed. We built a page that shows who's open right now.",
         "gift_path": f"/{SLUG}/",
