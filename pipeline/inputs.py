@@ -20,7 +20,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
-BRICKS = Path.home() / "Desktop/bricks"
+BRICKS = Path.home() / "Desktop/workspace/bricks"
 REPORTS = Path.home() / "Dropbox/AI Consulting/prospects/B&M"
 MAIL_LIST = BRICKS / "data/mail_list_with_emails.csv"
 REVIEWS = BRICKS / "data/outscraper_reviews.json"

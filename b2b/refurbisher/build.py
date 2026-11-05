@@ -5,7 +5,7 @@ on the page is read from the source file, never typed.
 sources:
   open_bids.json / sam_hits.json  SAM.gov public opportunity files (keyless bulk CSVs,
                                   pulled 2026-09-26) via open_bids.py and sam_scan.py
-  records.jsonl                   ~/Desktop/the-google-of-obsolete-infrastructure-parts
+  records.jsonl                   ~/Desktop/workspace/the-google-of-obsolete-infrastructure-parts
                                   (council and board agenda items, sole-source)
   twincities_layoff_notices.json  bricks, MN DEED WARN notices (site addresses read off
                                   each notice PDF where the layer had none; see WARN_SITE)
@@ -16,9 +16,9 @@ HERE = pathlib.Path(__file__).parent
 OB = {x["id"]: x for x in json.load(open(HERE / "open_bids.json"))}
 SH = {x["id"]: x for x in json.load(open(HERE / "sam_hits.json"))}
 IDX = {}
-for l in open(pathlib.Path.home() / "Desktop/the-google-of-obsolete-infrastructure-parts/data/records.jsonl"):
+for l in open(pathlib.Path.home() / "Desktop/workspace/the-google-of-obsolete-infrastructure-parts/data/records.jsonl"):
     r = json.loads(l); IDX[r["id"]] = r
-WARN = json.load(open(pathlib.Path.home() / "Desktop/bricks/website/api/_data/twincities_layoff_notices.json"))["rows"]
+WARN = json.load(open(pathlib.Path.home() / "Desktop/workspace/bricks/website/api/_data/twincities_layoff_notices.json"))["rows"]
 
 OPEN = ["fbfe9a5988f74472bfe1b60bdf813908", "5c1f340589964e4fbdbd52627389ea26"]         # due this week
 NEXT = ["1e0e535d26ff42f6b0ea2359cecfeaf7", "84be6fa7cb0f42419dcfa75c4a76abc4", "aff7868ee48c4dd2a925b3b554bc15c4"]

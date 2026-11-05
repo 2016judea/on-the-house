@@ -10,7 +10,7 @@ def q(svc, where, fields="*", order=None):
         if not d.get("exceededTransferLimit") or not fs: break
         off+=len(fs)
     return out
-rows=list(csv.DictReader(open("/Users/aidan/Desktop/bricks/website/for/d9143508/restaurants-opening.csv")))
+rows=list(csv.DictReader(open("/Users/aidan/Desktop/workspace/bricks/website/for/d9143508/restaurants-opening.csv")))
 pn=[r["Permit #"] for r in rows]
 perm=q("CCS_Permits","permitNumber IN (%s)"%",".join(f"'{x}'" for x in pn),"permitNumber,APN,Display,Latitude,Longitude,applicantName,milestone,status")
 bypn={p["permitNumber"]:p for p in perm}

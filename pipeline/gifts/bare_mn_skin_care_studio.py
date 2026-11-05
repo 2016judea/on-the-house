@@ -19,7 +19,7 @@ SLUG = "bare-mn-skin-care-studio"
 
 def main() -> None:
     from pathlib import Path
-    places = json.load(open(Path.home() / "Desktop/bricks/data/outscraper_reviews.json"))
+    places = json.load(open(Path.home() / "Desktop/workspace/bricks/data/outscraper_reviews.json"))
     p = next(x for x in places if x["name"].startswith("Bare MN"))
     rs = p["reviews_data"]
 

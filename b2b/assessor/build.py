@@ -15,7 +15,7 @@ import duckdb, html, json, pathlib, re, statistics as st, sys, datetime as dt
 tc = lambda s: re.sub(r"(\d)(St|Nd|Rd|Th)\b", lambda m: m.group(1) + m.group(2).lower(), (s or "").title())
 
 HERE = pathlib.Path(__file__).parent
-BR = pathlib.Path.home() / "Desktop/bricks"
+BR = pathlib.Path.home() / "Desktop/workspace/bricks"
 sys.path.insert(0, str(BR / "scripts"))
 from commercial_ratio_study import family
 

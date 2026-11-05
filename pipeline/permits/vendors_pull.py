@@ -1,6 +1,6 @@
 # Gifts back to vendors who pitched us (10/06): their likely Twin Cities buyers, from the Overture business layer.
 import json,re,subprocess,concurrent.futures as cf
-d=json.load(open('/Users/aidan/Desktop/bricks/website/api/_data/twincities_businesses.json'))
+d=json.load(open('/Users/aidan/Desktop/workspace/bricks/website/api/_data/twincities_businesses.json'))
 I={k:i for i,k in enumerate(d['cols'])}
 R=[dict(zip(d['cols'],r)) for r in d['rows']]
 SURV={"Modern Survey","Ascendancy Research","SMS Research Advisors","Cook Research & Consulting","Consumer Surveys","Deft Research","Focus Market Research","Insightformation","Comprehensive Research Group","REAL Insight","Leede Research-MN","Watson Research","ANA Research / Anderson, Niebuhr & Associates, Inc.","Mcneff Research Consultants","Rainbow Research Inc","Applied Policy Research Inc","Minnesota Justice Research Center"}

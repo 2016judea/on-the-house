@@ -10,7 +10,7 @@ import datetime as dt, html, json, pathlib, re
 
 HERE = pathlib.Path(__file__).parent
 LENDER = "Falcon National Bank"
-LOANS = pathlib.Path.home() / "Desktop/bricks/website/api/_data/twincities_sba_loans.json"
+LOANS = pathlib.Path.home() / "Desktop/workspace/bricks/website/api/_data/twincities_sba_loans.json"
 from sos_lookup import norm
 
 layer = json.load(open(LOANS))

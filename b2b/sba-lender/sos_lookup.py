@@ -11,7 +11,7 @@ import hashlib, html, json, re, sys, time, urllib.parse, pathlib, subprocess
 
 HERE = pathlib.Path(__file__).parent
 CACHE = HERE / "cache" / "sos"; CACHE.mkdir(parents=True, exist_ok=True)
-LOANS = pathlib.Path.home() / "Desktop/bricks/website/api/_data/twincities_sba_loans.json"
+LOANS = pathlib.Path.home() / "Desktop/workspace/bricks/website/api/_data/twincities_sba_loans.json"
 BASE = "https://mblsportal.sos.mn.gov"
 LIVE = ("EXEMPT", "COMMIT")  # SBA FOIA: EXEMPT = outstanding, COMMIT = approved, undisbursed
 

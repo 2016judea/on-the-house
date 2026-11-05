@@ -68,7 +68,7 @@ for f in J["food"]:
     k=key(f["FullAddress"])
     if k in E and f["FacilityCategory"]=="INSTITUTION" and not E[k]["names"] and not E[k]["liq"]: E[k]["inst"]=True
 # --- 4 Google Places Text Search, cached
-KEY=[l.split("=",1)[1].strip().strip('"') for l in open(os.path.expanduser("~/Desktop/bricks/.env")) if l.startswith("GOOGLE_PLACES_API_KEY")][0]
+KEY=[l.split("=",1)[1].strip().strip('"') for l in open(os.path.expanduser("~/Desktop/workspace/bricks/.env")) if l.startswith("GOOGLE_PLACES_API_KEY")][0]
 GC=json.load(open("hosp_google.json")) if os.path.exists("hosp_google.json") else {}
 F="places.displayName,places.formattedAddress,places.websiteUri,places.nationalPhoneNumber,places.businessStatus,places.userRatingCount,places.googleMapsUri,places.primaryType"
 def gsearch(text):

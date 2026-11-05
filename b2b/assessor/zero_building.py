@@ -4,7 +4,7 @@ Overture Maps (release 2026-08-19) places an operating business inside the lot.
 Public owners and non-business categories are dropped: an exempt city hall on a
 land-only parcel is not a finding."""
 import duckdb, json, pathlib, re
-DB = pathlib.Path.home() / "Desktop/bricks/data/closed_system.duckdb"
+DB = pathlib.Path.home() / "Desktop/workspace/bricks/data/closed_system.duckdb"
 V = "county_hennepin_2026_08"
 SELF = ('BLOOMINGTON','BROOKLYN PARK','EDEN PRAIRIE','EDINA','MINNEAPOLIS','MINNETONKA','ST LOUIS PARK','MAPLE GROVE','')
 PUBLIC = re.compile(r"\b(CITY|VILLAGE|COUNTY|STATE OF|U S |USA|GOVT|COMMISSION|AUTH|EDA|HRA|SCHOOL|DIST|CHURCH|CH$|METH|LUTH|CATH|PARK|WATERSHED|MET COUNCIL|RAILROAD|RY CO|UNIV)\b")
